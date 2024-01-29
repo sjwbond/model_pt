@@ -1,0 +1,8 @@
+Object_Name	Object_Type
+ITNO	Node
+ITCN	Node
+ITCS	Node
+ITSO	Node
+ITSI	Node
+ITSA	Node
+CH	Node

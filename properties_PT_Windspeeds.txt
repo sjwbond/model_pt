@@ -1,0 +1,7 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+PT Onshore 626 39.5 -8.75 80M Windspeed			value	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 80M HHxWSc+HHc+WSc	windspeed_constant	Add					
+PT Onshore 626 39.5 -8.75 80M HHxWS			value	2010-01-01	2100-01-01	80	PT Onshore 626 39.5 -8.75 Base Wind Speed	Multiply					
+PT Onshore 626 39.5 -8.75 80M HHxWSc			value	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 80M HHxWS	height_x_windspeed_coefficient	Multiply					
+PT Onshore 626 39.5 -8.75 80M HHc			value	2010-01-01	2100-01-01	80	height_coefficient	Multiply					
+PT Onshore 626 39.5 -8.75 80M HHxWSc+HHc			value	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 80M HHxWSc	PT Onshore 626 39.5 -8.75 80M HHc	Add					
+PT Onshore 626 39.5 -8.75 80M HHxWSc+HHc+WSc			value	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 80M HHxWSc+HHc	PT Onshore 626 39.5 -8.75 WSc	Add					

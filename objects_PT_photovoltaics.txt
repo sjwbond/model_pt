@@ -1,0 +1,9 @@
+Object_Name	Object_Type
+PT PVSAT 449 38.5 -8.125 Generator	Generator
+PT PVSAT 449 38.5 -8.125 Capacity Factor	Variable
+PT PVSAT 449 38.5 -8.125 File	DataSource
+PT PVSAT 449 38.5 -8.125 TS	DBTimeSeries
+PT PVSAT 805 40.5 -8.125 Generator	Generator
+PT PVSAT 805 40.5 -8.125 Capacity Factor	Variable
+PT PVSAT 805 40.5 -8.125 File	DataSource
+PT PVSAT 805 40.5 -8.125 TS	DBTimeSeries

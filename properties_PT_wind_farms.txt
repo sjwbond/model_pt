@@ -1,0 +1,8 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+PT PT Onshore 626 39.5 -8.75			Capacity	2013-01-01	2033-01-01	10							
+PT PT Onshore 626 39.5 -8.75			Variable Cost	2010-01-01	2100-01-01	2.331							
+PT PT Onshore 626 39.5 -8.75			Save Data	2010-01-01	2100-01-01	1							
+PT PT Onshore 626 39.5 -8.75			Save Blocks	2010-01-01	2100-01-01	0							
+PT PT Onshore 626 39.5 -8.75			Bid Up Price	2013-01-01	2033-01-01	-45							
+PT PT Onshore 626 39.5 -8.75			Bid Up Price	2033-01-01	2100-01-01	0							
+PT PT Onshore 626 39.5 -8.75			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 80M Windspeed	NWST Offshore Wind Power Curve	Lookup					

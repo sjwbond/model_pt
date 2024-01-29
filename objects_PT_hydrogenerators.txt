@@ -1,0 +1,26 @@
+Object_Name	Object_Type
+PT PT_PP_Aguieira	Hydro_Generator
+PT PT_PP_Alqueva I	Hydro_Generator
+PT PT_PP_Alqueva II	Hydro_Generator
+PT PT_PP_Alto Lindoso	Hydro_Generator
+PT PT_PP_Alto Rabagao	Hydro_Generator
+PT PT_PP_Baixo Sabor	Hydro_Generator
+PT PT_PP_Bouca	Hydro_Generator
+PT PT_PP_Cabril	Hydro_Generator
+PT PT_PP_Caldeirao	Hydro_Generator
+PT PT_PP_Canicada	Hydro_Generator
+PT PT_PP_Castelo de Bode	Hydro_Generator
+PT PT_PP_Frades	Hydro_Generator
+PT PT_PP_Pracana	Hydro_Generator
+PT PT_PP_Raiva	Hydro_Generator
+PT PT_PP_Sabugeiro I	Hydro_Generator
+PT PT_PP_Salamonde	Hydro_Generator
+PT PT_PP_Salamonde II	Hydro_Generator
+PT PT_PP_Santa Luzia	Hydro_Generator
+PT PT_PP_Tabuaco	Hydro_Generator
+PT PT_PP_Torrao	Hydro_Generator
+PT PT_PP_Touvedo	Hydro_Generator
+PT PT_PP_Varosa	Hydro_Generator
+PT PT_PP_Venda Nova II	Hydro_Generator
+PT PT_PP_Vilarinho Fumas	Hydro_Generator
+PT PT_PP_VNovaParadela	Hydro_Generator

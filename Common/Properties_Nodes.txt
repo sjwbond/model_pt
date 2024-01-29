@@ -1,0 +1,95 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+ES-PT	ES	PT	Capacity	2010-01-01	2100-01-01	4000							
+PT-ES	PT	ES	Capacity	2010-01-01	2100-01-01	4000							
+ES CCGT Generators			Save Blocks	2010-01-01	2100-01-01	0							
+ES Hard Coal Generators			Save Blocks	2010-01-01	2100-01-01	0							
+ES Nuclear Generators			Save Blocks	2010-01-01	2100-01-01	0							
+ES Gas Generators			Save Blocks	2010-01-01	2100-01-01	0							
+PT CCGT Generators			Save Blocks	2010-01-01	2100-01-01	0							
+PT Hard Coal Generators			Save Blocks	2010-01-01	2100-01-01	0							
+PT Nuclear Generators			Save Blocks	2010-01-01	2100-01-01	0							
+PT Gas Generators			Save Blocks	2010-01-01	2100-01-01	0							
+FR CCGT Generators			Save Blocks	2010-01-01	2100-01-01	0							
+FR Hard Coal Generators			Save Blocks	2010-01-01	2100-01-01	0							
+FR Nuclear Generators			Save Blocks	2010-01-01	2100-01-01	0							
+FR Gas Generators			Save Blocks	2010-01-01	2100-01-01	0							
+FR Onshore Generators			Save Blocks	2010-01-01	2100-01-01	0							
+ES Onshore Generators			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore Generators			Save Blocks	2010-01-01	2100-01-01	0							
+FR Solar Generators			Save Blocks	2010-01-01	2100-01-01	0							
+ES Solar Generators			Save Blocks	2010-01-01	2100-01-01	0							
+PT Solar Generators			Save Blocks	2010-01-01	2100-01-01	0							
+DE CCGT Generators			Save Blocks	2010-01-01	2100-01-01	0							
+DE Hard Coal Generators			Save Blocks	2010-01-01	2100-01-01	0							
+DE Nuclear Generators			Save Blocks	2010-01-01	2100-01-01	0							
+DE Gas Generators			Save Blocks	2010-01-01	2100-01-01	0							
+DE Onshore Generators			Save Blocks	2010-01-01	2100-01-01	0							
+DE Solar Generators			Save Blocks	2010-01-01	2100-01-01	0							
+UK CCGT Generators			Save Blocks	2010-01-01	2100-01-01	0							
+UK Hard Coal Generators			Save Blocks	2010-01-01	2100-01-01	0							
+UK Nuclear Generators			Save Blocks	2010-01-01	2100-01-01	0							
+UK Gas Generators			Save Blocks	2010-01-01	2100-01-01	0							
+UK Onshore Generators			Save Blocks	2010-01-01	2100-01-01	0							
+UK Solar Generators			Save Blocks	2010-01-01	2100-01-01	0							
+ES-PT			Line_Loss	2010-01-01	2100-01-01	0.2							
+PT-ES			Line_Loss	2010-01-01	2100-01-01	0.2							
+ES-FR	ES	FR	Capacity	2010-01-01	2100-01-01	3000	NonCoopMarket	Multiply					
+FR-ES	FR	ES	Capacity	2010-01-01	2100-01-01	4000	NonCoopMarket	Multiply					
+ES-FR			Line_Loss	2010-01-01	2100-01-01	0.03							
+FR-ES			Line_Loss	2010-01-01	2100-01-01	0.03							
+BE-FR	BE	FR	Capacity	2010-01-01	2100-01-01	3000							
+FR-BE	FR	BE	Capacity	2010-01-01	2100-01-01	3000							
+BE-FR			Line_Loss	2010-01-01	2100-01-01	0.03							
+FR-BE			Line_Loss	2010-01-01	2100-01-01	0.03							
+DE-FR	DE	FR	Capacity	2010-01-01	2100-01-01	7000							
+FR-DE	FR	DE	Capacity	2010-01-01	2100-01-01	7000							
+DE-FR			Line_Loss	2010-01-01	2100-01-01	0.03							
+FR-DE			Line_Loss	2010-01-01	2100-01-01	0.03							
+DE-NL	DE	NL	Capacity	2010-01-01	2100-01-01	4500							
+NL-DE	NL	DE	Capacity	2010-01-01	2100-01-01	4500							
+DE-NL			Line_Loss	2010-01-01	2100-01-01	0.03							
+NL-DE			Line_Loss	2010-01-01	2100-01-01	0.03							
+BE-NL	BE	NL	Capacity	2010-01-01	2100-01-01	3000							
+NL-BE	NL	BE	Capacity	2010-01-01	2100-01-01	3000							
+BE-NL			Line_Loss	2010-01-01	2100-01-01	0.03							
+NL-BE			Line_Loss	2010-01-01	2100-01-01	0.03							
+UK-NL	UK	NL	Capacity	2010-01-01	2100-01-01	1500	NonCoopMarket	Multiply					
+NL-UK	NL	UK	Capacity	2010-01-01	2100-01-01	1500	NonCoopMarket	Multiply					
+UK-NL			Line_Loss	2010-01-01	2100-01-01	0.03							
+NL-UK			Line_Loss	2010-01-01	2100-01-01	0.03							
+BE-UK	BE	UK	Capacity	2010-01-01	2100-01-01	1500	NonCoopMarket	Multiply					
+UK-BE	UK	BE	Capacity	2010-01-01	2100-01-01	1500	NonCoopMarket	Multiply					
+BE-UK			Line_Loss	2010-01-01	2100-01-01	0.03							
+UK-BE			Line_Loss	2010-01-01	2100-01-01	0.03							
+FR-UK	FR	UK	Capacity	2010-01-01	2100-01-01	4000	NonCoopMarket	Multiply					
+UK-FR	UK	FR	Capacity	2010-01-01	2100-01-01	3000	NonCoopMarket	Multiply					
+FR-UK			Line_Loss	2010-01-01	2100-01-01	0.03							
+UK-FR			Line_Loss	2010-01-01	2100-01-01	0.03							
+DE-FR	DE	FR	Capacity	2030-01-01	2100-01-01	10000							
+FR-DE	FR	DE	Capacity	2030-01-01	2100-01-01	10000							
+DE-FR	DE	FR	Capacity	2035-01-01	2100-01-01	14000							
+FR-DE	FR	DE	Capacity	2035-01-01	2100-01-01	14000							
+BE-DE	BE	DE	Capacity	2010-01-01	2100-01-01	1500							
+DE-BE	DE	BE	Capacity	2010-01-01	2100-01-01	1500							
+DE-CH	DE	CH	Capacity	2010-01-01	2100-01-01	600	NonCoopMarket	Multiply					
+CH-DE	CH	DE	Capacity	2010-01-01	2100-01-01	600	NonCoopMarket	Multiply					
+CH-FR	CH	FR	Capacity	2010-01-01	2100-01-01	1000	NonCoopMarket	Multiply					
+FR-CH	FR	CH	Capacity	2010-01-01	2100-01-01	1000	NonCoopMarket	Multiply					
+DE-CH	DE	CH	Capacity	2035-01-01	2100-01-01	1200	NonCoopMarket	Multiply					
+CH-DE	CH	DE	Capacity	2035-01-01	2100-01-01	1200	NonCoopMarket	Multiply					
+CH-FR	CH	FR	Capacity	2035-01-01	2100-01-01	2000	NonCoopMarket	Multiply					
+FR-CH	FR	CH	Capacity	2035-01-01	2100-01-01	2000	NonCoopMarket	Multiply					
+DE-CH	DE	CH	Line_Loss	2010-01-01	2100-01-01	0.03							
+CH-DE	CH	DE	Line_Loss	2010-01-01	2100-01-01	0.03							
+CH-FR	CH	FR	Line_Loss	2010-01-01	2100-01-01	0.03							
+FR-CH	FR	CH	Line_Loss	2010-01-01	2100-01-01	0.03							
+DE-CH	DE	CH	Line_Loss	2010-01-01	2100-01-01	0.03							
+CH-DE	CH	DE	Line_Loss	2010-01-01	2100-01-01	0.03							
+CH-FR	CH	FR	Line_Loss	2010-01-01	2100-01-01	0.03							
+FR-CH	FR	CH	Line_Loss	2010-01-01	2100-01-01	0.03							
+BE-DE	BE	DE	Line_Loss	2010-01-01	2100-01-01	0.03							
+DE-BE	DE	BE	Line_Loss	2010-01-01	2100-01-01	0.03							
+DE-PL	DE	PL	Capacity	2010-01-01	2100-01-01	3000	NonCoopMarket	Multiply					
+PL-DE	PL	DE	Capacity	2010-01-01	2100-01-01	3000	NonCoopMarket	Multiply					
+DE-PL			Line_Loss	2010-01-01	2100-01-01	0.03							
+PL-DE			Line_Loss	2010-01-01	2100-01-01	0.03							

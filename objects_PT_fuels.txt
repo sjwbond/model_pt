@@ -1,0 +1,38 @@
+Object_Name	Object_Type
+PT Station Coal	Fuel
+PT Station Coal Base	Variable
+PT Station Coal Price	Variable
+PT Station Coal Delivery Adjustment	Variable
+PT Station Coal Stochastic	Variable
+PT Station Coal Stochastic File	DataSource
+PT Station Gas	Fuel
+PT Station Gas Base	Variable
+PT Station Gas Price	Variable
+PT Station Gas Delivery Adjustment	Variable
+PT Station Gas Stochastic	Variable
+PT Station Gas Stochastic File	DataSource
+PT Station Biomass	Fuel
+PT Station Biomass Base	Variable
+PT Station Biomass Price	Variable
+PT Station Biomass Delivery Adjustment	Variable
+PT Station Biomass Stochastic	Variable
+PT Station Biomass Stochastic File	DataSource
+PT Station Lignite	Fuel
+PT Station Lignite Base	Variable
+PT Station Lignite Price	Variable
+PT Station Lignite Delivery Adjustment	Variable
+PT Station Lignite Stochastic	Variable
+PT Station Lignite Stochastic File	DataSource
+PT Station Uranium	Fuel
+PT Station Uranium Base	Variable
+PT Station Uranium Price	Variable
+PT Station Uranium Delivery Adjustment	Variable
+PT Station Uranium Stochastic	Variable
+PT Station Uranium Stochastic File	DataSource
+PT Station LSFO	Fuel
+PT Station LSFO Base	Variable
+PT Station LSFO Price	Variable
+PT Station LSFO Delivery Adjustment	Variable
+PT Station LSFO Stochastic	Variable
+PT Station LSFO Stochastic File	DataSource
+PT GH2	Fuel

@@ -1,0 +1,159 @@
+Object_Name	Parent_Object
+PT Offshore 892 41.0 -9.375 100M Generator NWST	PT Offshore Generators
+PT Offshore 892 41.0 -9.375 130M Generator NWST	PT Offshore Generators
+PT Offshore 892 41.0 -9.375 160M Generator NWST	PT Offshore Generators
+PT Offshore 892 41.0 -9.375 100M Generator NWST	PT
+PT Offshore 892 41.0 -9.375 130M Generator NWST	PT
+PT Offshore 892 41.0 -9.375 160M Generator NWST	PT
+PT Offshore 893 41.0 -8.75 100M Generator LWST	PT Offshore Generators
+PT Offshore 893 41.0 -8.75 100M Generator LWST	PT
+PT Offshore 893 41.0 -8.75 100M Generator NWST	PT Offshore Generators
+PT Offshore 893 41.0 -8.75 100M Generator NWST	PT
+PT Offshore 893 41.0 -8.75 100M Generator HWST	PT Offshore Generators
+PT Offshore 893 41.0 -8.75 100M Generator HWST	PT
+PT Offshore 893 41.0 -8.75 130M Generator LWST	PT Offshore Generators
+PT Offshore 893 41.0 -8.75 130M Generator LWST	PT
+PT Offshore 893 41.0 -8.75 130M Generator NWST	PT Offshore Generators
+PT Offshore 893 41.0 -8.75 130M Generator NWST	PT
+PT Offshore 893 41.0 -8.75 130M Generator HWST	PT Offshore Generators
+PT Offshore 893 41.0 -8.75 130M Generator HWST	PT
+PT Offshore 893 41.0 -8.75 160M Generator LWST	PT Offshore Generators
+PT Offshore 893 41.0 -8.75 160M Generator LWST	PT
+PT Offshore 893 41.0 -8.75 160M Generator NWST	PT Offshore Generators
+PT Offshore 893 41.0 -8.75 160M Generator NWST	PT
+PT Offshore 893 41.0 -8.75 160M Generator HWST	PT Offshore Generators
+PT Offshore 893 41.0 -8.75 160M Generator HWST	PT
+PT Offshore 93 36.5 -8.125 100M Generator LWST	PT Offshore Generators
+PT Offshore 93 36.5 -8.125 100M Generator LWST	PT
+PT Offshore 93 36.5 -8.125 100M Generator NWST	PT Offshore Generators
+PT Offshore 93 36.5 -8.125 100M Generator NWST	PT
+PT Offshore 93 36.5 -8.125 100M Generator HWST	PT Offshore Generators
+PT Offshore 93 36.5 -8.125 100M Generator HWST	PT
+PT Offshore 93 36.5 -8.125 130M Generator LWST	PT Offshore Generators
+PT Offshore 93 36.5 -8.125 130M Generator LWST	PT
+PT Offshore 93 36.5 -8.125 130M Generator NWST	PT Offshore Generators
+PT Offshore 93 36.5 -8.125 130M Generator NWST	PT
+PT Offshore 93 36.5 -8.125 130M Generator HWST	PT Offshore Generators
+PT Offshore 93 36.5 -8.125 130M Generator HWST	PT
+PT Offshore 93 36.5 -8.125 160M Generator LWST	PT Offshore Generators
+PT Offshore 93 36.5 -8.125 160M Generator LWST	PT
+PT Offshore 93 36.5 -8.125 160M Generator NWST	PT Offshore Generators
+PT Offshore 93 36.5 -8.125 160M Generator NWST	PT
+PT Offshore 93 36.5 -8.125 160M Generator HWST	PT Offshore Generators
+PT Offshore 93 36.5 -8.125 160M Generator HWST	PT
+ca_db_wind	PT Offshore 893 41.0 -8.75 TS
+ca_db_wind	PT Offshore 93 36.5 -8.125 TS
+PT Onshore 361 38.0 -7.5 70M Generator LWST	PT
+PT Onshore 361 38.0 -7.5 70M Generator NWST	PT
+PT Onshore 361 38.0 -7.5 70M Generator HWST	PT
+PT Onshore 361 38.0 -7.5 85M Generator LWST	PT
+PT Onshore 361 38.0 -7.5 85M Generator NWST	PT
+PT Onshore 361 38.0 -7.5 85M Generator HWST	PT
+PT Onshore 361 38.0 -7.5 100M Generator LWST	PT
+PT Onshore 361 38.0 -7.5 100M Generator NWST	PT
+PT Onshore 361 38.0 -7.5 100M Generator HWST	PT
+PT Onshore 626 39.5 -8.75 70M Generator LWST	PT
+PT Onshore 626 39.5 -8.75 70M Generator NWST	PT
+PT Onshore 626 39.5 -8.75 70M Generator HWST	PT
+PT Onshore 626 39.5 -8.75 85M Generator LWST	PT
+PT Onshore 626 39.5 -8.75 85M Generator NWST	PT
+PT Onshore 626 39.5 -8.75 85M Generator HWST	PT
+PT Onshore 626 39.5 -8.75 100M Generator LWST	PT
+PT Onshore 626 39.5 -8.75 100M Generator NWST	PT
+PT Onshore 626 39.5 -8.75 100M Generator HWST	PT
+PT Onshore 805 40.5 -8.125 70M Generator LWST	PT
+PT Onshore 805 40.5 -8.125 70M Generator NWST	PT
+PT Onshore 805 40.5 -8.125 70M Generator HWST	PT
+PT Onshore 805 40.5 -8.125 85M Generator LWST	PT
+PT Onshore 805 40.5 -8.125 85M Generator NWST	PT
+PT Onshore 805 40.5 -8.125 85M Generator HWST	PT
+PT Onshore 805 40.5 -8.125 100M Generator LWST	PT
+PT Onshore 805 40.5 -8.125 100M Generator NWST	PT
+PT Onshore 805 40.5 -8.125 100M Generator HWST	PT
+PT Onshore 895 41.0 -7.5 70M Generator LWST	PT
+PT Onshore 895 41.0 -7.5 70M Generator NWST	PT
+PT Onshore 895 41.0 -7.5 70M Generator HWST	PT
+PT Onshore 895 41.0 -7.5 85M Generator LWST	PT
+PT Onshore 895 41.0 -7.5 85M Generator NWST	PT
+PT Onshore 895 41.0 -7.5 85M Generator HWST	PT
+PT Onshore 895 41.0 -7.5 100M Generator LWST	PT
+PT Onshore 895 41.0 -7.5 100M Generator NWST	PT
+PT Onshore 895 41.0 -7.5 100M Generator HWST	PT
+PT Onshore 983 41.5 -8.125 70M Generator LWST	PT
+PT Onshore 983 41.5 -8.125 70M Generator NWST	PT
+PT Onshore 983 41.5 -8.125 70M Generator HWST	PT
+PT Onshore 983 41.5 -8.125 85M Generator LWST	PT
+PT Onshore 983 41.5 -8.125 85M Generator NWST	PT
+PT Onshore 983 41.5 -8.125 85M Generator HWST	PT
+PT Onshore 983 41.5 -8.125 100M Generator LWST	PT
+PT Onshore 983 41.5 -8.125 100M Generator NWST	PT
+PT Onshore 983 41.5 -8.125 100M Generator HWST	PT
+PT Onshore 984 41.5 -7.5 70M Generator LWST	PT
+PT Onshore 984 41.5 -7.5 70M Generator NWST	PT
+PT Onshore 984 41.5 -7.5 70M Generator HWST	PT
+PT Onshore 984 41.5 -7.5 85M Generator LWST	PT
+PT Onshore 984 41.5 -7.5 85M Generator NWST	PT
+PT Onshore 984 41.5 -7.5 85M Generator HWST	PT
+PT Onshore 984 41.5 -7.5 100M Generator LWST	PT
+PT Onshore 984 41.5 -7.5 100M Generator NWST	PT
+PT Onshore 984 41.5 -7.5 100M Generator HWST	PT
+PT Onshore 361 38.0 -7.5 70M Generator LWST	PT Onshore Generators
+PT Onshore 361 38.0 -7.5 70M Generator NWST	PT Onshore Generators
+PT Onshore 361 38.0 -7.5 70M Generator HWST	PT Onshore Generators
+PT Onshore 361 38.0 -7.5 85M Generator LWST	PT Onshore Generators
+PT Onshore 361 38.0 -7.5 85M Generator NWST	PT Onshore Generators
+PT Onshore 361 38.0 -7.5 85M Generator HWST	PT Onshore Generators
+PT Onshore 361 38.0 -7.5 100M Generator LWST	PT Onshore Generators
+PT Onshore 361 38.0 -7.5 100M Generator NWST	PT Onshore Generators
+PT Onshore 361 38.0 -7.5 100M Generator HWST	PT Onshore Generators
+PT Onshore 626 39.5 -8.75 70M Generator LWST	PT Onshore Generators
+PT Onshore 626 39.5 -8.75 70M Generator NWST	PT Onshore Generators
+PT Onshore 626 39.5 -8.75 70M Generator HWST	PT Onshore Generators
+PT Onshore 626 39.5 -8.75 85M Generator LWST	PT Onshore Generators
+PT Onshore 626 39.5 -8.75 85M Generator NWST	PT Onshore Generators
+PT Onshore 626 39.5 -8.75 85M Generator HWST	PT Onshore Generators
+PT Onshore 626 39.5 -8.75 100M Generator LWST	PT Onshore Generators
+PT Onshore 626 39.5 -8.75 100M Generator NWST	PT Onshore Generators
+PT Onshore 626 39.5 -8.75 100M Generator HWST	PT Onshore Generators
+PT Onshore 805 40.5 -8.125 70M Generator LWST	PT Onshore Generators
+PT Onshore 805 40.5 -8.125 70M Generator NWST	PT Onshore Generators
+PT Onshore 805 40.5 -8.125 70M Generator HWST	PT Onshore Generators
+PT Onshore 805 40.5 -8.125 85M Generator LWST	PT Onshore Generators
+PT Onshore 805 40.5 -8.125 85M Generator NWST	PT Onshore Generators
+PT Onshore 805 40.5 -8.125 85M Generator HWST	PT Onshore Generators
+PT Onshore 805 40.5 -8.125 100M Generator LWST	PT Onshore Generators
+PT Onshore 805 40.5 -8.125 100M Generator NWST	PT Onshore Generators
+PT Onshore 805 40.5 -8.125 100M Generator HWST	PT Onshore Generators
+PT Onshore 895 41.0 -7.5 70M Generator LWST	PT Onshore Generators
+PT Onshore 895 41.0 -7.5 70M Generator NWST	PT Onshore Generators
+PT Onshore 895 41.0 -7.5 70M Generator HWST	PT Onshore Generators
+PT Onshore 895 41.0 -7.5 85M Generator LWST	PT Onshore Generators
+PT Onshore 895 41.0 -7.5 85M Generator NWST	PT Onshore Generators
+PT Onshore 895 41.0 -7.5 85M Generator HWST	PT Onshore Generators
+PT Onshore 895 41.0 -7.5 100M Generator LWST	PT Onshore Generators
+PT Onshore 895 41.0 -7.5 100M Generator NWST	PT Onshore Generators
+PT Onshore 895 41.0 -7.5 100M Generator HWST	PT Onshore Generators
+PT Onshore 983 41.5 -8.125 70M Generator LWST	PT Onshore Generators
+PT Onshore 983 41.5 -8.125 70M Generator NWST	PT Onshore Generators
+PT Onshore 983 41.5 -8.125 70M Generator HWST	PT Onshore Generators
+PT Onshore 983 41.5 -8.125 85M Generator LWST	PT Onshore Generators
+PT Onshore 983 41.5 -8.125 85M Generator NWST	PT Onshore Generators
+PT Onshore 983 41.5 -8.125 85M Generator HWST	PT Onshore Generators
+PT Onshore 983 41.5 -8.125 100M Generator LWST	PT Onshore Generators
+PT Onshore 983 41.5 -8.125 100M Generator NWST	PT Onshore Generators
+PT Onshore 983 41.5 -8.125 100M Generator HWST	PT Onshore Generators
+PT Onshore 984 41.5 -7.5 70M Generator LWST	PT Onshore Generators
+PT Onshore 984 41.5 -7.5 70M Generator NWST	PT Onshore Generators
+PT Onshore 984 41.5 -7.5 70M Generator HWST	PT Onshore Generators
+PT Onshore 984 41.5 -7.5 85M Generator LWST	PT Onshore Generators
+PT Onshore 984 41.5 -7.5 85M Generator NWST	PT Onshore Generators
+PT Onshore 984 41.5 -7.5 85M Generator HWST	PT Onshore Generators
+PT Onshore 984 41.5 -7.5 100M Generator LWST	PT Onshore Generators
+PT Onshore 984 41.5 -7.5 100M Generator NWST	PT Onshore Generators
+PT Onshore 984 41.5 -7.5 100M Generator HWST	PT Onshore Generators
+ca_db_wind	PT Onshore 361 38.0 -7.5 TS
+ca_db_wind	PT Onshore 626 39.5 -8.75 TS
+ca_db_wind	PT Onshore 805 40.5 -8.125 TS
+ca_db_wind	PT Onshore 895 41.0 -7.5 TS
+ca_db_wind	PT Onshore 983 41.5 -8.125 TS
+ca_db_wind	PT Onshore 984 41.5 -7.5 TS

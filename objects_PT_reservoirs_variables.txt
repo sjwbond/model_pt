@@ -1,0 +1,5 @@
+Object_Name	Object_Type
+PT Onshore 627 39.5 -8.125 130M Generator HWST CRF	Variable
+PT Onshore 627 39.5 -8.125 130M Generator HWST CRF File	DataSource
+DE Normal Inflow Profile	Variable
+DE Normal Inflow Profile File	DataSource

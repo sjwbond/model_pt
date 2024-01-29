@@ -1,0 +1,1274 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+PT Biomass 1990			Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+PT Biomass 1995			Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+PT Biomass 2000			Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+PT Biomass 2005			Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+PT Biomass 2010			Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+PT Biomass 2015			Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+PT Biomass 2020			Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+PT Biomass 2025			Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+PT Biomass 2030			Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+PT Biomass 2035			Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+PT Biomass 2040			Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+PT Biomass 2045			Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+PT Biomass 2050			Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+PT Biomass 2055			Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+PT Biomass 2060			Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+PT Biomass 2065			Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+PT CCGT 1990			Bid Up Heat Rate	1990-01-01	2040-01-01	3.896226415							
+PT CCGT 1995			Bid Up Heat Rate	1995-01-01	2045-01-01	3.5							
+PT CCGT 2000			Bid Up Heat Rate	2000-01-01	2050-01-01	3							
+PT CCGT 2005			Bid Up Heat Rate	2005-01-01	2055-01-01	2.5							
+PT CCGT 2010			Bid Up Heat Rate	2010-01-01	2060-01-01	2							
+PT CCGT 2015			Bid Up Heat Rate	2015-01-01	2065-01-01	1.5							
+PT CCGT 2020			Bid Up Heat Rate	2020-01-01	2070-01-01	1							
+PT CCGT 2025			Bid Up Heat Rate	2025-01-01	2075-01-01	0.9							
+PT CCGT 2030			Bid Up Heat Rate	2030-01-01	2080-01-01	0.8							
+PT CCGT 2031			Bid Up Heat Rate	2031-01-01	2081-01-01	0.7							
+PT CCGT 2032			Bid Up Heat Rate	2032-01-01	2082-01-01	0.6							
+PT CCGT 2033			Bid Up Heat Rate	2033-01-01	2083-01-01	0.5							
+PT CCGT 2034			Bid Up Heat Rate	2034-01-01	2084-01-01	0.4							
+PT CCGT 2035			Bid Up Heat Rate	2035-01-01	2085-01-01	0.3							
+PT CCGT 2036			Bid Up Heat Rate	2036-01-01	2086-01-01	0.2							
+PT CCGT 2037			Bid Up Heat Rate	2037-01-01	2087-01-01	0.1							
+PT CCGT 2038			Bid Up Heat Rate	2038-01-01	2088-01-01	0							
+PT CCGT 2039			Bid Up Heat Rate	2039-01-01	2089-01-01	0							
+PT CCGT 2040			Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+PT CCGT 2045			Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+PT CCGT 2050			Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+PT CCGT 2055			Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+PT CCGT 2060			Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+PT CCGT 2065			Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+PT CHP 1990			Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+PT CHP 1995			Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+PT CHP 2000			Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+PT CHP 2005			Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+PT CHP 2010			Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+PT CHP 2015			Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+PT CHP 2020			Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+PT CHP 2025			Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+PT CHP 2030			Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+PT CHP 2035			Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+PT CHP 2040			Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+PT CHP 2045			Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+PT CHP 2050			Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+PT CHP 2055			Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+PT CHP 2060			Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+PT CHP 2065			Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+PT Coal 1990			Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+PT Coal 1995			Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+PT Coal 2000			Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+PT Coal 2005			Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+PT Coal 2010			Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+PT Coal 2015			Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+PT Coal 2020			Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+PT Coal 2025			Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+PT Coal 2030			Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+PT Coal 2035			Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+PT Coal 2040			Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+PT Coal 2045			Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+PT Coal 2050			Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+PT Coal 2055			Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+PT Coal 2060			Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+PT Coal 2065			Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+PT Lares I Power Station 			Bid Up Heat Rate	2009-01-01	2100-01-01	1							
+PT Lares II Power Station 			Bid Up Heat Rate	2009-01-01	2100-01-01	5							
+PT Lignite 1990			Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+PT Lignite 1995			Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+PT Lignite 2000			Bid Up Heat Rate	2000-01-01	2031-01-01	0							
+PT Lignite 2005			Bid Up Heat Rate	2005-01-01	2038-01-01	0							
+PT Lignite 2010			Bid Up Heat Rate	2010-01-01	2038-01-01	0							
+PT Lignite 2015			Bid Up Heat Rate	2015-01-01	2038-01-01	0							
+PT Lignite 2020			Bid Up Heat Rate	2020-01-01	2039-01-01	0							
+PT Lignite 2025			Bid Up Heat Rate	2025-01-01	2039-01-01	0							
+PT Lignite 2030			Bid Up Heat Rate	2030-01-01	2040-01-01	0							
+PT Lignite 2035			Bid Up Heat Rate	2035-01-01	2040-01-01	0							
+PT Lignite 2040			Bid Up Heat Rate	2040-01-01	2040-01-01	0							
+PT Lignite 2045			Bid Up Heat Rate	2045-01-01	2040-01-01	0							
+PT Lignite 2050			Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+PT Lignite 2055			Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+PT Lignite 2060			Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+PT Lignite 2065			Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+PT Liquid 1990			Bid Up Heat Rate	1990-01-01	2040-01-01	10.22727273							
+PT Liquid 1995			Bid Up Heat Rate	1995-01-01	2045-01-01	10.16949153							
+PT Liquid 2000			Bid Up Heat Rate	2000-01-01	2050-01-01	10.11235955							
+PT Liquid 2005			Bid Up Heat Rate	2005-01-01	2055-01-01	10.05586592							
+PT Liquid 2010			Bid Up Heat Rate	2010-01-01	2060-01-01	3							
+PT Liquid 2015			Bid Up Heat Rate	2015-01-01	2065-01-01	2							
+PT Liquid 2020			Bid Up Heat Rate	2020-01-01	2070-01-01	1							
+PT Liquid 2025			Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+PT Liquid 2030			Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+PT Liquid 2035			Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+PT Liquid 2040			Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+PT Liquid 2045			Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+PT Liquid 2050			Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+PT Liquid 2055			Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+PT Liquid 2060			Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+PT Liquid 2065			Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+PT Nuclear 1990			Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+PT Nuclear 1995			Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+PT Nuclear 2000			Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+PT Nuclear 2005			Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+PT Nuclear 2010			Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+PT Nuclear 2015			Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+PT Nuclear 2020			Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+PT OCGT 1990			Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+PT OCGT 1995			Bid Up Heat Rate	1995-01-01	2045-01-01	15							
+PT OCGT 2000			Bid Up Heat Rate	2000-01-01	2050-01-01	15							
+PT OCGT 2005			Bid Up Heat Rate	2005-01-01	2055-01-01	15							
+PT OCGT 2010			Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+PT OCGT 2015			Bid Up Heat Rate	2015-01-01	2065-01-01	9							
+PT OCGT 2020			Bid Up Heat Rate	2020-01-01	2070-01-01	6							
+PT OCGT 2025			Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+PT OCGT 2030			Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+PT OCGT 2035			Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+PT OCGT 2040			Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+PT OCGT 2045			Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+PT OCGT 2050			Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+PT OCGT 2055			Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+PT OCGT 2060			Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+PT OCGT 2065			Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+PT Pego I Power Station 			Bid Up Heat Rate	1993-01-01	2100-01-01	3.5							
+PT Pego II Power Station 			Bid Up Heat Rate	2010-01-01	2100-01-01	4							
+PT Pego III Power Station 			Bid Up Heat Rate	2010-01-01	2100-01-01	2							
+PT Ribatejo Power Station I			Bid Up Heat Rate	2005-01-01	2100-01-01	1							
+PT Ribatejo Power Station II			Bid Up Heat Rate	2005-01-01	2100-01-01	0.5							
+PT Sines Power Station 			Bid Up Heat Rate	1985-01-01	2100-01-01	3							
+PT Tapado do Outeiro I			Bid Up Heat Rate	1999-01-01	2100-01-01	0							
+PT Tapado do Outeiro II			Bid Up Heat Rate	1999-01-01	2100-01-01	-1							
+PT Tunes Power Station 			Bid Up Heat Rate	1973-01-01	2100-01-01	0							
+PT_H2_CCGT			Bid Up Heat Rate	2009-01-01	2100-01-01	0							
+PT_H2_OCGT			Bid Up Heat Rate	2009-01-01	2100-01-01	0							
+PT Biomass 1990			Bid Up Price	1990-01-01	2040-01-01	0							
+PT Biomass 1995			Bid Up Price	1995-01-01	2045-01-01	0							
+PT Biomass 2000			Bid Up Price	2000-01-01	2050-01-01	0							
+PT Biomass 2005			Bid Up Price	2005-01-01	2055-01-01	0							
+PT Biomass 2010			Bid Up Price	2010-01-01	2060-01-01	0							
+PT Biomass 2015			Bid Up Price	2015-01-01	2065-01-01	0							
+PT Biomass 2020			Bid Up Price	2020-01-01	2070-01-01	0							
+PT Biomass 2025			Bid Up Price	2025-01-01	2075-01-01	0							
+PT Biomass 2030			Bid Up Price	2030-01-01	2080-01-01	0							
+PT Biomass 2035			Bid Up Price	2035-01-01	2085-01-01	0							
+PT Biomass 2040			Bid Up Price	2040-01-01	2090-01-01	0							
+PT Biomass 2045			Bid Up Price	2045-01-01	2095-01-01	0							
+PT Biomass 2050			Bid Up Price	2050-01-01	2100-01-01	0							
+PT Biomass 2055			Bid Up Price	2055-01-01	2105-01-01	0							
+PT Biomass 2060			Bid Up Price	2060-01-01	2110-01-01	0							
+PT Biomass 2065			Bid Up Price	2065-01-01	2115-01-01	0							
+PT CCGT 1990			Bid Up Price	1990-01-01	2040-01-01	0							
+PT CCGT 1995			Bid Up Price	1995-01-01	2045-01-01	0							
+PT CCGT 2000			Bid Up Price	2000-01-01	2050-01-01	0							
+PT CCGT 2005			Bid Up Price	2005-01-01	2055-01-01	0							
+PT CCGT 2010			Bid Up Price	2010-01-01	2060-01-01	0							
+PT CCGT 2015			Bid Up Price	2015-01-01	2065-01-01	0							
+PT CCGT 2020			Bid Up Price	2020-01-01	2070-01-01	0							
+PT CCGT 2025			Bid Up Price	2025-01-01	2075-01-01	0							
+PT CCGT 2030			Bid Up Price	2030-01-01	2080-01-01	0							
+PT CCGT 2031			Bid Up Price	2031-01-01	2081-01-01	0							
+PT CCGT 2032			Bid Up Price	2032-01-01	2082-01-01	0							
+PT CCGT 2033			Bid Up Price	2033-01-01	2083-01-01	0							
+PT CCGT 2034			Bid Up Price	2034-01-01	2084-01-01	0							
+PT CCGT 2035			Bid Up Price	2035-01-01	2085-01-01	0							
+PT CCGT 2036			Bid Up Price	2036-01-01	2086-01-01	0							
+PT CCGT 2037			Bid Up Price	2037-01-01	2087-01-01	0							
+PT CCGT 2038			Bid Up Price	2038-01-01	2088-01-01	0							
+PT CCGT 2039			Bid Up Price	2039-01-01	2089-01-01	0							
+PT CCGT 2040			Bid Up Price	2040-01-01	2090-01-01	0							
+PT CCGT 2045			Bid Up Price	2045-01-01	2095-01-01	0							
+PT CCGT 2050			Bid Up Price	2050-01-01	2100-01-01	0							
+PT CCGT 2055			Bid Up Price	2055-01-01	2105-01-01	0							
+PT CCGT 2060			Bid Up Price	2060-01-01	2110-01-01	0							
+PT CCGT 2065			Bid Up Price	2065-01-01	2115-01-01	0							
+PT CHP 1990			Bid Up Price	1990-01-01	2040-01-01	0							
+PT CHP 1995			Bid Up Price	1995-01-01	2045-01-01	0							
+PT CHP 2000			Bid Up Price	2000-01-01	2050-01-01	0							
+PT CHP 2005			Bid Up Price	2005-01-01	2055-01-01	0							
+PT CHP 2010			Bid Up Price	2010-01-01	2060-01-01	0							
+PT CHP 2015			Bid Up Price	2015-01-01	2065-01-01	0							
+PT CHP 2020			Bid Up Price	2020-01-01	2070-01-01	0							
+PT CHP 2025			Bid Up Price	2025-01-01	2075-01-01	0							
+PT CHP 2030			Bid Up Price	2030-01-01	2080-01-01	0							
+PT CHP 2035			Bid Up Price	2035-01-01	2085-01-01	0							
+PT CHP 2040			Bid Up Price	2040-01-01	2090-01-01	0							
+PT CHP 2045			Bid Up Price	2045-01-01	2095-01-01	0							
+PT CHP 2050			Bid Up Price	2050-01-01	2100-01-01	0							
+PT CHP 2055			Bid Up Price	2055-01-01	2105-01-01	0							
+PT CHP 2060			Bid Up Price	2060-01-01	2110-01-01	0							
+PT CHP 2065			Bid Up Price	2065-01-01	2115-01-01	0							
+PT Coal 1990			Bid Up Price	1990-01-01	2040-01-01	0							
+PT Coal 1995			Bid Up Price	1995-01-01	2045-01-01	0							
+PT Coal 2000			Bid Up Price	2000-01-01	2050-01-01	0							
+PT Coal 2005			Bid Up Price	2005-01-01	2055-01-01	0							
+PT Coal 2010			Bid Up Price	2010-01-01	2060-01-01	0							
+PT Coal 2015			Bid Up Price	2015-01-01	2065-01-01	0							
+PT Coal 2020			Bid Up Price	2020-01-01	2070-01-01	0							
+PT Coal 2025			Bid Up Price	2025-01-01	2075-01-01	0							
+PT Coal 2030			Bid Up Price	2030-01-01	2080-01-01	0							
+PT Coal 2035			Bid Up Price	2035-01-01	2085-01-01	0							
+PT Coal 2040			Bid Up Price	2040-01-01	2090-01-01	0							
+PT Coal 2045			Bid Up Price	2045-01-01	2095-01-01	0							
+PT Coal 2050			Bid Up Price	2050-01-01	2100-01-01	0							
+PT Coal 2055			Bid Up Price	2055-01-01	2105-01-01	0							
+PT Coal 2060			Bid Up Price	2060-01-01	2110-01-01	0							
+PT Coal 2065			Bid Up Price	2065-01-01	2115-01-01	0							
+PT Lares I Power Station 			Bid Up Price	2009-01-01	2100-01-01	0							
+PT Lares II Power Station 			Bid Up Price	2009-01-01	2100-01-01	0							
+PT Lignite 1990			Bid Up Price	1990-01-01	2040-01-01	0							
+PT Lignite 1995			Bid Up Price	1995-01-01	2045-01-01	0							
+PT Lignite 2000			Bid Up Price	2000-01-01	2031-01-01	0							
+PT Lignite 2005			Bid Up Price	2005-01-01	2038-01-01	0							
+PT Lignite 2010			Bid Up Price	2010-01-01	2038-01-01	0							
+PT Lignite 2015			Bid Up Price	2015-01-01	2038-01-01	0							
+PT Lignite 2020			Bid Up Price	2020-01-01	2039-01-01	0							
+PT Lignite 2025			Bid Up Price	2025-01-01	2039-01-01	0							
+PT Lignite 2030			Bid Up Price	2030-01-01	2040-01-01	0							
+PT Lignite 2035			Bid Up Price	2035-01-01	2040-01-01	0							
+PT Lignite 2040			Bid Up Price	2040-01-01	2040-01-01	0							
+PT Lignite 2045			Bid Up Price	2045-01-01	2040-01-01	0							
+PT Lignite 2050			Bid Up Price	2050-01-01	2100-01-01	0							
+PT Lignite 2055			Bid Up Price	2055-01-01	2105-01-01	0							
+PT Lignite 2060			Bid Up Price	2060-01-01	2110-01-01	0							
+PT Lignite 2065			Bid Up Price	2065-01-01	2115-01-01	0							
+PT Liquid 1990			Bid Up Price	1990-01-01	2040-01-01	0							
+PT Liquid 1995			Bid Up Price	1995-01-01	2045-01-01	0							
+PT Liquid 2000			Bid Up Price	2000-01-01	2050-01-01	0							
+PT Liquid 2005			Bid Up Price	2005-01-01	2055-01-01	0							
+PT Liquid 2010			Bid Up Price	2010-01-01	2060-01-01	0							
+PT Liquid 2015			Bid Up Price	2015-01-01	2065-01-01	0							
+PT Liquid 2020			Bid Up Price	2020-01-01	2070-01-01	0							
+PT Liquid 2025			Bid Up Price	2025-01-01	2075-01-01	0							
+PT Liquid 2030			Bid Up Price	2030-01-01	2080-01-01	0							
+PT Liquid 2035			Bid Up Price	2035-01-01	2085-01-01	0							
+PT Liquid 2040			Bid Up Price	2040-01-01	2090-01-01	0							
+PT Liquid 2045			Bid Up Price	2045-01-01	2095-01-01	0							
+PT Liquid 2050			Bid Up Price	2050-01-01	2100-01-01	0							
+PT Liquid 2055			Bid Up Price	2055-01-01	2105-01-01	0							
+PT Liquid 2060			Bid Up Price	2060-01-01	2110-01-01	0							
+PT Liquid 2065			Bid Up Price	2065-01-01	2115-01-01	0							
+PT Nuclear 1990			Bid Up Price	1990-01-01	2040-01-01	0							
+PT Nuclear 1995			Bid Up Price	1995-01-01	2045-01-01	0							
+PT Nuclear 2000			Bid Up Price	2000-01-01	2050-01-01	0							
+PT Nuclear 2005			Bid Up Price	2005-01-01	2055-01-01	0							
+PT Nuclear 2010			Bid Up Price	2010-01-01	2060-01-01	0							
+PT Nuclear 2015			Bid Up Price	2015-01-01	2065-01-01	0							
+PT Nuclear 2020			Bid Up Price	2020-01-01	2070-01-01	0							
+PT OCGT 1990			Bid Up Price	1990-01-01	2040-01-01	3.333333333							
+PT OCGT 1995			Bid Up Price	1995-01-01	2045-01-01	0							
+PT OCGT 2000			Bid Up Price	2000-01-01	2050-01-01	3.296703297							
+PT OCGT 2005			Bid Up Price	2005-01-01	2055-01-01	0							
+PT OCGT 2010			Bid Up Price	2010-01-01	2060-01-01	0							
+PT OCGT 2015			Bid Up Price	2015-01-01	2065-01-01	0							
+PT OCGT 2020			Bid Up Price	2020-01-01	2070-01-01	0							
+PT OCGT 2025			Bid Up Price	2025-01-01	2075-01-01	0							
+PT OCGT 2030			Bid Up Price	2030-01-01	2080-01-01	0							
+PT OCGT 2035			Bid Up Price	2035-01-01	2085-01-01	0							
+PT OCGT 2040			Bid Up Price	2040-01-01	2090-01-01	0							
+PT OCGT 2045			Bid Up Price	2045-01-01	2095-01-01	0							
+PT OCGT 2050			Bid Up Price	2050-01-01	2100-01-01	0							
+PT OCGT 2055			Bid Up Price	2055-01-01	2105-01-01	0							
+PT OCGT 2060			Bid Up Price	2060-01-01	2110-01-01	0							
+PT OCGT 2065			Bid Up Price	2065-01-01	2115-01-01	0							
+PT Pego I Power Station 			Bid Up Price	1993-01-01	2100-01-01	0							
+PT Pego II Power Station 			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Pego III Power Station 			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Ribatejo Power Station I			Bid Up Price	2005-01-01	2100-01-01	0							
+PT Ribatejo Power Station II			Bid Up Price	2005-01-01	2100-01-01	0							
+PT Sines Power Station 			Bid Up Price	1985-01-01	2100-01-01	0							
+PT Tapado do Outeiro I			Bid Up Price	1999-01-01	2100-01-01	0							
+PT Tapado do Outeiro II			Bid Up Price	1999-01-01	2100-01-01	0							
+PT Tunes Power Station 			Bid Up Price	1973-01-01	2100-01-01	0							
+PT_H2_CCGT			Bid Up Price	2009-01-01	2100-01-01	0							
+PT_H2_OCGT			Bid Up Price	2009-01-01	2100-01-01	0							
+PT Biomass 1990			Capacity	1990-01-01	2040-01-01	500	PT Availability Biomass	Multiply					
+PT Biomass 1995			Capacity	1995-01-01	2045-01-01	0	PT Availability Biomass	Multiply					
+PT Biomass 2000			Capacity	2000-01-01	2050-01-01	0	PT Availability Biomass	Multiply					
+PT Biomass 2005			Capacity	2005-01-01	2055-01-01	0	PT Availability Biomass	Multiply					
+PT Biomass 2010			Capacity	2010-01-01	2060-01-01	0	PT Availability Biomass	Multiply					
+PT Biomass 2015			Capacity	2015-01-01	2065-01-01	0	PT Availability Biomass	Multiply					
+PT Biomass 2020			Capacity	2020-01-01	2070-01-01	0	PT Availability Biomass	Multiply					
+PT Biomass 2025			Capacity	2025-01-01	2075-01-01	0	PT Availability Biomass	Multiply					
+PT Biomass 2030			Capacity	2030-01-01	2080-01-01	0	PT Availability Biomass	Multiply					
+PT Biomass 2035			Capacity	2035-01-01	2085-01-01	0	PT Availability Biomass	Multiply					
+PT Biomass 2040			Capacity	2040-01-01	2090-01-01	0	PT Availability Biomass	Multiply					
+PT Biomass 2045			Capacity	2045-01-01	2095-01-01	0	PT Availability Biomass	Multiply					
+PT Biomass 2050			Capacity	2050-01-01	2100-01-01	0	PT Availability Biomass	Multiply					
+PT Biomass 2055			Capacity	2055-01-01	2105-01-01	0	PT Availability Biomass	Multiply					
+PT Biomass 2060			Capacity	2060-01-01	2110-01-01	0	PT Availability Biomass	Multiply					
+PT Biomass 2065			Capacity	2065-01-01	2115-01-01	0	PT Availability Biomass	Multiply					
+PT CCGT 1990			Capacity	1990-01-01	2040-01-01	0	PT Availability CCGT	Multiply					
+PT CCGT 1995			Capacity	1995-01-01	2045-01-01	0	PT Availability CCGT	Multiply					
+PT CCGT 2000			Capacity	2000-01-01	2050-01-01	0	PT Availability CCGT	Multiply					
+PT CCGT 2005			Capacity	2005-01-01	2055-01-01	0	PT Availability CCGT	Multiply					
+PT CCGT 2010			Capacity	2010-01-01	2060-01-01	0	PT Availability CCGT	Multiply					
+PT CCGT 2015			Capacity	2015-01-01	2065-01-01	0	PT Availability CCGT	Multiply					
+PT CCGT 2020			Capacity	2020-01-01	2070-01-01	0	PT Availability CCGT	Multiply					
+PT CCGT 2025			Capacity	2025-01-01	2075-01-01	0	PT Availability CCGT	Multiply					
+PT CCGT 2030			Capacity	2030-01-01	2080-01-01	0	PT Availability CCGT	Multiply					
+PT CCGT 2031			Capacity	2031-01-01	2081-01-01	0	PT Availability CCGT	Multiply					
+PT CCGT 2032			Capacity	2032-01-01	2082-01-01	0	PT Availability CCGT	Multiply					
+PT CCGT 2033			Capacity	2033-01-01	2083-01-01	0	PT Availability CCGT	Multiply					
+PT CCGT 2034			Capacity	2034-01-01	2084-01-01	0	PT Availability CCGT	Multiply					
+PT CCGT 2035			Capacity	2035-01-01	2085-01-01	0	PT Availability CCGT	Multiply					
+PT CCGT 2036			Capacity	2036-01-01	2086-01-01	0	PT Availability CCGT	Multiply					
+PT CCGT 2037			Capacity	2037-01-01	2087-01-01	0	PT Availability CCGT	Multiply					
+PT CCGT 2038			Capacity	2038-01-01	2088-01-01	0	PT Availability CCGT	Multiply					
+PT CCGT 2039			Capacity	2039-01-01	2089-01-01	0	PT Availability CCGT	Multiply					
+PT CCGT 2040			Capacity	2040-01-01	2090-01-01	0	PT Availability CCGT	Multiply					
+PT CCGT 2045			Capacity	2045-01-01	2095-01-01	0	PT Availability CCGT	Multiply					
+PT CCGT 2050			Capacity	2050-01-01	2100-01-01	0	PT Availability CCGT	Multiply					
+PT CCGT 2055			Capacity	2055-01-01	2105-01-01	0	PT Availability CCGT	Multiply					
+PT CCGT 2060			Capacity	2060-01-01	2110-01-01	0	PT Availability CCGT	Multiply					
+PT CCGT 2065			Capacity	2065-01-01	2115-01-01	0	PT Availability CCGT	Multiply					
+PT CHP 1990			Capacity	1990-01-01	2040-01-01	0	PT Availability CHP	Multiply					
+PT CHP 1995			Capacity	1995-01-01	2045-01-01	0	PT Availability CHP	Multiply					
+PT CHP 2000			Capacity	2000-01-01	2050-01-01	0	PT Availability CHP	Multiply					
+PT CHP 2005			Capacity	2005-01-01	2055-01-01	0	PT Availability CHP	Multiply					
+PT CHP 2010			Capacity	2010-01-01	2060-01-01	0	PT Availability CHP	Multiply					
+PT CHP 2015			Capacity	2015-01-01	2065-01-01	0	PT Availability CHP	Multiply					
+PT CHP 2020			Capacity	2020-01-01	2070-01-01	0	PT Availability CHP	Multiply					
+PT CHP 2025			Capacity	2025-01-01	2075-01-01	0	PT Availability CHP	Multiply					
+PT CHP 2030			Capacity	2030-01-01	2080-01-01	0	PT Availability CHP	Multiply					
+PT CHP 2035			Capacity	2035-01-01	2085-01-01	0	PT Availability CHP	Multiply					
+PT CHP 2040			Capacity	2040-01-01	2090-01-01	0	PT Availability CHP	Multiply					
+PT CHP 2045			Capacity	2045-01-01	2095-01-01	0	PT Availability CHP	Multiply					
+PT CHP 2050			Capacity	2050-01-01	2100-01-01	0	PT Availability CHP	Multiply					
+PT CHP 2055			Capacity	2055-01-01	2105-01-01	0	PT Availability CHP	Multiply					
+PT CHP 2060			Capacity	2060-01-01	2110-01-01	0	PT Availability CHP	Multiply					
+PT CHP 2065			Capacity	2065-01-01	2115-01-01	0	PT Availability CHP	Multiply					
+PT Coal 1990			Capacity	1990-01-01	2040-01-01	0	PT Availability Coal	Multiply					
+PT Coal 1995			Capacity	1995-01-01	2045-01-01	0	PT Availability Coal	Multiply					
+PT Coal 2000			Capacity	2000-01-01	2050-01-01	0	PT Availability Coal	Multiply					
+PT Coal 2005			Capacity	2005-01-01	2055-01-01	0	PT Availability Coal	Multiply					
+PT Coal 2010			Capacity	2010-01-01	2060-01-01	0	PT Availability Coal	Multiply					
+PT Coal 2015			Capacity	2015-01-01	2065-01-01	0	PT Availability Coal	Multiply					
+PT Coal 2020			Capacity	2020-01-01	2070-01-01	0	PT Availability Coal	Multiply					
+PT Coal 2025			Capacity	2025-01-01	2075-01-01	0	PT Availability Coal	Multiply					
+PT Coal 2030			Capacity	2030-01-01	2080-01-01	0	PT Availability Coal	Multiply					
+PT Coal 2035			Capacity	2035-01-01	2085-01-01	0	PT Availability Coal	Multiply					
+PT Coal 2040			Capacity	2040-01-01	2090-01-01	0	PT Availability Coal	Multiply					
+PT Coal 2045			Capacity	2045-01-01	2095-01-01	0	PT Availability Coal	Multiply					
+PT Coal 2050			Capacity	2050-01-01	2100-01-01	0	PT Availability Coal	Multiply					
+PT Coal 2055			Capacity	2055-01-01	2105-01-01	0	PT Availability Coal	Multiply					
+PT Coal 2060			Capacity	2060-01-01	2110-01-01	0	PT Availability Coal	Multiply					
+PT Coal 2065			Capacity	2065-01-01	2115-01-01	0	PT Availability Coal	Multiply					
+PT Lares I Power Station 			Capacity	2009-01-01	2100-01-01	288	PT Availability CCGT	Multiply					
+PT Lares II Power Station 			Capacity	2009-01-01	2100-01-01	288	PT Availability CCGT	Multiply					
+PT Lignite 1990			Capacity	1990-01-01	2040-01-01	0	PT Availability Lignite	Multiply					
+PT Lignite 1995			Capacity	1995-01-01	2045-01-01	0	PT Availability Lignite	Multiply					
+PT Lignite 2000			Capacity	2000-01-01	2031-01-01	0	PT Availability Lignite	Multiply					
+PT Lignite 2005			Capacity	2005-01-01	2038-01-01	0	PT Availability Lignite	Multiply					
+PT Lignite 2010			Capacity	2010-01-01	2038-01-01	0	PT Availability Lignite	Multiply					
+PT Lignite 2015			Capacity	2015-01-01	2038-01-01	0	PT Availability Lignite	Multiply					
+PT Lignite 2020			Capacity	2020-01-01	2039-01-01	0	PT Availability Lignite	Multiply					
+PT Lignite 2025			Capacity	2025-01-01	2039-01-01	0	PT Availability Lignite	Multiply					
+PT Lignite 2030			Capacity	2030-01-01	2040-01-01	0	PT Availability Lignite	Multiply					
+PT Lignite 2035			Capacity	2035-01-01	2040-01-01	0	PT Availability Lignite	Multiply					
+PT Lignite 2040			Capacity	2040-01-01	2040-01-01	0	PT Availability Lignite	Multiply					
+PT Lignite 2045			Capacity	2045-01-01	2040-01-01	0	PT Availability Lignite	Multiply					
+PT Lignite 2050			Capacity	2050-01-01	2100-01-01	0	PT Availability Lignite	Multiply					
+PT Lignite 2055			Capacity	2055-01-01	2105-01-01	0	PT Availability Lignite	Multiply					
+PT Lignite 2060			Capacity	2060-01-01	2110-01-01	0	PT Availability Lignite	Multiply					
+PT Lignite 2065			Capacity	2065-01-01	2115-01-01	0	PT Availability Lignite	Multiply					
+PT Liquid 1990			Capacity	1990-01-01	2040-01-01	4000	PT Availability Liquid	Multiply					
+PT Liquid 1995			Capacity	1995-01-01	2045-01-01	4000	PT Availability Liquid	Multiply					
+PT Liquid 2000			Capacity	2000-01-01	2050-01-01	4000	PT Availability Liquid	Multiply					
+PT Liquid 2005			Capacity	2005-01-01	2055-01-01	4000	PT Availability Liquid	Multiply					
+PT Liquid 2010			Capacity	2010-01-01	2060-01-01	0	PT Availability Liquid	Multiply					
+PT Liquid 2015			Capacity	2015-01-01	2065-01-01	0	PT Availability Liquid	Multiply					
+PT Liquid 2020			Capacity	2020-01-01	2070-01-01	0	PT Availability Liquid	Multiply					
+PT Liquid 2025			Capacity	2025-01-01	2075-01-01	0	PT Availability Liquid	Multiply					
+PT Liquid 2030			Capacity	2030-01-01	2080-01-01	0	PT Availability Liquid	Multiply					
+PT Liquid 2035			Capacity	2035-01-01	2085-01-01	0	PT Availability Liquid	Multiply					
+PT Liquid 2040			Capacity	2040-01-01	2090-01-01	0	PT Availability Liquid	Multiply					
+PT Liquid 2045			Capacity	2045-01-01	2095-01-01	0	PT Availability Liquid	Multiply					
+PT Liquid 2050			Capacity	2050-01-01	2100-01-01	0	PT Availability Liquid	Multiply					
+PT Liquid 2055			Capacity	2055-01-01	2105-01-01	0	PT Availability Liquid	Multiply					
+PT Liquid 2060			Capacity	2060-01-01	2110-01-01	0	PT Availability Liquid	Multiply					
+PT Liquid 2065			Capacity	2065-01-01	2115-01-01	0	PT Availability Liquid	Multiply					
+PT Nuclear 1990			Capacity	1990-01-01	2040-01-01	0	PT Availability Nuclear	Multiply					
+PT Nuclear 1995			Capacity	1995-01-01	2045-01-01	0	PT Availability Nuclear	Multiply					
+PT Nuclear 2000			Capacity	2000-01-01	2050-01-01	0	PT Availability Nuclear	Multiply					
+PT Nuclear 2005			Capacity	2005-01-01	2055-01-01	0	PT Availability Nuclear	Multiply					
+PT Nuclear 2010			Capacity	2010-01-01	2060-01-01	0	PT Availability Nuclear	Multiply					
+PT Nuclear 2015			Capacity	2015-01-01	2065-01-01	0	PT Availability Nuclear	Multiply					
+PT Nuclear 2020			Capacity	2020-01-01	2070-01-01	0	PT Availability Nuclear	Multiply					
+PT OCGT 1990			Capacity	1990-01-01	2040-01-01	500	PT Availability OCGT	Multiply					
+PT OCGT 1995			Capacity	1995-01-01	2045-01-01	500	PT Availability OCGT	Multiply					
+PT OCGT 2000			Capacity	2000-01-01	2050-01-01	500	PT Availability OCGT	Multiply					
+PT OCGT 2005			Capacity	2005-01-01	2055-01-01	500	PT Availability OCGT	Multiply					
+PT OCGT 2010			Capacity	2010-01-01	2060-01-01	500	PT Availability OCGT	Multiply					
+PT OCGT 2015			Capacity	2015-01-01	2065-01-01	500	PT Availability OCGT	Multiply					
+PT OCGT 2020			Capacity	2020-01-01	2070-01-01	500	PT Availability OCGT	Multiply					
+PT OCGT 2025			Capacity	2025-01-01	2075-01-01	0	PT Availability OCGT	Multiply					
+PT OCGT 2030			Capacity	2030-01-01	2080-01-01	0	PT Availability OCGT	Multiply					
+PT OCGT 2035			Capacity	2035-01-01	2085-01-01	0	PT Availability OCGT	Multiply					
+PT OCGT 2040			Capacity	2040-01-01	2090-01-01	0	PT Availability OCGT	Multiply					
+PT OCGT 2045			Capacity	2045-01-01	2095-01-01	0	PT Availability OCGT	Multiply					
+PT OCGT 2050			Capacity	2050-01-01	2100-01-01	0	PT Availability OCGT	Multiply					
+PT OCGT 2055			Capacity	2055-01-01	2105-01-01	0	PT Availability OCGT	Multiply					
+PT OCGT 2060			Capacity	2060-01-01	2110-01-01	0	PT Availability OCGT	Multiply					
+PT OCGT 2065			Capacity	2065-01-01	2115-01-01	0	PT Availability OCGT	Multiply					
+PT Pego I Power Station 			Capacity	2025-01-01	2100-01-01	0							
+PT Pego I Power Station 			Capacity	1993-01-01	2025-01-01	576	PT Availability Coal	Multiply					
+PT Pego II Power Station 			Capacity	2010-01-01	2100-01-01	418.5	PT Availability CCGT	Multiply					
+PT Pego III Power Station 			Capacity	2010-01-01	2100-01-01	418.5	PT Availability CCGT	Multiply					
+PT Ribatejo Power Station I			Capacity	2005-01-01	2100-01-01	588	PT Availability CCGT	Multiply					
+PT Ribatejo Power Station II			Capacity	2005-01-01	2100-01-01	588	PT Availability CCGT	Multiply					
+PT Sines Power Station 			Capacity	2026-01-01	2100-01-01	0							
+PT Sines Power Station 			Capacity	1985-01-01	2026-01-01	1180	PT Availability Coal	Multiply					
+PT Tapado do Outeiro I			Capacity	1999-01-01	2100-01-01	495	PT Availability CCGT	Multiply					
+PT Tapado do Outeiro II			Capacity	1999-01-01	2100-01-01	495	PT Availability CCGT	Multiply					
+PT Tunes Power Station 			Capacity	1973-01-01	2100-01-01	165	PT Availability LSFO	Multiply					
+PT_H2_CCGT			Capacity	2009-01-01	2100-01-01	PT Installed Capacity File	PT Availability CCGT	Multiply					
+PT_H2_OCGT			Capacity	2009-01-01	2100-01-01	PT Installed Capacity File	PT Availability OCGT	Multiply					
+PT Biomass 1990			Fuel	1990-01-01	2040-01-01	PT Station Biomass							
+PT Biomass 1995			Fuel	1995-01-01	2045-01-01	PT Station Biomass							
+PT Biomass 2000			Fuel	2000-01-01	2050-01-01	PT Station Biomass							
+PT Biomass 2005			Fuel	2005-01-01	2055-01-01	PT Station Biomass							
+PT Biomass 2010			Fuel	2010-01-01	2060-01-01	PT Station Biomass							
+PT Biomass 2015			Fuel	2015-01-01	2065-01-01	PT Station Biomass							
+PT Biomass 2020			Fuel	2020-01-01	2070-01-01	PT Station Biomass							
+PT Biomass 2025			Fuel	2025-01-01	2075-01-01	PT Station Biomass							
+PT Biomass 2030			Fuel	2030-01-01	2080-01-01	PT Station Biomass							
+PT Biomass 2035			Fuel	2035-01-01	2085-01-01	PT Station Biomass							
+PT Biomass 2040			Fuel	2040-01-01	2090-01-01	PT Station Biomass							
+PT Biomass 2045			Fuel	2045-01-01	2095-01-01	PT Station Biomass							
+PT Biomass 2050			Fuel	2050-01-01	2100-01-01	PT Station Biomass							
+PT Biomass 2055			Fuel	2055-01-01	2105-01-01	PT Station Biomass							
+PT Biomass 2060			Fuel	2060-01-01	2110-01-01	PT Station Biomass							
+PT Biomass 2065			Fuel	2065-01-01	2115-01-01	PT Station Biomass							
+PT CCGT 1990			Fuel	1990-01-01	2040-01-01	PT Station Gas							
+PT CCGT 1995			Fuel	1995-01-01	2045-01-01	PT Station Gas							
+PT CCGT 2000			Fuel	2000-01-01	2050-01-01	PT Station Gas							
+PT CCGT 2005			Fuel	2005-01-01	2055-01-01	PT Station Gas							
+PT CCGT 2010			Fuel	2010-01-01	2060-01-01	PT Station Gas							
+PT CCGT 2015			Fuel	2015-01-01	2065-01-01	PT Station Gas							
+PT CCGT 2020			Fuel	2020-01-01	2070-01-01	PT Station Gas							
+PT CCGT 2025			Fuel	2025-01-01	2075-01-01	PT Station Gas							
+PT CCGT 2030			Fuel	2030-01-01	2080-01-01	PT Station Gas							
+PT CCGT 2031			Fuel	2031-01-01	2081-01-01	PT Station Gas							
+PT CCGT 2032			Fuel	2032-01-01	2082-01-01	PT Station Gas							
+PT CCGT 2033			Fuel	2033-01-01	2083-01-01	PT Station Gas							
+PT CCGT 2034			Fuel	2034-01-01	2084-01-01	PT Station Gas							
+PT CCGT 2035			Fuel	2035-01-01	2085-01-01	PT Station Gas							
+PT CCGT 2036			Fuel	2036-01-01	2086-01-01	PT Station Gas							
+PT CCGT 2037			Fuel	2037-01-01	2087-01-01	PT Station Gas							
+PT CCGT 2038			Fuel	2038-01-01	2088-01-01	PT Station Gas							
+PT CCGT 2039			Fuel	2039-01-01	2089-01-01	PT Station Gas							
+PT CCGT 2040			Fuel	2040-01-01	2090-01-01	PT Station Gas							
+PT CCGT 2045			Fuel	2045-01-01	2095-01-01	PT Station Gas							
+PT CCGT 2050			Fuel	2050-01-01	2100-01-01	PT Station Gas							
+PT CCGT 2055			Fuel	2055-01-01	2105-01-01	PT Station Gas							
+PT CCGT 2060			Fuel	2060-01-01	2110-01-01	PT Station Gas							
+PT CCGT 2065			Fuel	2065-01-01	2115-01-01	PT Station Gas							
+PT CHP 1990			Fuel	1990-01-01	2040-01-01	PT Station Gas							
+PT CHP 1995			Fuel	1995-01-01	2045-01-01	PT Station Gas							
+PT CHP 2000			Fuel	2000-01-01	2050-01-01	PT Station Gas							
+PT CHP 2005			Fuel	2005-01-01	2055-01-01	PT Station Gas							
+PT CHP 2010			Fuel	2010-01-01	2060-01-01	PT Station Gas							
+PT CHP 2015			Fuel	2015-01-01	2065-01-01	PT Station Gas							
+PT CHP 2020			Fuel	2020-01-01	2070-01-01	PT Station Gas							
+PT CHP 2025			Fuel	2025-01-01	2075-01-01	PT Station Gas							
+PT CHP 2030			Fuel	2030-01-01	2080-01-01	PT Station Gas							
+PT CHP 2035			Fuel	2035-01-01	2085-01-01	PT Station Gas							
+PT CHP 2040			Fuel	2040-01-01	2090-01-01	PT Station Gas							
+PT CHP 2045			Fuel	2045-01-01	2095-01-01	PT Station Gas							
+PT CHP 2050			Fuel	2050-01-01	2100-01-01	PT Station Gas							
+PT CHP 2055			Fuel	2055-01-01	2105-01-01	PT Station Gas							
+PT CHP 2060			Fuel	2060-01-01	2110-01-01	PT Station Gas							
+PT CHP 2065			Fuel	2065-01-01	2115-01-01	PT Station Gas							
+PT Coal 1990			Fuel	1990-01-01	2040-01-01	PT Station Coal							
+PT Coal 1995			Fuel	1995-01-01	2045-01-01	PT Station Coal							
+PT Coal 2000			Fuel	2000-01-01	2050-01-01	PT Station Coal							
+PT Coal 2005			Fuel	2005-01-01	2055-01-01	PT Station Coal							
+PT Coal 2010			Fuel	2010-01-01	2060-01-01	PT Station Coal							
+PT Coal 2015			Fuel	2015-01-01	2065-01-01	PT Station Coal							
+PT Coal 2020			Fuel	2020-01-01	2070-01-01	PT Station Coal							
+PT Coal 2025			Fuel	2025-01-01	2075-01-01	PT Station Coal							
+PT Coal 2030			Fuel	2030-01-01	2080-01-01	PT Station Coal							
+PT Coal 2035			Fuel	2035-01-01	2085-01-01	PT Station Coal							
+PT Coal 2040			Fuel	2040-01-01	2090-01-01	PT Station Coal							
+PT Coal 2045			Fuel	2045-01-01	2095-01-01	PT Station Coal							
+PT Coal 2050			Fuel	2050-01-01	2100-01-01	PT Station Coal							
+PT Coal 2055			Fuel	2055-01-01	2105-01-01	PT Station Coal							
+PT Coal 2060			Fuel	2060-01-01	2110-01-01	PT Station Coal							
+PT Coal 2065			Fuel	2065-01-01	2115-01-01	PT Station Coal							
+PT Lares I Power Station 			Fuel	2009-01-01	2030-01-01	PT Station Gas							
+PT Lares I Power Station 			Fuel	2030-01-01	2100-01-01	PT GH2							
+PT Lares II Power Station 			Fuel	2009-01-01	2031-01-01	PT Station Gas							
+PT Lares II Power Station 			Fuel	2031-01-01	2100-01-01	PT GH2							
+PT Lignite 1990			Fuel	1990-01-01	2040-01-01	PT Station Lignite							
+PT Lignite 1995			Fuel	1995-01-01	2045-01-01	PT Station Lignite							
+PT Lignite 2000			Fuel	2000-01-01	2031-01-01	PT Station Lignite							
+PT Lignite 2005			Fuel	2005-01-01	2038-01-01	PT Station Lignite							
+PT Lignite 2010			Fuel	2010-01-01	2038-01-01	PT Station Lignite							
+PT Lignite 2015			Fuel	2015-01-01	2038-01-01	PT Station Lignite							
+PT Lignite 2020			Fuel	2020-01-01	2039-01-01	PT Station Lignite							
+PT Lignite 2025			Fuel	2025-01-01	2039-01-01	PT Station Lignite							
+PT Lignite 2030			Fuel	2030-01-01	2040-01-01	PT Station Lignite							
+PT Lignite 2035			Fuel	2035-01-01	2040-01-01	PT Station Lignite							
+PT Lignite 2040			Fuel	2040-01-01	2040-01-01	PT Station Lignite							
+PT Lignite 2045			Fuel	2045-01-01	2040-01-01	PT Station Lignite							
+PT Lignite 2050			Fuel	2050-01-01	2100-01-01	PT Station Lignite							
+PT Lignite 2055			Fuel	2055-01-01	2105-01-01	PT Station Lignite							
+PT Lignite 2060			Fuel	2060-01-01	2110-01-01	PT Station Lignite							
+PT Lignite 2065			Fuel	2065-01-01	2115-01-01	PT Station Lignite							
+PT Liquid 1990			Fuel	1990-01-01	2040-01-01	PT Station LSFO							
+PT Liquid 1995			Fuel	1995-01-01	2045-01-01	PT Station LSFO							
+PT Liquid 2000			Fuel	2000-01-01	2050-01-01	PT Station LSFO							
+PT Liquid 2005			Fuel	2005-01-01	2055-01-01	PT Station LSFO							
+PT Liquid 2010			Fuel	2010-01-01	2060-01-01	PT Station LSFO							
+PT Liquid 2015			Fuel	2015-01-01	2065-01-01	PT Station LSFO							
+PT Liquid 2020			Fuel	2020-01-01	2070-01-01	PT Station LSFO							
+PT Liquid 2025			Fuel	2025-01-01	2075-01-01	PT Station LSFO							
+PT Liquid 2030			Fuel	2030-01-01	2080-01-01	PT Station LSFO							
+PT Liquid 2035			Fuel	2035-01-01	2085-01-01	PT Station LSFO							
+PT Liquid 2040			Fuel	2040-01-01	2090-01-01	PT Station LSFO							
+PT Liquid 2045			Fuel	2045-01-01	2095-01-01	PT Station LSFO							
+PT Liquid 2050			Fuel	2050-01-01	2100-01-01	PT Station LSFO							
+PT Liquid 2055			Fuel	2055-01-01	2105-01-01	PT Station LSFO							
+PT Liquid 2060			Fuel	2060-01-01	2110-01-01	PT Station LSFO							
+PT Liquid 2065			Fuel	2065-01-01	2115-01-01	PT Station LSFO							
+PT Nuclear 1990			Fuel	1990-01-01	2040-01-01	PT Station Uranium							
+PT Nuclear 1995			Fuel	1995-01-01	2045-01-01	PT Station Uranium							
+PT Nuclear 2000			Fuel	2000-01-01	2050-01-01	PT Station Uranium							
+PT Nuclear 2005			Fuel	2005-01-01	2055-01-01	PT Station Uranium							
+PT Nuclear 2010			Fuel	2010-01-01	2060-01-01	PT Station Uranium							
+PT Nuclear 2015			Fuel	2015-01-01	2065-01-01	PT Station Uranium							
+PT Nuclear 2020			Fuel	2020-01-01	2070-01-01	PT Station Uranium							
+PT OCGT 1990			Fuel	1990-01-01	2040-01-01	PT Station Gas							
+PT OCGT 1995			Fuel	1995-01-01	2045-01-01	PT Station Gas							
+PT OCGT 2000			Fuel	2000-01-01	2050-01-01	PT Station Gas							
+PT OCGT 2005			Fuel	2005-01-01	2055-01-01	PT Station Gas							
+PT OCGT 2010			Fuel	2010-01-01	2060-01-01	PT Station Gas							
+PT OCGT 2015			Fuel	2015-01-01	2065-01-01	PT Station Gas							
+PT OCGT 2020			Fuel	2020-01-01	2070-01-01	PT Station Gas							
+PT OCGT 2025			Fuel	2025-01-01	2075-01-01	PT Station Gas							
+PT OCGT 2030			Fuel	2030-01-01	2080-01-01	PT Station Gas							
+PT OCGT 2035			Fuel	2035-01-01	2085-01-01	PT Station Gas							
+PT OCGT 2040			Fuel	2040-01-01	2090-01-01	PT Station Gas							
+PT OCGT 2045			Fuel	2045-01-01	2095-01-01	PT Station Gas							
+PT OCGT 2050			Fuel	2050-01-01	2100-01-01	PT Station Gas							
+PT OCGT 2055			Fuel	2055-01-01	2105-01-01	PT Station Gas							
+PT OCGT 2060			Fuel	2060-01-01	2110-01-01	PT Station Gas							
+PT OCGT 2065			Fuel	2065-01-01	2115-01-01	PT Station Gas							
+PT Pego I Power Station 			Fuel	1993-01-01	2100-01-01	PT Station Coal							
+PT Pego II Power Station 			Fuel	2010-01-01	2032-01-01	PT Station Gas							
+PT Pego II Power Station 			Fuel	2032-01-01	2100-01-01	PT GH2							
+PT Pego III Power Station 			Fuel	2010-01-01	2033-01-01	PT Station Gas							
+PT Pego III Power Station 			Fuel	2033-01-01	2100-01-01	PT GH2							
+PT Ribatejo Power Station I			Fuel	2005-01-01	2034-01-01	PT Station Gas							
+PT Ribatejo Power Station I			Fuel	2034-01-01	2100-01-01	PT GH2							
+PT Ribatejo Power Station II			Fuel	2005-01-01	2035-01-01	PT Station Gas							
+PT Ribatejo Power Station II			Fuel	2035-01-01	2100-01-01	PT GH2							
+PT Sines Power Station 			Fuel	1985-01-01	2100-01-01	PT Station Coal							
+PT Tapado do Outeiro I			Fuel	1999-01-01	2036-01-01	PT Station Gas							
+PT Tapado do Outeiro I			Fuel	2036-01-01	2100-01-01	PT GH2							
+PT Tapado do Outeiro II			Fuel	1999-01-01	2037-01-01	PT Station Gas							
+PT Tapado do Outeiro II			Fuel	2037-01-01	2100-01-01	PT GH2							
+PT Tunes Power Station 			Fuel	1973-01-01	2100-01-01	PT Station LSFO							
+PT_H2_CCGT			Fuel	2009-01-01	2100-01-01	PT GH2							
+PT_H2_OCGT			Fuel	2009-01-01	2100-01-01	PT GH2							
+PT Biomass 1990			Marginal Heat Rate	1990-01-01	2040-01-01	10.52631579							
+PT Biomass 1995			Marginal Heat Rate	1995-01-01	2045-01-01	10.46511628							
+PT Biomass 2000			Marginal Heat Rate	2000-01-01	2050-01-01	10.40462428							
+PT Biomass 2005			Marginal Heat Rate	2005-01-01	2055-01-01	10.34482759							
+PT Biomass 2010			Marginal Heat Rate	2010-01-01	2060-01-01	10.28571429							
+PT Biomass 2015			Marginal Heat Rate	2015-01-01	2065-01-01	10.22727273							
+PT Biomass 2020			Marginal Heat Rate	2020-01-01	2070-01-01	10.16949153							
+PT Biomass 2025			Marginal Heat Rate	2025-01-01	2075-01-01	10.11235955							
+PT Biomass 2030			Marginal Heat Rate	2030-01-01	2080-01-01	10.05586592							
+PT Biomass 2035			Marginal Heat Rate	2035-01-01	2085-01-01	10							
+PT Biomass 2040			Marginal Heat Rate	2040-01-01	2090-01-01	9.944751381							
+PT Biomass 2045			Marginal Heat Rate	2045-01-01	2095-01-01	9.89010989							
+PT Biomass 2050			Marginal Heat Rate	2050-01-01	2100-01-01	9.836065574							
+PT Biomass 2055			Marginal Heat Rate	2055-01-01	2105-01-01	9.782608696							
+PT Biomass 2060			Marginal Heat Rate	2060-01-01	2110-01-01	9.72972973							
+PT Biomass 2065			Marginal Heat Rate	2065-01-01	2115-01-01	9.677419355							
+PT CCGT 1990			Marginal Heat Rate	1990-01-01	2040-01-01	7.79245283							
+PT CCGT 1995			Marginal Heat Rate	1995-01-01	2045-01-01	7.666917293							
+PT CCGT 2000			Marginal Heat Rate	2000-01-01	2050-01-01	7.541573034							
+PT CCGT 2005			Marginal Heat Rate	2005-01-01	2055-01-01	7.41641791							
+PT CCGT 2010			Marginal Heat Rate	2010-01-01	2060-01-01	7.291449814							
+PT CCGT 2015			Marginal Heat Rate	2015-01-01	2065-01-01	7.166666667							
+PT CCGT 2020			Marginal Heat Rate	2020-01-01	2070-01-01	7.142066421							
+PT CCGT 2025			Marginal Heat Rate	2025-01-01	2075-01-01	6.617647059							
+PT CCGT 2030			Marginal Heat Rate	2030-01-01	2080-01-01	6.593406593							
+PT CCGT 2031			Marginal Heat Rate	2031-01-01	2081-01-01	6.593406593							
+PT CCGT 2032			Marginal Heat Rate	2032-01-01	2082-01-01	6.593406593							
+PT CCGT 2033			Marginal Heat Rate	2033-01-01	2083-01-01	6.593406593							
+PT CCGT 2034			Marginal Heat Rate	2034-01-01	2084-01-01	6.593406593							
+PT CCGT 2035			Marginal Heat Rate	2035-01-01	2085-01-01	6.569343066							
+PT CCGT 2036			Marginal Heat Rate	2036-01-01	2086-01-01	6.569343066							
+PT CCGT 2037			Marginal Heat Rate	2037-01-01	2087-01-01	6.569343066							
+PT CCGT 2038			Marginal Heat Rate	2038-01-01	2088-01-01	6.569343066							
+PT CCGT 2039			Marginal Heat Rate	2039-01-01	2089-01-01	6.569343066							
+PT CCGT 2040			Marginal Heat Rate	2040-01-01	2090-01-01	6.545454545							
+PT CCGT 2045			Marginal Heat Rate	2045-01-01	2095-01-01	6.52173913							
+PT CCGT 2050			Marginal Heat Rate	2050-01-01	2100-01-01	6.498194946							
+PT CCGT 2055			Marginal Heat Rate	2055-01-01	2105-01-01	6.474820144							
+PT CCGT 2060			Marginal Heat Rate	2060-01-01	2110-01-01	6.451612903							
+PT CCGT 2065			Marginal Heat Rate	2065-01-01	2115-01-01	6.428571429							
+PT CHP 1990			Marginal Heat Rate	1990-01-01	2040-01-01	7.171314741							
+PT CHP 1995			Marginal Heat Rate	1995-01-01	2045-01-01	7.142857143							
+PT CHP 2000			Marginal Heat Rate	2000-01-01	2050-01-01	7.114624506							
+PT CHP 2005			Marginal Heat Rate	2005-01-01	2055-01-01	7.086614173							
+PT CHP 2010			Marginal Heat Rate	2010-01-01	2060-01-01	7.058823529							
+PT CHP 2015			Marginal Heat Rate	2015-01-01	2065-01-01	7.03125							
+PT CHP 2020			Marginal Heat Rate	2020-01-01	2070-01-01	7.003891051							
+PT CHP 2025			Marginal Heat Rate	2025-01-01	2075-01-01	6.976744186							
+PT CHP 2030			Marginal Heat Rate	2030-01-01	2080-01-01	6.94980695							
+PT CHP 2035			Marginal Heat Rate	2035-01-01	2085-01-01	6.923076923							
+PT CHP 2040			Marginal Heat Rate	2040-01-01	2090-01-01	6.896551724							
+PT CHP 2045			Marginal Heat Rate	2045-01-01	2095-01-01	6.870229008							
+PT CHP 2050			Marginal Heat Rate	2050-01-01	2100-01-01	6.844106464							
+PT CHP 2055			Marginal Heat Rate	2055-01-01	2105-01-01	6.818181818							
+PT CHP 2060			Marginal Heat Rate	2060-01-01	2110-01-01	6.79245283							
+PT CHP 2065			Marginal Heat Rate	2065-01-01	2115-01-01	6.766917293							
+PT Coal 1990			Marginal Heat Rate	1990-01-01	2040-01-01	10.7							
+PT Coal 1995			Marginal Heat Rate	1995-01-01	2045-01-01	10.52631579							
+PT Coal 2000			Marginal Heat Rate	2000-01-01	2050-01-01	10.46511628							
+PT Coal 2005			Marginal Heat Rate	2005-01-01	2055-01-01	10.40462428							
+PT Coal 2010			Marginal Heat Rate	2010-01-01	2060-01-01	10.34482759							
+PT Coal 2015			Marginal Heat Rate	2015-01-01	2065-01-01	10.28571429							
+PT Coal 2020			Marginal Heat Rate	2020-01-01	2070-01-01	10.22727273							
+PT Coal 2025			Marginal Heat Rate	2025-01-01	2075-01-01	10.16949153							
+PT Coal 2030			Marginal Heat Rate	2030-01-01	2080-01-01	10.11235955							
+PT Coal 2035			Marginal Heat Rate	2035-01-01	2085-01-01	10.05586592							
+PT Coal 2040			Marginal Heat Rate	2040-01-01	2090-01-01	10							
+PT Coal 2045			Marginal Heat Rate	2045-01-01	2095-01-01	9.944751381							
+PT Coal 2050			Marginal Heat Rate	2050-01-01	2100-01-01	9.89010989							
+PT Coal 2055			Marginal Heat Rate	2055-01-01	2105-01-01	9.836065574							
+PT Coal 2060			Marginal Heat Rate	2060-01-01	2110-01-01	9.782608696							
+PT Coal 2065			Marginal Heat Rate	2065-01-01	2115-01-01	9.72972973							
+PT Lares I Power Station 			Marginal Heat Rate	2009-01-01	2100-01-01	7.826086957							
+PT Lares II Power Station 			Marginal Heat Rate	2009-01-01	2100-01-01	7.5							
+PT Lignite 1990			Marginal Heat Rate	1990-01-01	2040-01-01	11.18012422							
+PT Lignite 1995			Marginal Heat Rate	1995-01-01	2045-01-01	11.11111111							
+PT Lignite 2000			Marginal Heat Rate	2000-01-01	2031-01-01	11.04294479							
+PT Lignite 2005			Marginal Heat Rate	2005-01-01	2038-01-01	10.97560976							
+PT Lignite 2010			Marginal Heat Rate	2010-01-01	2038-01-01	10.90909091							
+PT Lignite 2015			Marginal Heat Rate	2015-01-01	2038-01-01	10.84337349							
+PT Lignite 2020			Marginal Heat Rate	2020-01-01	2039-01-01	10.77844311							
+PT Lignite 2025			Marginal Heat Rate	2025-01-01	2039-01-01	10.71428571							
+PT Lignite 2030			Marginal Heat Rate	2030-01-01	2040-01-01	10.65088757							
+PT Lignite 2035			Marginal Heat Rate	2035-01-01	2040-01-01	10.58823529							
+PT Lignite 2040			Marginal Heat Rate	2040-01-01	2040-01-01	10.52631579							
+PT Lignite 2045			Marginal Heat Rate	2045-01-01	2040-01-01	10.46511628							
+PT Lignite 2050			Marginal Heat Rate	2050-01-01	2100-01-01	10.40462428							
+PT Lignite 2055			Marginal Heat Rate	2055-01-01	2105-01-01	10.34482759							
+PT Lignite 2060			Marginal Heat Rate	2060-01-01	2110-01-01	10.28571429							
+PT Lignite 2065			Marginal Heat Rate	2065-01-01	2115-01-01	10.22727273							
+PT Liquid 1990			Marginal Heat Rate	1990-01-01	2040-01-01	10.22727273							
+PT Liquid 1995			Marginal Heat Rate	1995-01-01	2045-01-01	10.16949153							
+PT Liquid 2000			Marginal Heat Rate	2000-01-01	2050-01-01	10.11235955							
+PT Liquid 2005			Marginal Heat Rate	2005-01-01	2055-01-01	10.05586592							
+PT Liquid 2010			Marginal Heat Rate	2010-01-01	2060-01-01	10							
+PT Liquid 2015			Marginal Heat Rate	2015-01-01	2065-01-01	9.944751381							
+PT Liquid 2020			Marginal Heat Rate	2020-01-01	2070-01-01	9.89010989							
+PT Liquid 2025			Marginal Heat Rate	2025-01-01	2075-01-01	9.836065574							
+PT Liquid 2030			Marginal Heat Rate	2030-01-01	2080-01-01	9.782608696							
+PT Liquid 2035			Marginal Heat Rate	2035-01-01	2085-01-01	9.72972973							
+PT Liquid 2040			Marginal Heat Rate	2040-01-01	2090-01-01	9.677419355							
+PT Liquid 2045			Marginal Heat Rate	2045-01-01	2095-01-01	9.625668449							
+PT Liquid 2050			Marginal Heat Rate	2050-01-01	2100-01-01	9.574468085							
+PT Liquid 2055			Marginal Heat Rate	2055-01-01	2105-01-01	9.523809524							
+PT Liquid 2060			Marginal Heat Rate	2060-01-01	2110-01-01	9.473684211							
+PT Liquid 2065			Marginal Heat Rate	2065-01-01	2115-01-01	9.42408377							
+PT Nuclear 1990			Marginal Heat Rate	1990-01-01	2040-01-01	11.18012422							
+PT Nuclear 1995			Marginal Heat Rate	1995-01-01	2045-01-01	11.11111111							
+PT Nuclear 2000			Marginal Heat Rate	2000-01-01	2050-01-01	11.04294479							
+PT Nuclear 2005			Marginal Heat Rate	2005-01-01	2055-01-01	10.97560976							
+PT Nuclear 2010			Marginal Heat Rate	2010-01-01	2060-01-01	10.90909091							
+PT Nuclear 2015			Marginal Heat Rate	2015-01-01	2065-01-01	10.84337349							
+PT Nuclear 2020			Marginal Heat Rate	2020-01-01	2070-01-01	10.77844311							
+PT OCGT 1990			Marginal Heat Rate	1990-01-01	2040-01-01	15							
+PT OCGT 1995			Marginal Heat Rate	1995-01-01	2045-01-01	12							
+PT OCGT 2000			Marginal Heat Rate	2000-01-01	2050-01-01	9							
+PT OCGT 2005			Marginal Heat Rate	2005-01-01	2055-01-01	9							
+PT OCGT 2010			Marginal Heat Rate	2010-01-01	2060-01-01	12							
+PT OCGT 2015			Marginal Heat Rate	2015-01-01	2065-01-01	9							
+PT OCGT 2020			Marginal Heat Rate	2020-01-01	2070-01-01	9							
+PT OCGT 2025			Marginal Heat Rate	2025-01-01	2075-01-01	9.625668449							
+PT OCGT 2030			Marginal Heat Rate	2030-01-01	2080-01-01	9.574468085							
+PT OCGT 2035			Marginal Heat Rate	2035-01-01	2085-01-01	9.523809524							
+PT OCGT 2040			Marginal Heat Rate	2040-01-01	2090-01-01	9.473684211							
+PT OCGT 2045			Marginal Heat Rate	2045-01-01	2095-01-01	9.42408377							
+PT OCGT 2050			Marginal Heat Rate	2050-01-01	2100-01-01	9.375							
+PT OCGT 2055			Marginal Heat Rate	2055-01-01	2105-01-01	9.32642487							
+PT OCGT 2060			Marginal Heat Rate	2060-01-01	2110-01-01	9.278350515							
+PT OCGT 2065			Marginal Heat Rate	2065-01-01	2115-01-01	9.230769231							
+PT Pego I Power Station 			Marginal Heat Rate	1993-01-01	2100-01-01	9.230769231							
+PT Pego II Power Station 			Marginal Heat Rate	2010-01-01	2100-01-01	6.923076923							
+PT Pego III Power Station 			Marginal Heat Rate	2010-01-01	2100-01-01	6.666666667							
+PT Ribatejo Power Station I			Marginal Heat Rate	2005-01-01	2100-01-01	6.428571429							
+PT Ribatejo Power Station II			Marginal Heat Rate	2005-01-01	2100-01-01	6.206896552							
+PT Sines Power Station 			Marginal Heat Rate	1985-01-01	2100-01-01	8.571428571							
+PT Tapado do Outeiro I			Marginal Heat Rate	1999-01-01	2100-01-01	6							
+PT Tapado do Outeiro II			Marginal Heat Rate	1999-01-01	2100-01-01	5.806451613							
+PT Tunes Power Station 			Marginal Heat Rate	1973-01-01	2100-01-01	8.181818182							
+PT_H2_CCGT			Marginal Heat Rate	2009-01-01	2100-01-01	6							
+PT_H2_OCGT			Marginal Heat Rate	2009-01-01	2100-01-01	8							
+PT Biomass 1990			Minimum Load	1990-01-01	2040-01-01	0							
+PT Biomass 1995			Minimum Load	1995-01-01	2045-01-01	0							
+PT Biomass 2000			Minimum Load	2000-01-01	2050-01-01	0							
+PT Biomass 2005			Minimum Load	2005-01-01	2055-01-01	0							
+PT Biomass 2010			Minimum Load	2010-01-01	2060-01-01	0							
+PT Biomass 2015			Minimum Load	2015-01-01	2065-01-01	0							
+PT Biomass 2020			Minimum Load	2020-01-01	2070-01-01	0							
+PT Biomass 2025			Minimum Load	2025-01-01	2075-01-01	0							
+PT Biomass 2030			Minimum Load	2030-01-01	2080-01-01	0							
+PT Biomass 2035			Minimum Load	2035-01-01	2085-01-01	0							
+PT Biomass 2040			Minimum Load	2040-01-01	2090-01-01	0							
+PT Biomass 2045			Minimum Load	2045-01-01	2095-01-01	0							
+PT Biomass 2050			Minimum Load	2050-01-01	2100-01-01	0							
+PT Biomass 2055			Minimum Load	2055-01-01	2105-01-01	0							
+PT Biomass 2060			Minimum Load	2060-01-01	2110-01-01	0							
+PT Biomass 2065			Minimum Load	2065-01-01	2115-01-01	0							
+PT CCGT 1990			Minimum Load	1990-01-01	2040-01-01	0							
+PT CCGT 1995			Minimum Load	1995-01-01	2045-01-01	0							
+PT CCGT 2000			Minimum Load	2000-01-01	2050-01-01	0							
+PT CCGT 2005			Minimum Load	2005-01-01	2055-01-01	0							
+PT CCGT 2010			Minimum Load	2010-01-01	2060-01-01	0							
+PT CCGT 2015			Minimum Load	2015-01-01	2065-01-01	0							
+PT CCGT 2020			Minimum Load	2020-01-01	2070-01-01	0							
+PT CCGT 2025			Minimum Load	2025-01-01	2075-01-01	0							
+PT CCGT 2030			Minimum Load	2030-01-01	2080-01-01	0							
+PT CCGT 2031			Minimum Load	2031-01-01	2081-01-01	0							
+PT CCGT 2032			Minimum Load	2032-01-01	2082-01-01	0							
+PT CCGT 2033			Minimum Load	2033-01-01	2083-01-01	0							
+PT CCGT 2034			Minimum Load	2034-01-01	2084-01-01	0							
+PT CCGT 2035			Minimum Load	2035-01-01	2085-01-01	0							
+PT CCGT 2036			Minimum Load	2036-01-01	2086-01-01	0							
+PT CCGT 2037			Minimum Load	2037-01-01	2087-01-01	0							
+PT CCGT 2038			Minimum Load	2038-01-01	2088-01-01	0							
+PT CCGT 2039			Minimum Load	2039-01-01	2089-01-01	0							
+PT CCGT 2040			Minimum Load	2040-01-01	2090-01-01	0							
+PT CCGT 2045			Minimum Load	2045-01-01	2095-01-01	0							
+PT CCGT 2050			Minimum Load	2050-01-01	2100-01-01	0							
+PT CCGT 2055			Minimum Load	2055-01-01	2105-01-01	0							
+PT CCGT 2060			Minimum Load	2060-01-01	2110-01-01	0							
+PT CCGT 2065			Minimum Load	2065-01-01	2115-01-01	0							
+PT CHP 1990			Minimum Load	1990-01-01	2040-01-01	0							
+PT CHP 1995			Minimum Load	1995-01-01	2045-01-01	0							
+PT CHP 2000			Minimum Load	2000-01-01	2050-01-01	0							
+PT CHP 2005			Minimum Load	2005-01-01	2055-01-01	0							
+PT CHP 2010			Minimum Load	2010-01-01	2060-01-01	0							
+PT CHP 2015			Minimum Load	2015-01-01	2065-01-01	0							
+PT CHP 2020			Minimum Load	2020-01-01	2070-01-01	0							
+PT CHP 2025			Minimum Load	2025-01-01	2075-01-01	0							
+PT CHP 2030			Minimum Load	2030-01-01	2080-01-01	0							
+PT CHP 2035			Minimum Load	2035-01-01	2085-01-01	0							
+PT CHP 2040			Minimum Load	2040-01-01	2090-01-01	0							
+PT CHP 2045			Minimum Load	2045-01-01	2095-01-01	0							
+PT CHP 2050			Minimum Load	2050-01-01	2100-01-01	0							
+PT CHP 2055			Minimum Load	2055-01-01	2105-01-01	0							
+PT CHP 2060			Minimum Load	2060-01-01	2110-01-01	0							
+PT CHP 2065			Minimum Load	2065-01-01	2115-01-01	0							
+PT Coal 1990			Minimum Load	1990-01-01	2040-01-01	0							
+PT Coal 1995			Minimum Load	1995-01-01	2045-01-01	0							
+PT Coal 2000			Minimum Load	2000-01-01	2050-01-01	0							
+PT Coal 2005			Minimum Load	2005-01-01	2055-01-01	0							
+PT Coal 2010			Minimum Load	2010-01-01	2060-01-01	0							
+PT Coal 2015			Minimum Load	2015-01-01	2065-01-01	0							
+PT Coal 2020			Minimum Load	2020-01-01	2070-01-01	0							
+PT Coal 2025			Minimum Load	2025-01-01	2075-01-01	0							
+PT Coal 2030			Minimum Load	2030-01-01	2080-01-01	0							
+PT Coal 2035			Minimum Load	2035-01-01	2085-01-01	0							
+PT Coal 2040			Minimum Load	2040-01-01	2090-01-01	0							
+PT Coal 2045			Minimum Load	2045-01-01	2095-01-01	0							
+PT Coal 2050			Minimum Load	2050-01-01	2100-01-01	0							
+PT Coal 2055			Minimum Load	2055-01-01	2105-01-01	0							
+PT Coal 2060			Minimum Load	2060-01-01	2110-01-01	0							
+PT Coal 2065			Minimum Load	2065-01-01	2115-01-01	0							
+PT Lares I Power Station 			Minimum Load	2009-01-01	2100-01-01	100.8							
+PT Lares II Power Station 			Minimum Load	2009-01-01	2100-01-01	100.8							
+PT Lignite 1990			Minimum Load	1990-01-01	2040-01-01	0							
+PT Lignite 1995			Minimum Load	1995-01-01	2045-01-01	0							
+PT Lignite 2000			Minimum Load	2000-01-01	2031-01-01	0							
+PT Lignite 2005			Minimum Load	2005-01-01	2038-01-01	0							
+PT Lignite 2010			Minimum Load	2010-01-01	2038-01-01	0							
+PT Lignite 2015			Minimum Load	2015-01-01	2038-01-01	0							
+PT Lignite 2020			Minimum Load	2020-01-01	2039-01-01	0							
+PT Lignite 2025			Minimum Load	2025-01-01	2039-01-01	0							
+PT Lignite 2030			Minimum Load	2030-01-01	2040-01-01	0							
+PT Lignite 2035			Minimum Load	2035-01-01	2040-01-01	0							
+PT Lignite 2040			Minimum Load	2040-01-01	2040-01-01	0							
+PT Lignite 2045			Minimum Load	2045-01-01	2040-01-01	0							
+PT Lignite 2050			Minimum Load	2050-01-01	2100-01-01	0							
+PT Lignite 2055			Minimum Load	2055-01-01	2105-01-01	0							
+PT Lignite 2060			Minimum Load	2060-01-01	2110-01-01	0							
+PT Lignite 2065			Minimum Load	2065-01-01	2115-01-01	0							
+PT Liquid 1990			Minimum Load	1990-01-01	2040-01-01	0							
+PT Liquid 1995			Minimum Load	1995-01-01	2045-01-01	0							
+PT Liquid 2000			Minimum Load	2000-01-01	2050-01-01	0							
+PT Liquid 2005			Minimum Load	2005-01-01	2055-01-01	0							
+PT Liquid 2010			Minimum Load	2010-01-01	2060-01-01	0							
+PT Liquid 2015			Minimum Load	2015-01-01	2065-01-01	0							
+PT Liquid 2020			Minimum Load	2020-01-01	2070-01-01	0							
+PT Liquid 2025			Minimum Load	2025-01-01	2075-01-01	0							
+PT Liquid 2030			Minimum Load	2030-01-01	2080-01-01	0							
+PT Liquid 2035			Minimum Load	2035-01-01	2085-01-01	0							
+PT Liquid 2040			Minimum Load	2040-01-01	2090-01-01	0							
+PT Liquid 2045			Minimum Load	2045-01-01	2095-01-01	0							
+PT Liquid 2050			Minimum Load	2050-01-01	2100-01-01	0							
+PT Liquid 2055			Minimum Load	2055-01-01	2105-01-01	0							
+PT Liquid 2060			Minimum Load	2060-01-01	2110-01-01	0							
+PT Liquid 2065			Minimum Load	2065-01-01	2115-01-01	0							
+PT Nuclear 1990			Minimum Load	1990-01-01	2040-01-01	0							
+PT Nuclear 1995			Minimum Load	1995-01-01	2045-01-01	0							
+PT Nuclear 2000			Minimum Load	2000-01-01	2050-01-01	0							
+PT Nuclear 2005			Minimum Load	2005-01-01	2055-01-01	0							
+PT Nuclear 2010			Minimum Load	2010-01-01	2060-01-01	0							
+PT Nuclear 2015			Minimum Load	2015-01-01	2065-01-01	0							
+PT Nuclear 2020			Minimum Load	2020-01-01	2070-01-01	0							
+PT OCGT 1990			Minimum Load	1990-01-01	2040-01-01	0							
+PT OCGT 1995			Minimum Load	1995-01-01	2045-01-01	0							
+PT OCGT 2000			Minimum Load	2000-01-01	2050-01-01	0							
+PT OCGT 2005			Minimum Load	2005-01-01	2055-01-01	0							
+PT OCGT 2010			Minimum Load	2010-01-01	2060-01-01	0							
+PT OCGT 2015			Minimum Load	2015-01-01	2065-01-01	0							
+PT OCGT 2020			Minimum Load	2020-01-01	2070-01-01	0							
+PT OCGT 2025			Minimum Load	2025-01-01	2075-01-01	0							
+PT OCGT 2030			Minimum Load	2030-01-01	2080-01-01	0							
+PT OCGT 2035			Minimum Load	2035-01-01	2085-01-01	0							
+PT OCGT 2040			Minimum Load	2040-01-01	2090-01-01	0							
+PT OCGT 2045			Minimum Load	2045-01-01	2095-01-01	0							
+PT OCGT 2050			Minimum Load	2050-01-01	2100-01-01	0							
+PT OCGT 2055			Minimum Load	2055-01-01	2105-01-01	0							
+PT OCGT 2060			Minimum Load	2060-01-01	2110-01-01	0							
+PT OCGT 2065			Minimum Load	2065-01-01	2115-01-01	0							
+PT Pego I Power Station 			Minimum Load	1993-01-01	2100-01-01	172.8							
+PT Pego II Power Station 			Minimum Load	2010-01-01	2100-01-01	146.475							
+PT Pego III Power Station 			Minimum Load	2010-01-01	2100-01-01	146.475							
+PT Ribatejo Power Station I			Minimum Load	2005-01-01	2100-01-01	205.8							
+PT Ribatejo Power Station II			Minimum Load	2005-01-01	2100-01-01	205.8							
+PT Sines Power Station 			Minimum Load	1985-01-01	2100-01-01	354							
+PT Tapado do Outeiro I			Minimum Load	1999-01-01	2100-01-01	173.25							
+PT Tapado do Outeiro II			Minimum Load	1999-01-01	2100-01-01	173.25							
+PT Tunes Power Station 			Minimum Load	1973-01-01	2100-01-01	0							
+PT_H2_CCGT			Minimum Load	2009-01-01	2100-01-01	0							
+PT_H2_OCGT			Minimum Load	2009-01-01	2100-01-01	0							
+PT Biomass 1990			Minimum Load Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+PT Biomass 1995			Minimum Load Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+PT Biomass 2000			Minimum Load Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+PT Biomass 2005			Minimum Load Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+PT Biomass 2010			Minimum Load Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+PT Biomass 2015			Minimum Load Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+PT Biomass 2020			Minimum Load Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+PT Biomass 2025			Minimum Load Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+PT Biomass 2030			Minimum Load Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+PT Biomass 2035			Minimum Load Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+PT Biomass 2040			Minimum Load Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+PT Biomass 2045			Minimum Load Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+PT Biomass 2050			Minimum Load Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+PT Biomass 2055			Minimum Load Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+PT Biomass 2060			Minimum Load Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+PT Biomass 2065			Minimum Load Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+PT CCGT 1990			Minimum Load Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+PT CCGT 1995			Minimum Load Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+PT CCGT 2000			Minimum Load Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+PT CCGT 2005			Minimum Load Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+PT CCGT 2010			Minimum Load Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+PT CCGT 2015			Minimum Load Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+PT CCGT 2020			Minimum Load Bid Up Heat Rate	2020-01-01	2070-01-01	-3.57103321							
+PT CCGT 2025			Minimum Load Bid Up Heat Rate	2025-01-01	2075-01-01	-3.308823529							
+PT CCGT 2030			Minimum Load Bid Up Heat Rate	2030-01-01	2080-01-01	-3.296703297							
+PT CCGT 2031			Minimum Load Bid Up Heat Rate	2031-01-01	2081-01-01	-3.296703297							
+PT CCGT 2032			Minimum Load Bid Up Heat Rate	2032-01-01	2082-01-01	-3.296703297							
+PT CCGT 2033			Minimum Load Bid Up Heat Rate	2033-01-01	2083-01-01	-3.296703297							
+PT CCGT 2034			Minimum Load Bid Up Heat Rate	2034-01-01	2084-01-01	-3.296703297							
+PT CCGT 2035			Minimum Load Bid Up Heat Rate	2035-01-01	2085-01-01	-3.284671533							
+PT CCGT 2036			Minimum Load Bid Up Heat Rate	2036-01-01	2086-01-01	-3.284671533							
+PT CCGT 2037			Minimum Load Bid Up Heat Rate	2037-01-01	2087-01-01	-3.284671533							
+PT CCGT 2038			Minimum Load Bid Up Heat Rate	2038-01-01	2088-01-01	0							
+PT CCGT 2039			Minimum Load Bid Up Heat Rate	2039-01-01	2089-01-01	0							
+PT CCGT 2040			Minimum Load Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+PT CCGT 2045			Minimum Load Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+PT CCGT 2050			Minimum Load Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+PT CCGT 2055			Minimum Load Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+PT CCGT 2060			Minimum Load Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+PT CCGT 2065			Minimum Load Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+PT CHP 1990			Minimum Load Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+PT CHP 1995			Minimum Load Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+PT CHP 2000			Minimum Load Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+PT CHP 2005			Minimum Load Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+PT CHP 2010			Minimum Load Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+PT CHP 2015			Minimum Load Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+PT CHP 2020			Minimum Load Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+PT CHP 2025			Minimum Load Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+PT CHP 2030			Minimum Load Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+PT CHP 2035			Minimum Load Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+PT CHP 2040			Minimum Load Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+PT CHP 2045			Minimum Load Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+PT CHP 2050			Minimum Load Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+PT CHP 2055			Minimum Load Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+PT CHP 2060			Minimum Load Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+PT CHP 2065			Minimum Load Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+PT Coal 1990			Minimum Load Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+PT Coal 1995			Minimum Load Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+PT Coal 2000			Minimum Load Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+PT Coal 2005			Minimum Load Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+PT Coal 2010			Minimum Load Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+PT Coal 2015			Minimum Load Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+PT Coal 2020			Minimum Load Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+PT Coal 2025			Minimum Load Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+PT Coal 2030			Minimum Load Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+PT Coal 2035			Minimum Load Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+PT Coal 2040			Minimum Load Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+PT Coal 2045			Minimum Load Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+PT Coal 2050			Minimum Load Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+PT Coal 2055			Minimum Load Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+PT Coal 2060			Minimum Load Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+PT Coal 2065			Minimum Load Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+PT Lares I Power Station 			Minimum Load Bid Up Heat Rate	2009-01-01	2100-01-01	0							
+PT Lares II Power Station 			Minimum Load Bid Up Heat Rate	2009-01-01	2100-01-01	0							
+PT Lignite 1990			Minimum Load Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+PT Lignite 1995			Minimum Load Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+PT Lignite 2000			Minimum Load Bid Up Heat Rate	2000-01-01	2031-01-01	0							
+PT Lignite 2005			Minimum Load Bid Up Heat Rate	2005-01-01	2038-01-01	0							
+PT Lignite 2010			Minimum Load Bid Up Heat Rate	2010-01-01	2038-01-01	0							
+PT Lignite 2015			Minimum Load Bid Up Heat Rate	2015-01-01	2038-01-01	0							
+PT Lignite 2020			Minimum Load Bid Up Heat Rate	2020-01-01	2039-01-01	0							
+PT Lignite 2025			Minimum Load Bid Up Heat Rate	2025-01-01	2039-01-01	0							
+PT Lignite 2030			Minimum Load Bid Up Heat Rate	2030-01-01	2040-01-01	0							
+PT Lignite 2035			Minimum Load Bid Up Heat Rate	2035-01-01	2040-01-01	0							
+PT Lignite 2040			Minimum Load Bid Up Heat Rate	2040-01-01	2040-01-01	0							
+PT Lignite 2045			Minimum Load Bid Up Heat Rate	2045-01-01	2040-01-01	0							
+PT Lignite 2050			Minimum Load Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+PT Lignite 2055			Minimum Load Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+PT Lignite 2060			Minimum Load Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+PT Lignite 2065			Minimum Load Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+PT Liquid 1990			Minimum Load Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+PT Liquid 1995			Minimum Load Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+PT Liquid 2000			Minimum Load Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+PT Liquid 2005			Minimum Load Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+PT Liquid 2010			Minimum Load Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+PT Liquid 2015			Minimum Load Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+PT Liquid 2020			Minimum Load Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+PT Liquid 2025			Minimum Load Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+PT Liquid 2030			Minimum Load Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+PT Liquid 2035			Minimum Load Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+PT Liquid 2040			Minimum Load Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+PT Liquid 2045			Minimum Load Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+PT Liquid 2050			Minimum Load Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+PT Liquid 2055			Minimum Load Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+PT Liquid 2060			Minimum Load Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+PT Liquid 2065			Minimum Load Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+PT Nuclear 1990			Minimum Load Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+PT Nuclear 1995			Minimum Load Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+PT Nuclear 2000			Minimum Load Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+PT Nuclear 2005			Minimum Load Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+PT Nuclear 2010			Minimum Load Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+PT Nuclear 2015			Minimum Load Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+PT Nuclear 2020			Minimum Load Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+PT OCGT 1990			Minimum Load Bid Up Heat Rate	1990-01-01	2040-01-01	0							
+PT OCGT 1995			Minimum Load Bid Up Heat Rate	1995-01-01	2045-01-01	0							
+PT OCGT 2000			Minimum Load Bid Up Heat Rate	2000-01-01	2050-01-01	0							
+PT OCGT 2005			Minimum Load Bid Up Heat Rate	2005-01-01	2055-01-01	0							
+PT OCGT 2010			Minimum Load Bid Up Heat Rate	2010-01-01	2060-01-01	0							
+PT OCGT 2015			Minimum Load Bid Up Heat Rate	2015-01-01	2065-01-01	0							
+PT OCGT 2020			Minimum Load Bid Up Heat Rate	2020-01-01	2070-01-01	0							
+PT OCGT 2025			Minimum Load Bid Up Heat Rate	2025-01-01	2075-01-01	0							
+PT OCGT 2030			Minimum Load Bid Up Heat Rate	2030-01-01	2080-01-01	0							
+PT OCGT 2035			Minimum Load Bid Up Heat Rate	2035-01-01	2085-01-01	0							
+PT OCGT 2040			Minimum Load Bid Up Heat Rate	2040-01-01	2090-01-01	0							
+PT OCGT 2045			Minimum Load Bid Up Heat Rate	2045-01-01	2095-01-01	0							
+PT OCGT 2050			Minimum Load Bid Up Heat Rate	2050-01-01	2100-01-01	0							
+PT OCGT 2055			Minimum Load Bid Up Heat Rate	2055-01-01	2105-01-01	0							
+PT OCGT 2060			Minimum Load Bid Up Heat Rate	2060-01-01	2110-01-01	0							
+PT OCGT 2065			Minimum Load Bid Up Heat Rate	2065-01-01	2115-01-01	0							
+PT Pego I Power Station 			Minimum Load Bid Up Heat Rate	1993-01-01	2100-01-01	0							
+PT Pego II Power Station 			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+PT Pego III Power Station 			Minimum Load Bid Up Heat Rate	2010-01-01	2100-01-01	0							
+PT Ribatejo Power Station I			Minimum Load Bid Up Heat Rate	2005-01-01	2100-01-01	0							
+PT Ribatejo Power Station II			Minimum Load Bid Up Heat Rate	2005-01-01	2100-01-01	0							
+PT Sines Power Station 			Minimum Load Bid Up Heat Rate	1985-01-01	2100-01-01	0							
+PT Tapado do Outeiro I			Minimum Load Bid Up Heat Rate	1999-01-01	2100-01-01	0							
+PT Tapado do Outeiro II			Minimum Load Bid Up Heat Rate	1999-01-01	2100-01-01	0							
+PT Tunes Power Station 			Minimum Load Bid Up Heat Rate	1973-01-01	2100-01-01	0							
+PT_H2_CCGT			Minimum Load Bid Up Heat Rate	2009-01-01	2100-01-01	0							
+PT_H2_OCGT			Minimum Load Bid Up Heat Rate	2009-01-01	2100-01-01	0							
+PT Biomass 1990			Minimum Load Bid Up Price	1990-01-01	2040-01-01	0							
+PT Biomass 1995			Minimum Load Bid Up Price	1995-01-01	2045-01-01	0							
+PT Biomass 2000			Minimum Load Bid Up Price	2000-01-01	2050-01-01	0							
+PT Biomass 2005			Minimum Load Bid Up Price	2005-01-01	2055-01-01	0							
+PT Biomass 2010			Minimum Load Bid Up Price	2010-01-01	2060-01-01	0							
+PT Biomass 2015			Minimum Load Bid Up Price	2015-01-01	2065-01-01	0							
+PT Biomass 2020			Minimum Load Bid Up Price	2020-01-01	2070-01-01	0							
+PT Biomass 2025			Minimum Load Bid Up Price	2025-01-01	2075-01-01	0							
+PT Biomass 2030			Minimum Load Bid Up Price	2030-01-01	2080-01-01	0							
+PT Biomass 2035			Minimum Load Bid Up Price	2035-01-01	2085-01-01	0							
+PT Biomass 2040			Minimum Load Bid Up Price	2040-01-01	2090-01-01	0							
+PT Biomass 2045			Minimum Load Bid Up Price	2045-01-01	2095-01-01	0							
+PT Biomass 2050			Minimum Load Bid Up Price	2050-01-01	2100-01-01	0							
+PT Biomass 2055			Minimum Load Bid Up Price	2055-01-01	2105-01-01	0							
+PT Biomass 2060			Minimum Load Bid Up Price	2060-01-01	2110-01-01	0							
+PT Biomass 2065			Minimum Load Bid Up Price	2065-01-01	2115-01-01	0							
+PT CCGT 1990			Minimum Load Bid Up Price	1990-01-01	2040-01-01	0							
+PT CCGT 1995			Minimum Load Bid Up Price	1995-01-01	2045-01-01	0							
+PT CCGT 2000			Minimum Load Bid Up Price	2000-01-01	2050-01-01	0							
+PT CCGT 2005			Minimum Load Bid Up Price	2005-01-01	2055-01-01	0							
+PT CCGT 2010			Minimum Load Bid Up Price	2010-01-01	2060-01-01	0							
+PT CCGT 2015			Minimum Load Bid Up Price	2015-01-01	2065-01-01	0							
+PT CCGT 2020			Minimum Load Bid Up Price	2020-01-01	2070-01-01	0							
+PT CCGT 2025			Minimum Load Bid Up Price	2025-01-01	2075-01-01	0							
+PT CCGT 2030			Minimum Load Bid Up Price	2030-01-01	2080-01-01	0							
+PT CCGT 2031			Minimum Load Bid Up Price	2031-01-01	2081-01-01	0							
+PT CCGT 2032			Minimum Load Bid Up Price	2032-01-01	2082-01-01	0							
+PT CCGT 2033			Minimum Load Bid Up Price	2033-01-01	2083-01-01	0							
+PT CCGT 2034			Minimum Load Bid Up Price	2034-01-01	2084-01-01	0							
+PT CCGT 2035			Minimum Load Bid Up Price	2035-01-01	2085-01-01	0							
+PT CCGT 2036			Minimum Load Bid Up Price	2036-01-01	2086-01-01	0							
+PT CCGT 2037			Minimum Load Bid Up Price	2037-01-01	2087-01-01	0							
+PT CCGT 2038			Minimum Load Bid Up Price	2038-01-01	2088-01-01	0							
+PT CCGT 2039			Minimum Load Bid Up Price	2039-01-01	2089-01-01	0							
+PT CCGT 2040			Minimum Load Bid Up Price	2040-01-01	2090-01-01	0							
+PT CCGT 2045			Minimum Load Bid Up Price	2045-01-01	2095-01-01	0							
+PT CCGT 2050			Minimum Load Bid Up Price	2050-01-01	2100-01-01	0							
+PT CCGT 2055			Minimum Load Bid Up Price	2055-01-01	2105-01-01	0							
+PT CCGT 2060			Minimum Load Bid Up Price	2060-01-01	2110-01-01	0							
+PT CCGT 2065			Minimum Load Bid Up Price	2065-01-01	2115-01-01	0							
+PT CHP 1990			Minimum Load Bid Up Price	1990-01-01	2040-01-01	0							
+PT CHP 1995			Minimum Load Bid Up Price	1995-01-01	2045-01-01	0							
+PT CHP 2000			Minimum Load Bid Up Price	2000-01-01	2050-01-01	0							
+PT CHP 2005			Minimum Load Bid Up Price	2005-01-01	2055-01-01	0							
+PT CHP 2010			Minimum Load Bid Up Price	2010-01-01	2060-01-01	0							
+PT CHP 2015			Minimum Load Bid Up Price	2015-01-01	2065-01-01	0							
+PT CHP 2020			Minimum Load Bid Up Price	2020-01-01	2070-01-01	0							
+PT CHP 2025			Minimum Load Bid Up Price	2025-01-01	2075-01-01	0							
+PT CHP 2030			Minimum Load Bid Up Price	2030-01-01	2080-01-01	0							
+PT CHP 2035			Minimum Load Bid Up Price	2035-01-01	2085-01-01	0							
+PT CHP 2040			Minimum Load Bid Up Price	2040-01-01	2090-01-01	0							
+PT CHP 2045			Minimum Load Bid Up Price	2045-01-01	2095-01-01	0							
+PT CHP 2050			Minimum Load Bid Up Price	2050-01-01	2100-01-01	0							
+PT CHP 2055			Minimum Load Bid Up Price	2055-01-01	2105-01-01	0							
+PT CHP 2060			Minimum Load Bid Up Price	2060-01-01	2110-01-01	0							
+PT CHP 2065			Minimum Load Bid Up Price	2065-01-01	2115-01-01	0							
+PT Coal 1990			Minimum Load Bid Up Price	1990-01-01	2040-01-01	0							
+PT Coal 1995			Minimum Load Bid Up Price	1995-01-01	2045-01-01	0							
+PT Coal 2000			Minimum Load Bid Up Price	2000-01-01	2050-01-01	0							
+PT Coal 2005			Minimum Load Bid Up Price	2005-01-01	2055-01-01	0							
+PT Coal 2010			Minimum Load Bid Up Price	2010-01-01	2060-01-01	0							
+PT Coal 2015			Minimum Load Bid Up Price	2015-01-01	2065-01-01	0							
+PT Coal 2020			Minimum Load Bid Up Price	2020-01-01	2070-01-01	0							
+PT Coal 2025			Minimum Load Bid Up Price	2025-01-01	2075-01-01	0							
+PT Coal 2030			Minimum Load Bid Up Price	2030-01-01	2080-01-01	0							
+PT Coal 2035			Minimum Load Bid Up Price	2035-01-01	2085-01-01	0							
+PT Coal 2040			Minimum Load Bid Up Price	2040-01-01	2090-01-01	0							
+PT Coal 2045			Minimum Load Bid Up Price	2045-01-01	2095-01-01	0							
+PT Coal 2050			Minimum Load Bid Up Price	2050-01-01	2100-01-01	0							
+PT Coal 2055			Minimum Load Bid Up Price	2055-01-01	2105-01-01	0							
+PT Coal 2060			Minimum Load Bid Up Price	2060-01-01	2110-01-01	0							
+PT Coal 2065			Minimum Load Bid Up Price	2065-01-01	2115-01-01	0							
+PT Lares I Power Station 			Minimum Load Bid Up Price	2009-01-01	2100-01-01	0							
+PT Lares II Power Station 			Minimum Load Bid Up Price	2009-01-01	2100-01-01	0							
+PT Lignite 1990			Minimum Load Bid Up Price	1990-01-01	2040-01-01	0							
+PT Lignite 1995			Minimum Load Bid Up Price	1995-01-01	2045-01-01	0							
+PT Lignite 2000			Minimum Load Bid Up Price	2000-01-01	2031-01-01	0							
+PT Lignite 2005			Minimum Load Bid Up Price	2005-01-01	2038-01-01	0							
+PT Lignite 2010			Minimum Load Bid Up Price	2010-01-01	2038-01-01	0							
+PT Lignite 2015			Minimum Load Bid Up Price	2015-01-01	2038-01-01	0							
+PT Lignite 2020			Minimum Load Bid Up Price	2020-01-01	2039-01-01	0							
+PT Lignite 2025			Minimum Load Bid Up Price	2025-01-01	2039-01-01	0							
+PT Lignite 2030			Minimum Load Bid Up Price	2030-01-01	2040-01-01	0							
+PT Lignite 2035			Minimum Load Bid Up Price	2035-01-01	2040-01-01	0							
+PT Lignite 2040			Minimum Load Bid Up Price	2040-01-01	2040-01-01	0							
+PT Lignite 2045			Minimum Load Bid Up Price	2045-01-01	2040-01-01	0							
+PT Lignite 2050			Minimum Load Bid Up Price	2050-01-01	2100-01-01	0							
+PT Lignite 2055			Minimum Load Bid Up Price	2055-01-01	2105-01-01	0							
+PT Lignite 2060			Minimum Load Bid Up Price	2060-01-01	2110-01-01	0							
+PT Lignite 2065			Minimum Load Bid Up Price	2065-01-01	2115-01-01	0							
+PT Liquid 1990			Minimum Load Bid Up Price	1990-01-01	2040-01-01	0							
+PT Liquid 1995			Minimum Load Bid Up Price	1995-01-01	2045-01-01	0							
+PT Liquid 2000			Minimum Load Bid Up Price	2000-01-01	2050-01-01	0							
+PT Liquid 2005			Minimum Load Bid Up Price	2005-01-01	2055-01-01	0							
+PT Liquid 2010			Minimum Load Bid Up Price	2010-01-01	2060-01-01	0							
+PT Liquid 2015			Minimum Load Bid Up Price	2015-01-01	2065-01-01	0							
+PT Liquid 2020			Minimum Load Bid Up Price	2020-01-01	2070-01-01	0							
+PT Liquid 2025			Minimum Load Bid Up Price	2025-01-01	2075-01-01	0							
+PT Liquid 2030			Minimum Load Bid Up Price	2030-01-01	2080-01-01	0							
+PT Liquid 2035			Minimum Load Bid Up Price	2035-01-01	2085-01-01	0							
+PT Liquid 2040			Minimum Load Bid Up Price	2040-01-01	2090-01-01	0							
+PT Liquid 2045			Minimum Load Bid Up Price	2045-01-01	2095-01-01	0							
+PT Liquid 2050			Minimum Load Bid Up Price	2050-01-01	2100-01-01	0							
+PT Liquid 2055			Minimum Load Bid Up Price	2055-01-01	2105-01-01	0							
+PT Liquid 2060			Minimum Load Bid Up Price	2060-01-01	2110-01-01	0							
+PT Liquid 2065			Minimum Load Bid Up Price	2065-01-01	2115-01-01	0							
+PT Nuclear 1990			Minimum Load Bid Up Price	1990-01-01	2040-01-01	0							
+PT Nuclear 1995			Minimum Load Bid Up Price	1995-01-01	2045-01-01	0							
+PT Nuclear 2000			Minimum Load Bid Up Price	2000-01-01	2050-01-01	0							
+PT Nuclear 2005			Minimum Load Bid Up Price	2005-01-01	2055-01-01	0							
+PT Nuclear 2010			Minimum Load Bid Up Price	2010-01-01	2060-01-01	0							
+PT Nuclear 2015			Minimum Load Bid Up Price	2015-01-01	2065-01-01	0							
+PT Nuclear 2020			Minimum Load Bid Up Price	2020-01-01	2070-01-01	0							
+PT OCGT 1990			Minimum Load Bid Up Price	1990-01-01	2040-01-01	0							
+PT OCGT 1995			Minimum Load Bid Up Price	1995-01-01	2045-01-01	0							
+PT OCGT 2000			Minimum Load Bid Up Price	2000-01-01	2050-01-01	0							
+PT OCGT 2005			Minimum Load Bid Up Price	2005-01-01	2055-01-01	0							
+PT OCGT 2010			Minimum Load Bid Up Price	2010-01-01	2060-01-01	0							
+PT OCGT 2015			Minimum Load Bid Up Price	2015-01-01	2065-01-01	0							
+PT OCGT 2020			Minimum Load Bid Up Price	2020-01-01	2070-01-01	0							
+PT OCGT 2025			Minimum Load Bid Up Price	2025-01-01	2075-01-01	0							
+PT OCGT 2030			Minimum Load Bid Up Price	2030-01-01	2080-01-01	0							
+PT OCGT 2035			Minimum Load Bid Up Price	2035-01-01	2085-01-01	0							
+PT OCGT 2040			Minimum Load Bid Up Price	2040-01-01	2090-01-01	0							
+PT OCGT 2045			Minimum Load Bid Up Price	2045-01-01	2095-01-01	0							
+PT OCGT 2050			Minimum Load Bid Up Price	2050-01-01	2100-01-01	0							
+PT OCGT 2055			Minimum Load Bid Up Price	2055-01-01	2105-01-01	0							
+PT OCGT 2060			Minimum Load Bid Up Price	2060-01-01	2110-01-01	0							
+PT OCGT 2065			Minimum Load Bid Up Price	2065-01-01	2115-01-01	0							
+PT Pego I Power Station 			Minimum Load Bid Up Price	1993-01-01	2100-01-01	5							
+PT Pego II Power Station 			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+PT Pego III Power Station 			Minimum Load Bid Up Price	2010-01-01	2100-01-01	0							
+PT Ribatejo Power Station I			Minimum Load Bid Up Price	2005-01-01	2100-01-01	0							
+PT Ribatejo Power Station II			Minimum Load Bid Up Price	2005-01-01	2100-01-01	0							
+PT Sines Power Station 			Minimum Load Bid Up Price	1985-01-01	2100-01-01	5							
+PT Tapado do Outeiro I			Minimum Load Bid Up Price	1999-01-01	2100-01-01	0							
+PT Tapado do Outeiro II			Minimum Load Bid Up Price	1999-01-01	2100-01-01	0							
+PT Tunes Power Station 			Minimum Load Bid Up Price	1973-01-01	2100-01-01	0							
+PT_H2_CCGT			Minimum Load Bid Up Price	2009-01-01	2100-01-01	0							
+PT_H2_OCGT			Minimum Load Bid Up Price	2009-01-01	2100-01-01	0							
+PT OCGT 2020			Save Data	2020-01-01	2070-01-01	1							
+PT_H2_CCGT			Save Data	2009-01-01	2100-01-01	1							
+PT_H2_OCGT			Save Data	2009-01-01	2100-01-01	1							
+PT Biomass 1990			Variable Cost	1990-01-01	2040-01-01	5							
+PT Biomass 1995			Variable Cost	1995-01-01	2045-01-01	5							
+PT Biomass 2000			Variable Cost	2000-01-01	2050-01-01	5							
+PT Biomass 2005			Variable Cost	2005-01-01	2055-01-01	5							
+PT Biomass 2010			Variable Cost	2010-01-01	2060-01-01	5							
+PT Biomass 2015			Variable Cost	2015-01-01	2065-01-01	5							
+PT Biomass 2020			Variable Cost	2020-01-01	2070-01-01	5							
+PT Biomass 2025			Variable Cost	2025-01-01	2075-01-01	5							
+PT Biomass 2030			Variable Cost	2030-01-01	2080-01-01	5							
+PT Biomass 2035			Variable Cost	2035-01-01	2085-01-01	5							
+PT Biomass 2040			Variable Cost	2040-01-01	2090-01-01	5							
+PT Biomass 2045			Variable Cost	2045-01-01	2095-01-01	5							
+PT Biomass 2050			Variable Cost	2050-01-01	2100-01-01	5							
+PT Biomass 2055			Variable Cost	2055-01-01	2105-01-01	5							
+PT Biomass 2060			Variable Cost	2060-01-01	2110-01-01	5							
+PT Biomass 2065			Variable Cost	2065-01-01	2115-01-01	5							
+PT CCGT 1990			Variable Cost	1990-01-01	2040-01-01	1.5							
+PT CCGT 1995			Variable Cost	1995-01-01	2045-01-01	1.5							
+PT CCGT 2000			Variable Cost	2000-01-01	2050-01-01	1.5							
+PT CCGT 2005			Variable Cost	2005-01-01	2055-01-01	1.5							
+PT CCGT 2010			Variable Cost	2010-01-01	2060-01-01	1.5							
+PT CCGT 2015			Variable Cost	2015-01-01	2065-01-01	1.5							
+PT CCGT 2020			Variable Cost	2020-01-01	2070-01-01	1.5							
+PT CCGT 2025			Variable Cost	2025-01-01	2075-01-01	1.5							
+PT CCGT 2030			Variable Cost	2030-01-01	2080-01-01	1.5							
+PT CCGT 2031			Variable Cost	2031-01-01	2081-01-01	1.5							
+PT CCGT 2032			Variable Cost	2032-01-01	2082-01-01	1.5							
+PT CCGT 2033			Variable Cost	2033-01-01	2083-01-01	1.5							
+PT CCGT 2034			Variable Cost	2034-01-01	2084-01-01	1.5							
+PT CCGT 2035			Variable Cost	2035-01-01	2085-01-01	1.5							
+PT CCGT 2036			Variable Cost	2036-01-01	2086-01-01	1.5							
+PT CCGT 2037			Variable Cost	2037-01-01	2087-01-01	1.5							
+PT CCGT 2038			Variable Cost	2038-01-01	2088-01-01	1.5							
+PT CCGT 2039			Variable Cost	2039-01-01	2089-01-01	1.5							
+PT CCGT 2040			Variable Cost	2040-01-01	2090-01-01	1.5							
+PT CCGT 2045			Variable Cost	2045-01-01	2095-01-01	1.5							
+PT CCGT 2050			Variable Cost	2050-01-01	2100-01-01	1.5							
+PT CCGT 2055			Variable Cost	2055-01-01	2105-01-01	1.5							
+PT CCGT 2060			Variable Cost	2060-01-01	2110-01-01	1.5							
+PT CCGT 2065			Variable Cost	2065-01-01	2115-01-01	1.5							
+PT CHP 1990			Variable Cost	1990-01-01	2040-01-01	3							
+PT CHP 1995			Variable Cost	1995-01-01	2045-01-01	3							
+PT CHP 2000			Variable Cost	2000-01-01	2050-01-01	3							
+PT CHP 2005			Variable Cost	2005-01-01	2055-01-01	3							
+PT CHP 2010			Variable Cost	2010-01-01	2060-01-01	3							
+PT CHP 2015			Variable Cost	2015-01-01	2065-01-01	3							
+PT CHP 2020			Variable Cost	2020-01-01	2070-01-01	3							
+PT CHP 2025			Variable Cost	2025-01-01	2075-01-01	3							
+PT CHP 2030			Variable Cost	2030-01-01	2080-01-01	3							
+PT CHP 2035			Variable Cost	2035-01-01	2085-01-01	3							
+PT CHP 2040			Variable Cost	2040-01-01	2090-01-01	3							
+PT CHP 2045			Variable Cost	2045-01-01	2095-01-01	3							
+PT CHP 2050			Variable Cost	2050-01-01	2100-01-01	3							
+PT CHP 2055			Variable Cost	2055-01-01	2105-01-01	3							
+PT CHP 2060			Variable Cost	2060-01-01	2110-01-01	3							
+PT CHP 2065			Variable Cost	2065-01-01	2115-01-01	3							
+PT Coal 1990			Variable Cost	1990-01-01	2040-01-01	4							
+PT Coal 1995			Variable Cost	1995-01-01	2045-01-01	4							
+PT Coal 2000			Variable Cost	2000-01-01	2050-01-01	4							
+PT Coal 2005			Variable Cost	2005-01-01	2055-01-01	4							
+PT Coal 2010			Variable Cost	2010-01-01	2060-01-01	4							
+PT Coal 2015			Variable Cost	2015-01-01	2065-01-01	4							
+PT Coal 2020			Variable Cost	2020-01-01	2070-01-01	4							
+PT Coal 2025			Variable Cost	2025-01-01	2075-01-01	4							
+PT Coal 2030			Variable Cost	2030-01-01	2080-01-01	4							
+PT Coal 2035			Variable Cost	2035-01-01	2085-01-01	4							
+PT Coal 2040			Variable Cost	2040-01-01	2090-01-01	4							
+PT Coal 2045			Variable Cost	2045-01-01	2095-01-01	4							
+PT Coal 2050			Variable Cost	2050-01-01	2100-01-01	4							
+PT Coal 2055			Variable Cost	2055-01-01	2105-01-01	4							
+PT Coal 2060			Variable Cost	2060-01-01	2110-01-01	4							
+PT Coal 2065			Variable Cost	2065-01-01	2115-01-01	4							
+PT Lares I Power Station 			Variable Cost	2009-01-01	2100-01-01	0.5							
+PT Lares II Power Station 			Variable Cost	2009-01-01	2100-01-01	0.5							
+PT Lignite 1990			Variable Cost	1990-01-01	2040-01-01	5							
+PT Lignite 1995			Variable Cost	1995-01-01	2045-01-01	5							
+PT Lignite 2000			Variable Cost	2000-01-01	2031-01-01	5							
+PT Lignite 2005			Variable Cost	2005-01-01	2038-01-01	5							
+PT Lignite 2010			Variable Cost	2010-01-01	2038-01-01	5							
+PT Lignite 2015			Variable Cost	2015-01-01	2038-01-01	5							
+PT Lignite 2020			Variable Cost	2020-01-01	2039-01-01	5							
+PT Lignite 2025			Variable Cost	2025-01-01	2039-01-01	5							
+PT Lignite 2030			Variable Cost	2030-01-01	2040-01-01	5							
+PT Lignite 2035			Variable Cost	2035-01-01	2040-01-01	5							
+PT Lignite 2040			Variable Cost	2040-01-01	2040-01-01	5							
+PT Lignite 2045			Variable Cost	2045-01-01	2040-01-01	5							
+PT Lignite 2050			Variable Cost	2050-01-01	2100-01-01	5							
+PT Lignite 2055			Variable Cost	2055-01-01	2105-01-01	5							
+PT Lignite 2060			Variable Cost	2060-01-01	2110-01-01	5							
+PT Lignite 2065			Variable Cost	2065-01-01	2115-01-01	5							
+PT Liquid 1990			Variable Cost	1990-01-01	2040-01-01	1							
+PT Liquid 1995			Variable Cost	1995-01-01	2045-01-01	1							
+PT Liquid 2000			Variable Cost	2000-01-01	2050-01-01	1							
+PT Liquid 2005			Variable Cost	2005-01-01	2055-01-01	1							
+PT Liquid 2010			Variable Cost	2010-01-01	2060-01-01	1							
+PT Liquid 2015			Variable Cost	2015-01-01	2065-01-01	1							
+PT Liquid 2020			Variable Cost	2020-01-01	2070-01-01	1							
+PT Liquid 2025			Variable Cost	2025-01-01	2075-01-01	1							
+PT Liquid 2030			Variable Cost	2030-01-01	2080-01-01	1							
+PT Liquid 2035			Variable Cost	2035-01-01	2085-01-01	1							
+PT Liquid 2040			Variable Cost	2040-01-01	2090-01-01	1							
+PT Liquid 2045			Variable Cost	2045-01-01	2095-01-01	1							
+PT Liquid 2050			Variable Cost	2050-01-01	2100-01-01	1							
+PT Liquid 2055			Variable Cost	2055-01-01	2105-01-01	1							
+PT Liquid 2060			Variable Cost	2060-01-01	2110-01-01	1							
+PT Liquid 2065			Variable Cost	2065-01-01	2115-01-01	1							
+PT Nuclear 1990			Variable Cost	1990-01-01	2040-01-01	5							
+PT Nuclear 1995			Variable Cost	1995-01-01	2045-01-01	5							
+PT Nuclear 2000			Variable Cost	2000-01-01	2050-01-01	5							
+PT Nuclear 2005			Variable Cost	2005-01-01	2055-01-01	5							
+PT Nuclear 2010			Variable Cost	2010-01-01	2060-01-01	5							
+PT Nuclear 2015			Variable Cost	2015-01-01	2065-01-01	5							
+PT Nuclear 2020			Variable Cost	2020-01-01	2070-01-01	5							
+PT OCGT 1990			Variable Cost	1990-01-01	2040-01-01	1							
+PT OCGT 1995			Variable Cost	1995-01-01	2045-01-01	1							
+PT OCGT 2000			Variable Cost	2000-01-01	2050-01-01	1							
+PT OCGT 2005			Variable Cost	2005-01-01	2055-01-01	1							
+PT OCGT 2010			Variable Cost	2010-01-01	2060-01-01	1							
+PT OCGT 2015			Variable Cost	2015-01-01	2065-01-01	1							
+PT OCGT 2020			Variable Cost	2020-01-01	2070-01-01	1							
+PT OCGT 2025			Variable Cost	2025-01-01	2075-01-01	1							
+PT OCGT 2030			Variable Cost	2030-01-01	2080-01-01	1							
+PT OCGT 2035			Variable Cost	2035-01-01	2085-01-01	1							
+PT OCGT 2040			Variable Cost	2040-01-01	2090-01-01	1							
+PT OCGT 2045			Variable Cost	2045-01-01	2095-01-01	1							
+PT OCGT 2050			Variable Cost	2050-01-01	2100-01-01	1							
+PT OCGT 2055			Variable Cost	2055-01-01	2105-01-01	1							
+PT OCGT 2060			Variable Cost	2060-01-01	2110-01-01	1							
+PT OCGT 2065			Variable Cost	2065-01-01	2115-01-01	1							
+PT Pego I Power Station 			Variable Cost	1993-01-01	2100-01-01	2							
+PT Pego II Power Station 			Variable Cost	2010-01-01	2100-01-01	0.5							
+PT Pego III Power Station 			Variable Cost	2010-01-01	2100-01-01	0.5							
+PT Ribatejo Power Station I			Variable Cost	2005-01-01	2100-01-01	0.5							
+PT Ribatejo Power Station II			Variable Cost	2005-01-01	2100-01-01	0.5							
+PT Sines Power Station 			Variable Cost	1985-01-01	2100-01-01	2							
+PT Tapado do Outeiro I			Variable Cost	1999-01-01	2100-01-01	0.5							
+PT Tapado do Outeiro II			Variable Cost	1999-01-01	2100-01-01	0.5							
+PT Tunes Power Station 			Variable Cost	1973-01-01	2100-01-01	2							
+PT_H2_CCGT			Variable Cost	2009-01-01	2100-01-01	0.5							
+PT_H2_OCGT			Variable Cost	2009-01-01	2100-01-01	0.5							

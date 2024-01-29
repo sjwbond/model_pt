@@ -1,0 +1,10 @@
+Object_Name	Object_Type
+PT PT Onshore 626 39.5 -8.75	Generator
+PT Onshore 626 39.5 -8.75 80M Windspeed	Variable
+PT Onshore 626 39.5 -8.75 80M HHxWS	Variable
+PT Onshore 626 39.5 -8.75 80M HHxWSc	Variable
+PT Onshore 626 39.5 -8.75 80M HHc	Variable
+PT Onshore 626 39.5 -8.75 80M WSc	Variable
+PT Onshore 626 39.5 -8.75 80M HHxWSc+HHc	Variable
+PT Onshore 626 39.5 -8.75 80M HHxWSc+HHc+WSc	Variable
+PT Onshore 626 39.5 -8.75 80M HHxWSc+HHc+WSc+C	Variable

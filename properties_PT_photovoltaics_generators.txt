@@ -1,0 +1,13 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+PT PVSAT 449 38.5 -8.125 Generator			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	0.66	Multiply					
+PT PVSAT 449 38.5 -8.125 Generator			Capacity Rating Factor	2010-01-01	2100-01-01	PT PVSAT 449 38.5 -8.125 Capacity Factor							
+PT PVSAT 449 38.5 -8.125 Generator			Save Data	2010-01-01	2100-01-01	1							
+PT PVSAT 449 38.5 -8.125 Generator			Save Blocks	2010-01-01	2100-01-01	0							
+PT PVSAT 449 38.5 -8.125 Generator			Variable Cost	2010-01-01	2100-01-01	1							
+PT PVSAT 449 38.5 -8.125 Generator			Bid Up Price	2010-01-01	2100-01-01	0							
+PT PVSAT 805 40.5 -8.125 Generator			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	0.66	Multiply					
+PT PVSAT 805 40.5 -8.125 Generator			Capacity Rating Factor	2010-01-01	2100-01-01	PT PVSAT 805 40.5 -8.125 Capacity Factor							
+PT PVSAT 805 40.5 -8.125 Generator			Save Data	2010-01-01	2100-01-01	1							
+PT PVSAT 805 40.5 -8.125 Generator			Save Blocks	2010-01-01	2100-01-01	0							
+PT PVSAT 805 40.5 -8.125 Generator			Variable Cost	2010-01-01	2100-01-01	1							
+PT PVSAT 805 40.5 -8.125 Generator			Bid Up Price	2010-01-01	2100-01-01	0							

@@ -1,0 +1,76 @@
+Object_Name	Parent_Object	Parent_Property
+PT PT_PP_Aguieira	PT
+PT PT_PP_Aguieira	PT Hydro Storage Generators
+PT PT_RES_Aguieira	PT PT_PP_Aguieira	upstream_reservoir
+PT PT_PP_Alqueva I	PT
+PT PT_PP_Alqueva I	PT Hydro Storage Generators
+PT PT_RES_Alqueva_I	PT PT_PP_Alqueva I	upstream_reservoir
+PT PT_PP_Alqueva II	PT
+PT PT_PP_Alqueva II	PT Hydro Storage Generators
+PT PT_RES_Alqueva_II	PT PT_PP_Alqueva II	upstream_reservoir
+PT PT_PP_Alto Lindoso	PT
+PT PT_PP_Alto Lindoso	PT Hydro Storage Generators
+PT PT_RES_Alto_Lindoso	PT PT_PP_Alto Lindoso	upstream_reservoir
+PT PT_PP_Alto Rabagao	PT
+PT PT_PP_Alto Rabagao	PT Hydro Storage Generators
+PT PT_RES_Alto_Rabagao	PT PT_PP_Alto Rabagao	upstream_reservoir
+PT PT_PP_Baixo Sabor	PT
+PT PT_PP_Baixo Sabor	PT Hydro Storage Generators
+PT PT_RES_Baixo_Sabor	PT PT_PP_Baixo Sabor	upstream_reservoir
+PT PT_PP_Bouca	PT
+PT PT_PP_Bouca	PT Hydro Storage Generators
+PT PT_RES_Bouca	PT PT_PP_Bouca	upstream_reservoir
+PT PT_PP_Cabril	PT
+PT PT_PP_Cabril	PT Hydro Storage Generators
+PT PT_RES_Cabril	PT PT_PP_Cabril	upstream_reservoir
+PT PT_PP_Caldeirao	PT
+PT PT_PP_Caldeirao	PT Hydro Storage Generators
+PT PT_RES_Caldeirao	PT PT_PP_Caldeirao	upstream_reservoir
+PT PT_PP_Canicada	PT
+PT PT_PP_Canicada	PT Hydro Storage Generators
+PT PT_RES_Canicada	PT PT_PP_Canicada	upstream_reservoir
+PT PT_PP_Castelo de Bode	PT
+PT PT_PP_Castelo de Bode	PT Hydro Storage Generators
+PT PT_RES_Castelo_de_Bode	PT PT_PP_Castelo de Bode	upstream_reservoir
+PT PT_PP_Frades	PT
+PT PT_PP_Frades	PT Hydro Storage Generators
+PT PT_RES_Frades	PT PT_PP_Frades	upstream_reservoir
+PT PT_PP_Pracana	PT
+PT PT_PP_Pracana	PT Hydro Storage Generators
+PT PT_RES_Pracana	PT PT_PP_Pracana	upstream_reservoir
+PT PT_PP_Raiva	PT
+PT PT_PP_Raiva	PT Hydro Storage Generators
+PT PT_RES_Raiva	PT PT_PP_Raiva	upstream_reservoir
+PT PT_PP_Sabugeiro I	PT
+PT PT_PP_Sabugeiro I	PT Hydro Storage Generators
+PT PT_RES_Sabugeiro_I	PT PT_PP_Sabugeiro I	upstream_reservoir
+PT PT_PP_Salamonde	PT
+PT PT_PP_Salamonde	PT Hydro Storage Generators
+PT PT_RES_Salamonde	PT PT_PP_Salamonde	upstream_reservoir
+PT PT_PP_Salamonde II	PT
+PT PT_PP_Salamonde II	PT Hydro Storage Generators
+PT PT_RES_Salamonde_II	PT PT_PP_Salamonde II	upstream_reservoir
+PT PT_PP_Santa Luzia	PT
+PT PT_PP_Santa Luzia	PT Hydro Storage Generators
+PT PT_RES_Santa_Luzia	PT PT_PP_Santa Luzia	upstream_reservoir
+PT PT_PP_Tabuaco	PT
+PT PT_PP_Tabuaco	PT Hydro Storage Generators
+PT PT_RES_Tabuaco	PT PT_PP_Tabuaco	upstream_reservoir
+PT PT_PP_Torrao	PT
+PT PT_PP_Torrao	PT Hydro Storage Generators
+PT PT_RES_Torrao	PT PT_PP_Torrao	upstream_reservoir
+PT PT_PP_Touvedo	PT
+PT PT_PP_Touvedo	PT Hydro Storage Generators
+PT PT_RES_Touvedo	PT PT_PP_Touvedo	upstream_reservoir
+PT PT_PP_Varosa	PT
+PT PT_PP_Varosa	PT Hydro Storage Generators
+PT PT_RES_Varosa	PT PT_PP_Varosa	upstream_reservoir
+PT PT_PP_Venda Nova II	PT
+PT PT_PP_Venda Nova II	PT Hydro Storage Generators
+PT PT_RES_Venda_Nova_II	PT PT_PP_Venda Nova II	upstream_reservoir
+PT PT_PP_Vilarinho Fumas	PT
+PT PT_PP_Vilarinho Fumas	PT Hydro Storage Generators
+PT PT_RES_Vilarinho_Fumas	PT PT_PP_Vilarinho Fumas	upstream_reservoir
+PT PT_PP_VNovaParadela	PT
+PT PT_PP_VNovaParadela	PT Hydro Storage Generators
+PT PT_RES_VNovaParadela	PT PT_PP_VNovaParadela	upstream_reservoir

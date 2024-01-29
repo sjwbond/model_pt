@@ -1,0 +1,25 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+ITNO-ITCN	ITNO	ITCN	Capacity	2000-01-01	2100-01-01	3100							
+ITCN-ITNO	ITCN	ITNO	Capacity	2000-01-01	2100-01-01	3100							
+ITCN-ITCS	ITCN	ITCS	Capacity	2000-01-01	2100-01-01	2000							
+ITCS-ITCN	ITCS	ITCN	Capacity	2000-01-01	2100-01-01	2000							
+ITCS-ITSO	ITCS	ITSO	Capacity	2000-01-01	2100-01-01	3900							
+ITSO-ITCS	ITSO	ITCS	Capacity	2000-01-01	2100-01-01	3900							
+ITSI-ITSO	ITSI	ITSO	Capacity	2000-01-01	2100-01-01	600							
+ITSO-ITSI	ITSO	ITSI	Capacity	2000-01-01	2100-01-01	600							
+ITNO-ITCN			Line_Loss	2000-01-01	2100-01-01	0.01							
+ITCN-ITNO			Line_Loss	2000-01-01	2100-01-01	0.01							
+ITCN-ITCS			Line_Loss	2000-01-01	2100-01-01	0.01							
+ITCS-ITCN			Line_Loss	2000-01-01	2100-01-01	0.01							
+ITCS-ITSO			Line_Loss	2000-01-01	2100-01-01	0.01							
+ITSO-ITCS			Line_Loss	2000-01-01	2100-01-01	0.01							
+ITSI-ITSO			Line_Loss	2000-01-01	2100-01-01	0.01							
+ITSO-ITSI			Line_Loss	2000-01-01	2100-01-01	0.01							
+ITCN-ITSA	ITCN	ITSA	Capacity	2000-01-01	2100-01-01	300							
+ITSA-ITCN	ITSA	ITCN	Capacity	2000-01-01	2100-01-01	300							
+ITCN-ITSA			Line_Loss	2000-01-01	2100-01-01	0.01							
+ITSA-ITCN			Line_Loss	2000-01-01	2100-01-01	0.01							
+ITNO-CH	ITNO	CH	Capacity	2000-01-01	2100-01-01	2500							
+CH-ITNO	CH	ITNO	Capacity	2000-01-01	2100-01-01	2500							
+CH-ITCN			Line_Loss	2000-01-01	2100-01-01	0.01							
+ITCN-CH			Line_Loss	2000-01-01	2100-01-01	0.01							

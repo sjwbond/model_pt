@@ -1,0 +1,367 @@
+Object_Name	Parent_Object
+PT Coal 1990	PT
+PT Coal 1995	PT
+PT Coal 2000	PT
+PT Coal 2005	PT
+PT Coal 2010	PT
+PT Coal 2015	PT
+PT Coal 2020	PT
+PT Coal 2025	PT
+PT Coal 2030	PT
+PT Coal 2035	PT
+PT Coal 2040	PT
+PT Coal 2045	PT
+PT Coal 2050	PT
+PT Coal 2055	PT
+PT Coal 2060	PT
+PT Coal 2065	PT
+PT CCGT 1990	PT
+PT CCGT 1995	PT
+PT CCGT 2000	PT
+PT CCGT 2005	PT
+PT CCGT 2010	PT
+PT CCGT 2015	PT
+PT CCGT 2020	PT
+PT CCGT 2025	PT
+PT CCGT 2030	PT
+PT CCGT 2031	PT
+PT CCGT 2032	PT
+PT CCGT 2033	PT
+PT CCGT 2034	PT
+PT CCGT 2035	PT
+PT CCGT 2036	PT
+PT CCGT 2037	PT
+PT CCGT 2038	PT
+PT CCGT 2039	PT
+PT CCGT 2040	PT
+PT CCGT 2045	PT
+PT CCGT 2050	PT
+PT CCGT 2055	PT
+PT CCGT 2060	PT
+PT CCGT 2065	PT
+PT OCGT 1990	PT
+PT OCGT 1995	PT
+PT OCGT 2000	PT
+PT OCGT 2005	PT
+PT OCGT 2010	PT
+PT OCGT 2015	PT
+PT OCGT 2020	PT
+PT OCGT 2025	PT
+PT OCGT 2030	PT
+PT OCGT 2035	PT
+PT OCGT 2040	PT
+PT OCGT 2045	PT
+PT OCGT 2050	PT
+PT OCGT 2055	PT
+PT OCGT 2060	PT
+PT OCGT 2065	PT
+PT Biomass 1990	PT
+PT Biomass 1995	PT
+PT Biomass 2000	PT
+PT Biomass 2005	PT
+PT Biomass 2010	PT
+PT Biomass 2015	PT
+PT Biomass 2020	PT
+PT Biomass 2025	PT
+PT Biomass 2030	PT
+PT Biomass 2035	PT
+PT Biomass 2040	PT
+PT Biomass 2045	PT
+PT Biomass 2050	PT
+PT Biomass 2055	PT
+PT Biomass 2060	PT
+PT Biomass 2065	PT
+PT Lignite 1990	PT
+PT Lignite 1995	PT
+PT Lignite 2000	PT
+PT Lignite 2005	PT
+PT Lignite 2010	PT
+PT Lignite 2015	PT
+PT Lignite 2020	PT
+PT Lignite 2025	PT
+PT Lignite 2030	PT
+PT Lignite 2035	PT
+PT Lignite 2040	PT
+PT Lignite 2045	PT
+PT Lignite 2050	PT
+PT Lignite 2055	PT
+PT Lignite 2060	PT
+PT Lignite 2065	PT
+PT Nuclear 1990	PT
+PT Nuclear 1995	PT
+PT Nuclear 2000	PT
+PT Nuclear 2005	PT
+PT Nuclear 2010	PT
+PT Nuclear 2015	PT
+PT Nuclear 2020	PT
+PT CHP 1990	PT
+PT CHP 1995	PT
+PT CHP 2000	PT
+PT CHP 2005	PT
+PT CHP 2010	PT
+PT CHP 2015	PT
+PT CHP 2020	PT
+PT CHP 2025	PT
+PT CHP 2030	PT
+PT CHP 2035	PT
+PT CHP 2040	PT
+PT CHP 2045	PT
+PT CHP 2050	PT
+PT CHP 2055	PT
+PT CHP 2060	PT
+PT CHP 2065	PT
+PT Liquid 1990	PT
+PT Liquid 1995	PT
+PT Liquid 2000	PT
+PT Liquid 2005	PT
+PT Liquid 2010	PT
+PT Liquid 2015	PT
+PT Liquid 2020	PT
+PT Liquid 2025	PT
+PT Liquid 2030	PT
+PT Liquid 2035	PT
+PT Liquid 2040	PT
+PT Liquid 2045	PT
+PT Liquid 2050	PT
+PT Liquid 2055	PT
+PT Liquid 2060	PT
+PT Liquid 2065	PT
+PT Lares I Power Station 	PT
+PT Lares II Power Station 	PT
+PT Pego I Power Station 	PT
+PT Pego II Power Station 	PT
+PT Pego III Power Station 	PT
+PT Ribatejo Power Station I	PT
+PT Ribatejo Power Station II	PT
+PT Sines Power Station 	PT
+PT Tapado do Outeiro I	PT
+PT Tapado do Outeiro II	PT
+PT Tunes Power Station 	PT
+PT_H2_CCGT	PT
+PT_H2_OCGT	PT
+PT Biomass 1990	PT Biomass Generators
+PT Biomass 1995	PT Biomass Generators
+PT Biomass 2000	PT Biomass Generators
+PT Biomass 2005	PT Biomass Generators
+PT Biomass 2010	PT Biomass Generators
+PT Biomass 2015	PT Biomass Generators
+PT Biomass 2020	PT Biomass Generators
+PT Biomass 2025	PT Biomass Generators
+PT Biomass 2030	PT Biomass Generators
+PT Biomass 2035	PT Biomass Generators
+PT Biomass 2040	PT Biomass Generators
+PT Biomass 2045	PT Biomass Generators
+PT Biomass 2050	PT Biomass Generators
+PT Biomass 2055	PT Biomass Generators
+PT Biomass 2060	PT Biomass Generators
+PT Biomass 2065	PT Biomass Generators
+PT Lares I Power Station 	PT CCGT Generators
+PT Lares II Power Station 	PT CCGT Generators
+PT Pego I Power Station 	PT Hard Coal Generators
+PT Pego II Power Station 	PT CCGT Generators
+PT Pego III Power Station 	PT CCGT Generators
+PT Ribatejo Power Station I	PT CCGT Generators
+PT Ribatejo Power Station II	PT CCGT Generators
+PT Sines Power Station 	PT Hard Coal Generators
+PT Tapado do Outeiro I	PT CCGT Generators
+PT Tapado do Outeiro II	PT CCGT Generators
+PT CCGT 1990	PT CCGT Generators
+PT CCGT 1995	PT CCGT Generators
+PT CCGT 2000	PT CCGT Generators
+PT CCGT 2005	PT CCGT Generators
+PT CCGT 2010	PT CCGT Generators
+PT CCGT 2015	PT CCGT Generators
+PT CCGT 2020	PT CCGT Generators
+PT CCGT 2025	PT CCGT Generators
+PT CCGT 2030	PT CCGT Generators
+PT CCGT 2031	PT CCGT Generators
+PT CCGT 2032	PT CCGT Generators
+PT CCGT 2033	PT CCGT Generators
+PT CCGT 2034	PT CCGT Generators
+PT CCGT 2035	PT CCGT Generators
+PT CCGT 2036	PT CCGT Generators
+PT CCGT 2037	PT CCGT Generators
+PT CCGT 2038	PT CCGT Generators
+PT CCGT 2039	PT CCGT Generators
+PT CCGT 2040	PT CCGT Generators
+PT CCGT 2045	PT CCGT Generators
+PT CCGT 2050	PT CCGT Generators
+PT CCGT 2055	PT CCGT Generators
+PT CCGT 2060	PT CCGT Generators
+PT CCGT 2065	PT CCGT Generators
+PT CHP 1990	PT CHP Generators
+PT CHP 1995	PT CHP Generators
+PT CHP 2000	PT CHP Generators
+PT CHP 2005	PT CHP Generators
+PT CHP 2010	PT CHP Generators
+PT CHP 2015	PT CHP Generators
+PT CHP 2020	PT CHP Generators
+PT CHP 2025	PT CHP Generators
+PT CHP 2030	PT CHP Generators
+PT CHP 2035	PT CHP Generators
+PT CHP 2040	PT CHP Generators
+PT CHP 2045	PT CHP Generators
+PT CHP 2050	PT CHP Generators
+PT CHP 2055	PT CHP Generators
+PT CHP 2060	PT CHP Generators
+PT CHP 2065	PT CHP Generators
+PT Coal 1990	PT Coal Generators
+PT Coal 1995	PT Coal Generators
+PT Coal 2000	PT Coal Generators
+PT Coal 2005	PT Coal Generators
+PT Coal 2010	PT Coal Generators
+PT Coal 2015	PT Coal Generators
+PT Coal 2020	PT Coal Generators
+PT Coal 2025	PT Coal Generators
+PT Coal 2030	PT Coal Generators
+PT Coal 2035	PT Coal Generators
+PT Coal 2040	PT Coal Generators
+PT Coal 2045	PT Coal Generators
+PT Coal 2050	PT Coal Generators
+PT Coal 2055	PT Coal Generators
+PT Coal 2060	PT Coal Generators
+PT Coal 2065	PT Coal Generators
+PT Lignite 1990	PT Coal Generators
+PT Lignite 1995	PT Coal Generators
+PT Lignite 2000	PT Coal Generators
+PT Lignite 2005	PT Coal Generators
+PT Lignite 2010	PT Coal Generators
+PT Lignite 2015	PT Coal Generators
+PT Lignite 2020	PT Coal Generators
+PT Lignite 2025	PT Coal Generators
+PT Lignite 2030	PT Coal Generators
+PT Lignite 2035	PT Coal Generators
+PT Lignite 2040	PT Coal Generators
+PT Lignite 2045	PT Coal Generators
+PT Lignite 2050	PT Coal Generators
+PT Lignite 2055	PT Coal Generators
+PT Lignite 2060	PT Coal Generators
+PT Lignite 2065	PT Coal Generators
+PT CCGT 1990	PT Gas Generators
+PT CCGT 1995	PT Gas Generators
+PT CCGT 2000	PT Gas Generators
+PT CCGT 2005	PT Gas Generators
+PT CCGT 2010	PT Gas Generators
+PT CCGT 2015	PT Gas Generators
+PT CCGT 2020	PT Gas Generators
+PT CCGT 2025	PT Gas Generators
+PT CCGT 2030	PT Gas Generators
+PT CCGT 2031	PT Gas Generators
+PT CCGT 2032	PT Gas Generators
+PT CCGT 2033	PT Gas Generators
+PT CCGT 2034	PT Gas Generators
+PT CCGT 2035	PT Gas Generators
+PT CCGT 2036	PT Gas Generators
+PT CCGT 2037	PT Gas Generators
+PT CCGT 2038	PT Gas Generators
+PT CCGT 2039	PT Gas Generators
+PT CCGT 2040	PT Gas Generators
+PT CCGT 2045	PT Gas Generators
+PT CCGT 2050	PT Gas Generators
+PT CCGT 2055	PT Gas Generators
+PT CCGT 2060	PT Gas Generators
+PT CCGT 2065	PT Gas Generators
+PT OCGT 1990	PT Gas Generators
+PT OCGT 1995	PT Gas Generators
+PT OCGT 2000	PT Gas Generators
+PT OCGT 2005	PT Gas Generators
+PT OCGT 2010	PT Gas Generators
+PT OCGT 2015	PT Gas Generators
+PT OCGT 2020	PT Gas Generators
+PT OCGT 2025	PT Gas Generators
+PT OCGT 2030	PT Gas Generators
+PT OCGT 2035	PT Gas Generators
+PT OCGT 2040	PT Gas Generators
+PT OCGT 2045	PT Gas Generators
+PT OCGT 2050	PT Gas Generators
+PT OCGT 2055	PT Gas Generators
+PT OCGT 2060	PT Gas Generators
+PT OCGT 2065	PT Gas Generators
+PT CHP 1990	PT Gas Generators
+PT CHP 1995	PT Gas Generators
+PT CHP 2000	PT Gas Generators
+PT CHP 2005	PT Gas Generators
+PT CHP 2010	PT Gas Generators
+PT CHP 2015	PT Gas Generators
+PT CHP 2020	PT Gas Generators
+PT CHP 2025	PT Gas Generators
+PT CHP 2030	PT Gas Generators
+PT CHP 2035	PT Gas Generators
+PT CHP 2040	PT Gas Generators
+PT CHP 2045	PT Gas Generators
+PT CHP 2050	PT Gas Generators
+PT CHP 2055	PT Gas Generators
+PT CHP 2060	PT Gas Generators
+PT CHP 2065	PT Gas Generators
+PT Coal 1990	PT Hard Coal Generators
+PT Coal 1995	PT Hard Coal Generators
+PT Coal 2000	PT Hard Coal Generators
+PT Coal 2005	PT Hard Coal Generators
+PT Coal 2010	PT Hard Coal Generators
+PT Coal 2015	PT Hard Coal Generators
+PT Coal 2020	PT Hard Coal Generators
+PT Coal 2025	PT Hard Coal Generators
+PT Coal 2030	PT Hard Coal Generators
+PT Coal 2035	PT Hard Coal Generators
+PT Coal 2040	PT Hard Coal Generators
+PT Coal 2045	PT Hard Coal Generators
+PT Coal 2050	PT Hard Coal Generators
+PT Coal 2055	PT Hard Coal Generators
+PT Coal 2060	PT Hard Coal Generators
+PT Coal 2065	PT Hard Coal Generators
+PT Tunes Power Station 	PT Hard Coal Generators
+PT Lignite 1990	PT Lignite Generators
+PT Lignite 1995	PT Lignite Generators
+PT Lignite 2000	PT Lignite Generators
+PT Lignite 2005	PT Lignite Generators
+PT Lignite 2010	PT Lignite Generators
+PT Lignite 2015	PT Lignite Generators
+PT Lignite 2020	PT Lignite Generators
+PT Lignite 2025	PT Lignite Generators
+PT Lignite 2030	PT Lignite Generators
+PT Lignite 2035	PT Lignite Generators
+PT Lignite 2040	PT Lignite Generators
+PT Lignite 2045	PT Lignite Generators
+PT Lignite 2050	PT Lignite Generators
+PT Lignite 2055	PT Lignite Generators
+PT Lignite 2060	PT Lignite Generators
+PT Lignite 2065	PT Lignite Generators
+PT Liquid 1990	PT Liquid Generators
+PT Liquid 1995	PT Liquid Generators
+PT Liquid 2000	PT Liquid Generators
+PT Liquid 2005	PT Liquid Generators
+PT Liquid 2010	PT Liquid Generators
+PT Liquid 2015	PT Liquid Generators
+PT Liquid 2020	PT Liquid Generators
+PT Liquid 2025	PT Liquid Generators
+PT Liquid 2030	PT Liquid Generators
+PT Liquid 2035	PT Liquid Generators
+PT Liquid 2040	PT Liquid Generators
+PT Liquid 2045	PT Liquid Generators
+PT Liquid 2050	PT Liquid Generators
+PT Liquid 2055	PT Liquid Generators
+PT Liquid 2060	PT Liquid Generators
+PT Liquid 2065	PT Liquid Generators
+PT Nuclear 1990	PT Nuclear Generators
+PT Nuclear 1995	PT Nuclear Generators
+PT Nuclear 2000	PT Nuclear Generators
+PT Nuclear 2005	PT Nuclear Generators
+PT Nuclear 2010	PT Nuclear Generators
+PT Nuclear 2015	PT Nuclear Generators
+PT Nuclear 2020	PT Nuclear Generators
+PT OCGT 1990	PT OCGT Generators
+PT OCGT 1995	PT OCGT Generators
+PT OCGT 2000	PT OCGT Generators
+PT OCGT 2005	PT OCGT Generators
+PT OCGT 2010	PT OCGT Generators
+PT OCGT 2015	PT OCGT Generators
+PT OCGT 2020	PT OCGT Generators
+PT OCGT 2025	PT OCGT Generators
+PT OCGT 2030	PT OCGT Generators
+PT OCGT 2035	PT OCGT Generators
+PT OCGT 2040	PT OCGT Generators
+PT OCGT 2045	PT OCGT Generators
+PT OCGT 2050	PT OCGT Generators
+PT OCGT 2055	PT OCGT Generators
+PT OCGT 2060	PT OCGT Generators
+PT OCGT 2065	PT OCGT Generators

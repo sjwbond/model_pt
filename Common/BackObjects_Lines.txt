@@ -1,0 +1,81 @@
+Object_Name	Object_Type
+DE North-Middle	Line
+DE Middle-North	Line
+DE Middle-South	Line
+DE South-Middle	Line
+NL-DE Middle	Line
+DE Middle-NL	Line
+DE North-NL	Line
+NL-DE North	Line
+FR-DE Middle	Line
+DE Middle-FR	Line
+PL-DE Middle	Line
+DE North-PL	Line
+PL-DE North	Line
+DE North-PL	Line
+SE4-SE3	Line
+SE3-SE2	Line
+SE2-SE1	Line
+SE1-SE2	Line
+SE3-SE4	Line
+SE2-SE3	Line
+NO1-SE3	Line
+SE3-NO1	Line
+NL-NO2	Line
+NO2-NL	Line
+DE North-DK1	Line
+DK1-DE North	Line
+DE North-DK2	Line
+DK2-DE North	Line
+DE North-SE4	Line
+SE4-DE North	Line
+PL-SE4	Line
+SE4-PL	Line
+DK1-NO2	Line
+NO2-DK1	Line
+DK1-DK2	Line
+DK2-DK1	Line
+SE4-DK2	Line
+DK2-SE4	Line
+SE3-DK1	Line
+DK1-SE3	Line
+NO5-NO2	Line
+NO2-NO5	Line
+NO1-NO2	Line
+NO2-NO1	Line
+NO1-NO5	Line
+NO5-NO1	Line
+NO1-NO3	Line
+NO3-NO1	Line
+SE2-NO3	Line
+NO3-SE2	Line
+NO4-NO3	Line
+NO3-NO4	Line
+NO4-SE2	Line
+SE2-NO4	Line
+NO4-SE1	Line
+SE1-NO4	Line
+FI-SE1	Line
+SE1-FI	Line
+FI-SE3	Line
+SE3-FI	Line
+FI-ET	Line
+ET-FI	Line
+FR-ES	Line
+ES-FR	Line
+PT-ES	Line
+ES-PT	Line
+FR-UK	Line
+UK-FR	Line
+NL-DE	Line
+DE-NL	Line
+DE-FR	Line
+DE-PL	Line
+FR-DE	Line
+PL-DE	Line
+NL-BE	Line
+BE-NL	Line
+FR-BE	Line
+BE-FR	Line
+DE-BE	Line
+BE-DE	Line

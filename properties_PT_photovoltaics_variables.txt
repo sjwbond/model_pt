@@ -1,0 +1,13 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+PT PVSAT 449 38.5 -8.125 Capacity Factor			Value	2010-01-01	2100-01-01	PT PVSAT 449 38.5 -8.125 File	0.1	Multiply					
+PT PVSAT 449 38.5 -8.125 File			Location	2010-01-01	2100-01-01	/ProfilesEU/PT PVSAT 449 38.5 -8.125/							
+PT PVSAT 449 38.5 -8.125 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+PT PVSAT 449 38.5 -8.125 File			Data_Type	2010-01-01	2100-01-01	Folder							
+PT PVSAT 449 38.5 -8.125 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+PT PVSAT 449 38.5 -8.125 TS			tsn_name	2010-01-01	2100-01-01	ts_PT PVSAT 449 38.5 -8.125							
+PT PVSAT 805 40.5 -8.125 Capacity Factor			Value	2010-01-01	2100-01-01	PT PVSAT 805 40.5 -8.125 File	0.1	Multiply					
+PT PVSAT 805 40.5 -8.125 File			Location	2010-01-01	2100-01-01	/ProfilesEU/PT PVSAT 805 40.5 -8.125/							
+PT PVSAT 805 40.5 -8.125 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+PT PVSAT 805 40.5 -8.125 File			Data_Type	2010-01-01	2100-01-01	Folder							
+PT PVSAT 805 40.5 -8.125 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+PT PVSAT 805 40.5 -8.125 TS			tsn_name	2010-01-01	2100-01-01	ts_PT PVSAT 805 40.5 -8.125							

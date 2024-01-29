@@ -1,0 +1,7 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+PT ROR Generator			Capacity	2010-01-01	2100-01-01	2500							
+PT ROR Generator			Variable Cost	2010-01-01	2100-01-01	2.2							
+PT ROR Generator			Capacity Rating Factor	2010-01-01	2100-01-01	PT ROR Capacity Factor							
+PT ROR Generator			Save Data	2010-01-01	2100-01-01	1							
+PT ROR Generator			Save Blocks	2010-01-01	2100-01-01	0							
+PT ROR Generator			Bid Up Price	2010-01-01	2100-01-01	0							

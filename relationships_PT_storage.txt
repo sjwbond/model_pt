@@ -1,0 +1,19 @@
+Object_Name	Parent_Object
+PT Batteries 1h	PT
+PT Batteries 1h	PT Batteries
+PT Batteries 1h dummy	PT
+PT Batteries 1h dummy	PT Batteries
+PT Pumped Storage	PT
+PT Pumped Storage	PT PumpedStorage Generators
+PT Batteries 2h dummy	PT
+PT Batteries 2h dummy	PT Batteries
+PT Batteries 2h	PT
+PT Batteries 2h	PT Batteries
+PT Batteries 4h dummy	PT
+PT Batteries 4h dummy	PT Batteries
+PT Batteries 4h	PT
+PT Batteries 4h	PT Batteries
+PT Batteries 6h dummy	PT
+PT Batteries 6h dummy	PT Batteries
+PT Batteries 6h	PT
+PT Batteries 6h	PT Batteries

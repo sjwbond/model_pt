@@ -1,0 +1,105 @@
+Object_Name	Object_Type
+PT H2	Reservoir
+PT H2 Inflow	Variable
+PT H2 Inflow File	DataSource
+PT H2 Inflow TS	DBTimeSeries
+PT PT_RES_Aguieira	Reservoir
+PT PT_RES_Aguieira Inflow	Variable
+PT PT_RES_Aguieira Inflow File	DataSource
+PT PT_RES_Aguieira Inflow TS	DBTimeSeries
+PT PT_RES_Alqueva_I	Reservoir
+PT PT_RES_Alqueva_I Inflow	Variable
+PT PT_RES_Alqueva_I Inflow File	DataSource
+PT PT_RES_Alqueva_I Inflow TS	DBTimeSeries
+PT PT_RES_Alqueva_II	Reservoir
+PT PT_RES_Alqueva_II Inflow	Variable
+PT PT_RES_Alqueva_II Inflow File	DataSource
+PT PT_RES_Alqueva_II Inflow TS	DBTimeSeries
+PT PT_RES_Alto_Lindoso	Reservoir
+PT PT_RES_Alto_Lindoso Inflow	Variable
+PT PT_RES_Alto_Lindoso Inflow File	DataSource
+PT PT_RES_Alto_Lindoso Inflow TS	DBTimeSeries
+PT PT_RES_Alto_Rabagao	Reservoir
+PT PT_RES_Alto_Rabagao Inflow	Variable
+PT PT_RES_Alto_Rabagao Inflow File	DataSource
+PT PT_RES_Alto_Rabagao Inflow TS	DBTimeSeries
+PT PT_RES_Baixo_Sabor	Reservoir
+PT PT_RES_Baixo_Sabor Inflow	Variable
+PT PT_RES_Baixo_Sabor Inflow File	DataSource
+PT PT_RES_Baixo_Sabor Inflow TS	DBTimeSeries
+PT PT_RES_Bouca	Reservoir
+PT PT_RES_Bouca Inflow	Variable
+PT PT_RES_Bouca Inflow File	DataSource
+PT PT_RES_Bouca Inflow TS	DBTimeSeries
+PT PT_RES_Cabril	Reservoir
+PT PT_RES_Cabril Inflow	Variable
+PT PT_RES_Cabril Inflow File	DataSource
+PT PT_RES_Cabril Inflow TS	DBTimeSeries
+PT PT_RES_Caldeirao	Reservoir
+PT PT_RES_Caldeirao Inflow	Variable
+PT PT_RES_Caldeirao Inflow File	DataSource
+PT PT_RES_Caldeirao Inflow TS	DBTimeSeries
+PT PT_RES_Canicada	Reservoir
+PT PT_RES_Canicada Inflow	Variable
+PT PT_RES_Canicada Inflow File	DataSource
+PT PT_RES_Canicada Inflow TS	DBTimeSeries
+PT PT_RES_Castelo_de_Bode	Reservoir
+PT PT_RES_Castelo_de_Bode Inflow	Variable
+PT PT_RES_Castelo_de_Bode Inflow File	DataSource
+PT PT_RES_Castelo_de_Bode Inflow TS	DBTimeSeries
+PT PT_RES_Frades	Reservoir
+PT PT_RES_Frades Inflow	Variable
+PT PT_RES_Frades Inflow File	DataSource
+PT PT_RES_Frades Inflow TS	DBTimeSeries
+PT PT_RES_Pracana	Reservoir
+PT PT_RES_Pracana Inflow	Variable
+PT PT_RES_Pracana Inflow File	DataSource
+PT PT_RES_Pracana Inflow TS	DBTimeSeries
+PT PT_RES_Raiva	Reservoir
+PT PT_RES_Raiva Inflow	Variable
+PT PT_RES_Raiva Inflow File	DataSource
+PT PT_RES_Raiva Inflow TS	DBTimeSeries
+PT PT_RES_Sabugeiro_I	Reservoir
+PT PT_RES_Sabugeiro_I Inflow	Variable
+PT PT_RES_Sabugeiro_I Inflow File	DataSource
+PT PT_RES_Sabugeiro_I Inflow TS	DBTimeSeries
+PT PT_RES_Salamonde	Reservoir
+PT PT_RES_Salamonde Inflow	Variable
+PT PT_RES_Salamonde Inflow File	DataSource
+PT PT_RES_Salamonde Inflow TS	DBTimeSeries
+PT PT_RES_Salamonde_II	Reservoir
+PT PT_RES_Salamonde_II Inflow	Variable
+PT PT_RES_Salamonde_II Inflow File	DataSource
+PT PT_RES_Salamonde_II Inflow TS	DBTimeSeries
+PT PT_RES_Santa_Luzia	Reservoir
+PT PT_RES_Santa_Luzia Inflow	Variable
+PT PT_RES_Santa_Luzia Inflow File	DataSource
+PT PT_RES_Santa_Luzia Inflow TS	DBTimeSeries
+PT PT_RES_Tabuaco	Reservoir
+PT PT_RES_Tabuaco Inflow	Variable
+PT PT_RES_Tabuaco Inflow File	DataSource
+PT PT_RES_Tabuaco Inflow TS	DBTimeSeries
+PT PT_RES_Torrao	Reservoir
+PT PT_RES_Torrao Inflow	Variable
+PT PT_RES_Torrao Inflow File	DataSource
+PT PT_RES_Torrao Inflow TS	DBTimeSeries
+PT PT_RES_Touvedo	Reservoir
+PT PT_RES_Touvedo Inflow	Variable
+PT PT_RES_Touvedo Inflow File	DataSource
+PT PT_RES_Touvedo Inflow TS	DBTimeSeries
+PT PT_RES_Varosa	Reservoir
+PT PT_RES_Varosa Inflow	Variable
+PT PT_RES_Varosa Inflow File	DataSource
+PT PT_RES_Varosa Inflow TS	DBTimeSeries
+PT PT_RES_Venda_Nova_II	Reservoir
+PT PT_RES_Venda_Nova_II Inflow	Variable
+PT PT_RES_Venda_Nova_II Inflow File	DataSource
+PT PT_RES_Venda_Nova_II Inflow TS	DBTimeSeries
+PT PT_RES_Vilarinho_Fumas	Reservoir
+PT PT_RES_Vilarinho_Fumas Inflow	Variable
+PT PT_RES_Vilarinho_Fumas Inflow File	DataSource
+PT PT_RES_Vilarinho_Fumas Inflow TS	DBTimeSeries
+PT PT_RES_VNovaParadela	Reservoir
+PT PT_RES_VNovaParadela Inflow	Variable
+PT PT_RES_VNovaParadela Inflow File	DataSource
+PT PT_RES_VNovaParadela Inflow TS	DBTimeSeries

@@ -1,0 +1,9 @@
+Object_Name	Parent_Object
+PT PVSAT 449 38.5 -8.125 Generator	PT Solar Generators
+PT PVSAT 449 38.5 -8.125 Generator	PT
+PT PVSAT 805 40.5 -8.125 Generator	PT Solar Generators
+PT PVSAT 805 40.5 -8.125 Generator	PT
+ca_db_pv	PT PVSAT 449 38.5 -8.125 TS
+ca_db_pv	PT PVSAT 449 38.5 -8.125 TS
+ca_db_pv	PT PVSAT 805 40.5 -8.125 TS
+ca_db_pv	PT PVSAT 805 40.5 -8.125 TS

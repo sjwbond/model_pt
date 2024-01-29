@@ -1,0 +1,28 @@
+Object_Name	Object_Type
+PT Onshore Generators	Group
+PT Offshore Generators	Group
+PT RWE Onshore Generators	Group
+PT RWE Offshore Generators	Group
+PT Wind Generators	Group
+PT RWE Wind Generators	Group
+PT Solar Generators	Group
+PT RWE Solar Generators	Group
+PT RWE Renewables Generators	Group
+PT RWE Conventional Generators	Group
+PT RWE Generators	Group
+PT Gas Generators	Group
+PT Coal Generators	Group
+PT Lignite Generators	Group
+PT Nuclear Generators	Group
+PT Hard Coal Generators	Group
+PT CCGT Generators	Group
+PT RWE CCGT Generators	Group
+PT OCGT Generators	Group
+PT Biomass Generators	Group
+PT CHP Generators	Group
+PT Liquid Generators	Group
+PT ROR Generators	Group
+PT Storage Generators	Group
+PT PumpedStorage Generators	Group
+PT Batteries	Group
+PT Hydro Storage Generators	Group

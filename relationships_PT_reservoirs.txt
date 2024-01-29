@@ -1,0 +1,27 @@
+Object_Name	Parent_Object
+PT H2	PT
+PT PT_RES_Aguieira	PT
+PT PT_RES_Alqueva_I	PT
+PT PT_RES_Alqueva_II	PT
+PT PT_RES_Alto_Lindoso	PT
+PT PT_RES_Alto_Rabagao	PT
+PT PT_RES_Baixo_Sabor	PT
+PT PT_RES_Bouca	PT
+PT PT_RES_Cabril	PT
+PT PT_RES_Caldeirao	PT
+PT PT_RES_Canicada	PT
+PT PT_RES_Castelo_de_Bode	PT
+PT PT_RES_Frades	PT
+PT PT_RES_Pracana	PT
+PT PT_RES_Raiva	PT
+PT PT_RES_Sabugeiro_I	PT
+PT PT_RES_Salamonde	PT
+PT PT_RES_Salamonde_II	PT
+PT PT_RES_Santa_Luzia	PT
+PT PT_RES_Tabuaco	PT
+PT PT_RES_Torrao	PT
+PT PT_RES_Touvedo	PT
+PT PT_RES_Varosa	PT
+PT PT_RES_Venda_Nova_II	PT
+PT PT_RES_Vilarinho_Fumas	PT
+PT PT_RES_VNovaParadela	PT

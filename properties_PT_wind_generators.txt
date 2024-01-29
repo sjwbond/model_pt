@@ -1,0 +1,505 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+PT Offshore 893 41.0 -8.75 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Offshore 893 41.0 -8.75 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Offshore 893 41.0 -8.75 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Offshore 893 41.0 -8.75 130M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Offshore 893 41.0 -8.75 130M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Offshore 893 41.0 -8.75 130M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Offshore 893 41.0 -8.75 160M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Offshore 893 41.0 -8.75 160M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Offshore 893 41.0 -8.75 160M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Offshore 93 36.5 -8.125 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Offshore 93 36.5 -8.125 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Offshore 93 36.5 -8.125 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Offshore 93 36.5 -8.125 130M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Offshore 93 36.5 -8.125 130M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Offshore 93 36.5 -8.125 130M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Offshore 93 36.5 -8.125 160M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Offshore 93 36.5 -8.125 160M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Offshore 93 36.5 -8.125 160M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 361 38.0 -7.5 70M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 361 38.0 -7.5 70M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 361 38.0 -7.5 70M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 361 38.0 -7.5 85M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 361 38.0 -7.5 85M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 361 38.0 -7.5 85M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 361 38.0 -7.5 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 361 38.0 -7.5 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 361 38.0 -7.5 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 626 39.5 -8.75 70M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 626 39.5 -8.75 70M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 626 39.5 -8.75 70M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 626 39.5 -8.75 85M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 626 39.5 -8.75 85M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 626 39.5 -8.75 85M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 626 39.5 -8.75 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 626 39.5 -8.75 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 626 39.5 -8.75 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 805 40.5 -8.125 70M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 805 40.5 -8.125 70M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 805 40.5 -8.125 70M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 805 40.5 -8.125 85M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 805 40.5 -8.125 85M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 805 40.5 -8.125 85M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 805 40.5 -8.125 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 805 40.5 -8.125 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 805 40.5 -8.125 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 895 41.0 -7.5 70M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 895 41.0 -7.5 70M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 895 41.0 -7.5 70M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 895 41.0 -7.5 85M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 895 41.0 -7.5 85M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 895 41.0 -7.5 85M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 895 41.0 -7.5 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 895 41.0 -7.5 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 895 41.0 -7.5 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 983 41.5 -8.125 70M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 983 41.5 -8.125 70M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 983 41.5 -8.125 70M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 983 41.5 -8.125 85M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 983 41.5 -8.125 85M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 983 41.5 -8.125 85M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 983 41.5 -8.125 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 983 41.5 -8.125 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 983 41.5 -8.125 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 984 41.5 -7.5 70M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 984 41.5 -7.5 70M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 984 41.5 -7.5 70M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 984 41.5 -7.5 85M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 984 41.5 -7.5 85M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 984 41.5 -7.5 85M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 984 41.5 -7.5 100M Generator LWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 984 41.5 -7.5 100M Generator NWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Onshore 984 41.5 -7.5 100M Generator HWST			Bid Up Price	2010-01-01	2100-01-01	0							
+PT Offshore 893 41.0 -8.75 100M Generator LWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Offshore 893 41.0 -8.75 100M Generator NWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Offshore 893 41.0 -8.75 100M Generator HWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Offshore 893 41.0 -8.75 130M Generator LWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Offshore 893 41.0 -8.75 130M Generator NWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Offshore 893 41.0 -8.75 130M Generator HWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Offshore 893 41.0 -8.75 160M Generator LWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Offshore 893 41.0 -8.75 160M Generator NWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Offshore 893 41.0 -8.75 160M Generator HWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Offshore 93 36.5 -8.125 100M Generator LWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Offshore 93 36.5 -8.125 100M Generator NWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Offshore 93 36.5 -8.125 100M Generator HWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Offshore 93 36.5 -8.125 130M Generator LWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Offshore 93 36.5 -8.125 130M Generator NWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Offshore 93 36.5 -8.125 130M Generator HWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Offshore 93 36.5 -8.125 160M Generator LWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Offshore 93 36.5 -8.125 160M Generator NWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Offshore 93 36.5 -8.125 160M Generator HWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 361 38.0 -7.5 70M Generator LWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 361 38.0 -7.5 70M Generator NWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 361 38.0 -7.5 70M Generator HWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 361 38.0 -7.5 85M Generator LWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 361 38.0 -7.5 85M Generator NWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 361 38.0 -7.5 85M Generator HWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 361 38.0 -7.5 100M Generator LWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 361 38.0 -7.5 100M Generator NWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 361 38.0 -7.5 100M Generator HWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 626 39.5 -8.75 70M Generator LWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 626 39.5 -8.75 70M Generator NWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 626 39.5 -8.75 70M Generator HWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 626 39.5 -8.75 85M Generator LWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 626 39.5 -8.75 85M Generator NWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 626 39.5 -8.75 85M Generator HWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 626 39.5 -8.75 100M Generator LWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 626 39.5 -8.75 100M Generator NWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 626 39.5 -8.75 100M Generator HWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 805 40.5 -8.125 70M Generator LWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 805 40.5 -8.125 70M Generator NWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 805 40.5 -8.125 70M Generator HWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 805 40.5 -8.125 85M Generator LWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 805 40.5 -8.125 85M Generator NWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 805 40.5 -8.125 85M Generator HWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 805 40.5 -8.125 100M Generator LWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 805 40.5 -8.125 100M Generator NWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 805 40.5 -8.125 100M Generator HWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 895 41.0 -7.5 70M Generator LWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 895 41.0 -7.5 70M Generator NWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 895 41.0 -7.5 70M Generator HWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 895 41.0 -7.5 85M Generator LWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 895 41.0 -7.5 85M Generator NWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 895 41.0 -7.5 85M Generator HWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 895 41.0 -7.5 100M Generator LWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 895 41.0 -7.5 100M Generator NWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 895 41.0 -7.5 100M Generator HWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 983 41.5 -8.125 70M Generator LWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 983 41.5 -8.125 70M Generator NWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 983 41.5 -8.125 70M Generator HWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 983 41.5 -8.125 85M Generator LWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 983 41.5 -8.125 85M Generator NWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 983 41.5 -8.125 85M Generator HWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 983 41.5 -8.125 100M Generator LWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 983 41.5 -8.125 100M Generator NWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 983 41.5 -8.125 100M Generator HWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 984 41.5 -7.5 70M Generator LWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 984 41.5 -7.5 70M Generator NWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 984 41.5 -7.5 70M Generator HWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 984 41.5 -7.5 85M Generator LWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 984 41.5 -7.5 85M Generator NWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 984 41.5 -7.5 85M Generator HWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 984 41.5 -7.5 100M Generator LWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 984 41.5 -7.5 100M Generator NWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Onshore 984 41.5 -7.5 100M Generator HWST			Capacity	2010-01-01	2100-01-01	PT Installed Capacity File	1	Multiply					
+PT Offshore 893 41.0 -8.75 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 Base Wind Speed	LWST Wind Power Curve	Lookup					
+PT Offshore 893 41.0 -8.75 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 Base Wind Speed	NWST Wind Power Curve	Lookup					
+PT Offshore 893 41.0 -8.75 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 Base Wind Speed	HWST Wind Power Curve	Lookup					
+PT Offshore 893 41.0 -8.75 130M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 130M Windspeed	LWST Wind Power Curve	Lookup					
+PT Offshore 893 41.0 -8.75 130M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 130M Windspeed	NWST Wind Power Curve	Lookup					
+PT Offshore 893 41.0 -8.75 130M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 130M Windspeed	HWST Wind Power Curve	Lookup					
+PT Offshore 893 41.0 -8.75 160M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 160M Windspeed	LWST Wind Power Curve	Lookup					
+PT Offshore 893 41.0 -8.75 160M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 160M Windspeed	NWST Wind Power Curve	Lookup					
+PT Offshore 893 41.0 -8.75 160M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 160M Windspeed	HWST Wind Power Curve	Lookup					
+PT Offshore 93 36.5 -8.125 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 Base Wind Speed	LWST Wind Power Curve	Lookup					
+PT Offshore 93 36.5 -8.125 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 Base Wind Speed	NWST Wind Power Curve	Lookup					
+PT Offshore 93 36.5 -8.125 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 Base Wind Speed	HWST Wind Power Curve	Lookup					
+PT Offshore 93 36.5 -8.125 130M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 130M Windspeed	LWST Wind Power Curve	Lookup					
+PT Offshore 93 36.5 -8.125 130M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 130M Windspeed	NWST Wind Power Curve	Lookup					
+PT Offshore 93 36.5 -8.125 130M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 130M Windspeed	HWST Wind Power Curve	Lookup					
+PT Offshore 93 36.5 -8.125 160M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 160M Windspeed	LWST Wind Power Curve	Lookup					
+PT Offshore 93 36.5 -8.125 160M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 160M Windspeed	NWST Wind Power Curve	Lookup					
+PT Offshore 93 36.5 -8.125 160M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 160M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 361 38.0 -7.5 70M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 70M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 361 38.0 -7.5 70M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 70M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 361 38.0 -7.5 70M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 70M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 361 38.0 -7.5 85M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 85M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 361 38.0 -7.5 85M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 85M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 361 38.0 -7.5 85M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 85M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 361 38.0 -7.5 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 Base Wind Speed	LWST Wind Power Curve	Lookup					
+PT Onshore 361 38.0 -7.5 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 Base Wind Speed	NWST Wind Power Curve	Lookup					
+PT Onshore 361 38.0 -7.5 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 Base Wind Speed	HWST Wind Power Curve	Lookup					
+PT Onshore 626 39.5 -8.75 70M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 70M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 626 39.5 -8.75 70M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 70M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 626 39.5 -8.75 70M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 70M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 626 39.5 -8.75 85M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 85M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 626 39.5 -8.75 85M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 85M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 626 39.5 -8.75 85M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 85M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 626 39.5 -8.75 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 Base Wind Speed	LWST Wind Power Curve	Lookup					
+PT Onshore 626 39.5 -8.75 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 Base Wind Speed	NWST Wind Power Curve	Lookup					
+PT Onshore 626 39.5 -8.75 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 Base Wind Speed	HWST Wind Power Curve	Lookup					
+PT Onshore 805 40.5 -8.125 70M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 70M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 805 40.5 -8.125 70M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 70M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 805 40.5 -8.125 70M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 70M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 805 40.5 -8.125 85M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 85M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 805 40.5 -8.125 85M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 85M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 805 40.5 -8.125 85M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 85M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 805 40.5 -8.125 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 Base Wind Speed	LWST Wind Power Curve	Lookup					
+PT Onshore 805 40.5 -8.125 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 Base Wind Speed	NWST Wind Power Curve	Lookup					
+PT Onshore 805 40.5 -8.125 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 Base Wind Speed	HWST Wind Power Curve	Lookup					
+PT Onshore 895 41.0 -7.5 70M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 70M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 895 41.0 -7.5 70M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 70M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 895 41.0 -7.5 70M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 70M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 895 41.0 -7.5 85M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 85M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 895 41.0 -7.5 85M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 85M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 895 41.0 -7.5 85M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 85M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 895 41.0 -7.5 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 Base Wind Speed	LWST Wind Power Curve	Lookup					
+PT Onshore 895 41.0 -7.5 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 Base Wind Speed	NWST Wind Power Curve	Lookup					
+PT Onshore 895 41.0 -7.5 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 Base Wind Speed	HWST Wind Power Curve	Lookup					
+PT Onshore 983 41.5 -8.125 70M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 70M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 983 41.5 -8.125 70M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 70M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 983 41.5 -8.125 70M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 70M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 983 41.5 -8.125 85M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 85M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 983 41.5 -8.125 85M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 85M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 983 41.5 -8.125 85M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 85M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 983 41.5 -8.125 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 Base Wind Speed	LWST Wind Power Curve	Lookup					
+PT Onshore 983 41.5 -8.125 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 Base Wind Speed	NWST Wind Power Curve	Lookup					
+PT Onshore 983 41.5 -8.125 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 Base Wind Speed	HWST Wind Power Curve	Lookup					
+PT Onshore 984 41.5 -7.5 70M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 70M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 984 41.5 -7.5 70M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 70M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 984 41.5 -7.5 70M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 70M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 984 41.5 -7.5 85M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 85M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 984 41.5 -7.5 85M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 85M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 984 41.5 -7.5 85M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 85M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 984 41.5 -7.5 100M Generator LWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 Base Wind Speed	LWST Wind Power Curve	Lookup					
+PT Onshore 984 41.5 -7.5 100M Generator NWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 Base Wind Speed	NWST Wind Power Curve	Lookup					
+PT Onshore 984 41.5 -7.5 100M Generator HWST			Capacity Rating Factor	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 Base Wind Speed	HWST Wind Power Curve	Lookup					
+PT Offshore 893 41.0 -8.75 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Offshore 893 41.0 -8.75 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Offshore 893 41.0 -8.75 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Offshore 893 41.0 -8.75 130M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Offshore 893 41.0 -8.75 130M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Offshore 893 41.0 -8.75 130M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Offshore 893 41.0 -8.75 160M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Offshore 893 41.0 -8.75 160M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Offshore 893 41.0 -8.75 160M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Offshore 93 36.5 -8.125 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Offshore 93 36.5 -8.125 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Offshore 93 36.5 -8.125 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Offshore 93 36.5 -8.125 130M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Offshore 93 36.5 -8.125 130M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Offshore 93 36.5 -8.125 130M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Offshore 93 36.5 -8.125 160M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Offshore 93 36.5 -8.125 160M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Offshore 93 36.5 -8.125 160M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 361 38.0 -7.5 70M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 361 38.0 -7.5 70M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 361 38.0 -7.5 70M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 361 38.0 -7.5 85M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 361 38.0 -7.5 85M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 361 38.0 -7.5 85M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 361 38.0 -7.5 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 361 38.0 -7.5 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 361 38.0 -7.5 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 626 39.5 -8.75 70M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 626 39.5 -8.75 70M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 626 39.5 -8.75 70M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 626 39.5 -8.75 85M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 626 39.5 -8.75 85M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 626 39.5 -8.75 85M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 626 39.5 -8.75 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 626 39.5 -8.75 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 626 39.5 -8.75 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 805 40.5 -8.125 70M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 805 40.5 -8.125 70M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 805 40.5 -8.125 70M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 805 40.5 -8.125 85M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 805 40.5 -8.125 85M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 805 40.5 -8.125 85M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 805 40.5 -8.125 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 805 40.5 -8.125 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 805 40.5 -8.125 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 895 41.0 -7.5 70M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 895 41.0 -7.5 70M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 895 41.0 -7.5 70M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 895 41.0 -7.5 85M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 895 41.0 -7.5 85M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 895 41.0 -7.5 85M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 895 41.0 -7.5 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 895 41.0 -7.5 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 895 41.0 -7.5 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 983 41.5 -8.125 70M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 983 41.5 -8.125 70M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 983 41.5 -8.125 70M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 983 41.5 -8.125 85M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 983 41.5 -8.125 85M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 983 41.5 -8.125 85M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 983 41.5 -8.125 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 983 41.5 -8.125 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 983 41.5 -8.125 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 984 41.5 -7.5 70M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 984 41.5 -7.5 70M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 984 41.5 -7.5 70M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 984 41.5 -7.5 85M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 984 41.5 -7.5 85M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 984 41.5 -7.5 85M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 984 41.5 -7.5 100M Generator LWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 984 41.5 -7.5 100M Generator NWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore 984 41.5 -7.5 100M Generator HWST			Save Blocks	2010-01-01	2100-01-01	0							
+PT Offshore 893 41.0 -8.75 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+PT Offshore 893 41.0 -8.75 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+PT Offshore 893 41.0 -8.75 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+PT Offshore 893 41.0 -8.75 130M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+PT Offshore 893 41.0 -8.75 130M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+PT Offshore 893 41.0 -8.75 130M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+PT Offshore 893 41.0 -8.75 160M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+PT Offshore 893 41.0 -8.75 160M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+PT Offshore 893 41.0 -8.75 160M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+PT Offshore 93 36.5 -8.125 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+PT Offshore 93 36.5 -8.125 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+PT Offshore 93 36.5 -8.125 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+PT Offshore 93 36.5 -8.125 130M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+PT Offshore 93 36.5 -8.125 130M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+PT Offshore 93 36.5 -8.125 130M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+PT Offshore 93 36.5 -8.125 160M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+PT Offshore 93 36.5 -8.125 160M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+PT Offshore 93 36.5 -8.125 160M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 361 38.0 -7.5 70M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 361 38.0 -7.5 70M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 361 38.0 -7.5 70M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 361 38.0 -7.5 85M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 361 38.0 -7.5 85M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 361 38.0 -7.5 85M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 361 38.0 -7.5 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 361 38.0 -7.5 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 361 38.0 -7.5 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 626 39.5 -8.75 70M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 626 39.5 -8.75 70M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 626 39.5 -8.75 70M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 626 39.5 -8.75 85M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 626 39.5 -8.75 85M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 626 39.5 -8.75 85M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 626 39.5 -8.75 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 626 39.5 -8.75 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 626 39.5 -8.75 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 805 40.5 -8.125 70M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 805 40.5 -8.125 70M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 805 40.5 -8.125 70M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 805 40.5 -8.125 85M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 805 40.5 -8.125 85M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 805 40.5 -8.125 85M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 805 40.5 -8.125 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 805 40.5 -8.125 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 805 40.5 -8.125 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 895 41.0 -7.5 70M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 895 41.0 -7.5 70M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 895 41.0 -7.5 70M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 895 41.0 -7.5 85M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 895 41.0 -7.5 85M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 895 41.0 -7.5 85M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 895 41.0 -7.5 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 895 41.0 -7.5 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 895 41.0 -7.5 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 983 41.5 -8.125 70M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 983 41.5 -8.125 70M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 983 41.5 -8.125 70M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 983 41.5 -8.125 85M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 983 41.5 -8.125 85M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 983 41.5 -8.125 85M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 983 41.5 -8.125 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 983 41.5 -8.125 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 983 41.5 -8.125 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 984 41.5 -7.5 70M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 984 41.5 -7.5 70M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 984 41.5 -7.5 70M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 984 41.5 -7.5 85M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 984 41.5 -7.5 85M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 984 41.5 -7.5 85M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 984 41.5 -7.5 100M Generator LWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 984 41.5 -7.5 100M Generator NWST			Save Data	2010-01-01	2100-01-01	1							
+PT Onshore 984 41.5 -7.5 100M Generator HWST			Save Data	2010-01-01	2100-01-01	1							
+PT Offshore 893 41.0 -8.75 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	7.06E-02							
+PT Offshore 893 41.0 -8.75 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	0.0533424							
+PT Offshore 893 41.0 -8.75 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	5.80E-02							
+PT Offshore 893 41.0 -8.75 130M Generator LWST			Variable Cost	2010-01-01	2100-01-01	2.90E-02							
+PT Offshore 893 41.0 -8.75 130M Generator NWST			Variable Cost	2010-01-01	2100-01-01	0.0301948							
+PT Offshore 893 41.0 -8.75 130M Generator HWST			Variable Cost	2010-01-01	2100-01-01	7.75E-02							
+PT Offshore 893 41.0 -8.75 160M Generator LWST			Variable Cost	2010-01-01	2100-01-01	1.40E-03							
+PT Offshore 893 41.0 -8.75 160M Generator NWST			Variable Cost	2010-01-01	2100-01-01	7.61E-02							
+PT Offshore 893 41.0 -8.75 160M Generator HWST			Variable Cost	2010-01-01	2100-01-01	0.081449							
+PT Offshore 93 36.5 -8.125 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	7.09E-02							
+PT Offshore 93 36.5 -8.125 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	4.54E-03							
+PT Offshore 93 36.5 -8.125 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	4.14E-02							
+PT Offshore 93 36.5 -8.125 130M Generator LWST			Variable Cost	2010-01-01	2100-01-01	8.63E-02							
+PT Offshore 93 36.5 -8.125 130M Generator NWST			Variable Cost	2010-01-01	2100-01-01	0.079048							
+PT Offshore 93 36.5 -8.125 130M Generator HWST			Variable Cost	2010-01-01	2100-01-01	3.74E-02							
+PT Offshore 93 36.5 -8.125 160M Generator LWST			Variable Cost	2010-01-01	2100-01-01	9.62E-02							
+PT Offshore 93 36.5 -8.125 160M Generator NWST			Variable Cost	2010-01-01	2100-01-01	8.71E-02							
+PT Offshore 93 36.5 -8.125 160M Generator HWST			Variable Cost	2010-01-01	2100-01-01	5.62E-03							
+PT Onshore 361 38.0 -7.5 70M Generator LWST			Variable Cost	2010-01-01	2100-01-01	9.50E-02							
+PT Onshore 361 38.0 -7.5 70M Generator NWST			Variable Cost	2010-01-01	2100-01-01	3.64E-02							
+PT Onshore 361 38.0 -7.5 70M Generator HWST			Variable Cost	2010-01-01	2100-01-01	5.25E-02							
+PT Onshore 361 38.0 -7.5 85M Generator LWST			Variable Cost	2010-01-01	2100-01-01	7.67E-02							
+PT Onshore 361 38.0 -7.5 85M Generator NWST			Variable Cost	2010-01-01	2100-01-01	5.35E-03							
+PT Onshore 361 38.0 -7.5 85M Generator HWST			Variable Cost	2010-01-01	2100-01-01	5.92E-02							
+PT Onshore 361 38.0 -7.5 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	4.69E-02							
+PT Onshore 361 38.0 -7.5 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	2.98E-02							
+PT Onshore 361 38.0 -7.5 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	6.23E-02							
+PT Onshore 626 39.5 -8.75 70M Generator LWST			Variable Cost	2010-01-01	2100-01-01	6.48E-02							
+PT Onshore 626 39.5 -8.75 70M Generator NWST			Variable Cost	2010-01-01	2100-01-01	2.64E-02							
+PT Onshore 626 39.5 -8.75 70M Generator HWST			Variable Cost	2010-01-01	2100-01-01	0.0279342							
+PT Onshore 626 39.5 -8.75 85M Generator LWST			Variable Cost	2010-01-01	2100-01-01	8.30E-02							
+PT Onshore 626 39.5 -8.75 85M Generator NWST			Variable Cost	2010-01-01	2100-01-01	8.25E-02							
+PT Onshore 626 39.5 -8.75 85M Generator HWST			Variable Cost	2010-01-01	2100-01-01	0.0589163							
+PT Onshore 626 39.5 -8.75 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	9.86E-02							
+PT Onshore 626 39.5 -8.75 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	9.11E-02							
+PT Onshore 626 39.5 -8.75 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	0.0226866							
+PT Onshore 805 40.5 -8.125 70M Generator LWST			Variable Cost	2010-01-01	2100-01-01	6.95E-02							
+PT Onshore 805 40.5 -8.125 70M Generator NWST			Variable Cost	2010-01-01	2100-01-01	9.80E-02							
+PT Onshore 805 40.5 -8.125 70M Generator HWST			Variable Cost	2010-01-01	2100-01-01	2.44E-02							
+PT Onshore 805 40.5 -8.125 85M Generator LWST			Variable Cost	2010-01-01	2100-01-01	5.34E-02							
+PT Onshore 805 40.5 -8.125 85M Generator NWST			Variable Cost	2010-01-01	2100-01-01	1.06E-02							
+PT Onshore 805 40.5 -8.125 85M Generator HWST			Variable Cost	2010-01-01	2100-01-01	9.99E-02							
+PT Onshore 805 40.5 -8.125 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	6.76E-02							
+PT Onshore 805 40.5 -8.125 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	1.57E-03							
+PT Onshore 805 40.5 -8.125 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	5.75E-02							
+PT Onshore 895 41.0 -7.5 70M Generator LWST			Variable Cost	2010-01-01	2100-01-01	1.00E-02							
+PT Onshore 895 41.0 -7.5 70M Generator NWST			Variable Cost	2010-01-01	2100-01-01	1.03E-02							
+PT Onshore 895 41.0 -7.5 70M Generator HWST			Variable Cost	2010-01-01	2100-01-01	7.99E-02							
+PT Onshore 895 41.0 -7.5 85M Generator LWST			Variable Cost	2010-01-01	2100-01-01	2.84E-02							
+PT Onshore 895 41.0 -7.5 85M Generator NWST			Variable Cost	2010-01-01	2100-01-01	4.56E-03							
+PT Onshore 895 41.0 -7.5 85M Generator HWST			Variable Cost	2010-01-01	2100-01-01	2.96E-02							
+PT Onshore 895 41.0 -7.5 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	3.82E-02							
+PT Onshore 895 41.0 -7.5 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	3.01E-02							
+PT Onshore 895 41.0 -7.5 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	9.49E-02							
+PT Onshore 983 41.5 -8.125 70M Generator LWST			Variable Cost	2010-01-01	2100-01-01	9.80E-02							
+PT Onshore 983 41.5 -8.125 70M Generator NWST			Variable Cost	2010-01-01	2100-01-01	4.01E-02							
+PT Onshore 983 41.5 -8.125 70M Generator HWST			Variable Cost	2010-01-01	2100-01-01	0.027828							
+PT Onshore 983 41.5 -8.125 85M Generator LWST			Variable Cost	2010-01-01	2100-01-01	1.60E-02							
+PT Onshore 983 41.5 -8.125 85M Generator NWST			Variable Cost	2010-01-01	2100-01-01	1.63E-02							
+PT Onshore 983 41.5 -8.125 85M Generator HWST			Variable Cost	2010-01-01	2100-01-01	6.47E-02							
+PT Onshore 983 41.5 -8.125 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	4.10E-02							
+PT Onshore 983 41.5 -8.125 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	4.13E-02							
+PT Onshore 983 41.5 -8.125 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	7.13E-02							
+PT Onshore 984 41.5 -7.5 70M Generator LWST			Variable Cost	2010-01-01	2100-01-01	3.26E-02							
+PT Onshore 984 41.5 -7.5 70M Generator NWST			Variable Cost	2010-01-01	2100-01-01	6.33E-02							
+PT Onshore 984 41.5 -7.5 70M Generator HWST			Variable Cost	2010-01-01	2100-01-01	2.08E-02							
+PT Onshore 984 41.5 -7.5 85M Generator LWST			Variable Cost	2010-01-01	2100-01-01	1.86E-02							
+PT Onshore 984 41.5 -7.5 85M Generator NWST			Variable Cost	2010-01-01	2100-01-01	0.0583359							
+PT Onshore 984 41.5 -7.5 85M Generator HWST			Variable Cost	2010-01-01	2100-01-01	8.07E-03							
+PT Onshore 984 41.5 -7.5 100M Generator LWST			Variable Cost	2010-01-01	2100-01-01	4.58E-02							
+PT Onshore 984 41.5 -7.5 100M Generator NWST			Variable Cost	2010-01-01	2100-01-01	9.06E-02							
+PT Onshore 984 41.5 -7.5 100M Generator HWST			Variable Cost	2010-01-01	2100-01-01	2.61E-02							
+PT Offshore 893 41.0 -8.75 100M Generator LWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Offshore 893 41.0 -8.75 100M Generator NWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Offshore 893 41.0 -8.75 100M Generator HWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Offshore 893 41.0 -8.75 130M Generator LWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Offshore 893 41.0 -8.75 130M Generator NWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Offshore 893 41.0 -8.75 130M Generator HWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Offshore 893 41.0 -8.75 160M Generator LWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Offshore 893 41.0 -8.75 160M Generator NWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Offshore 893 41.0 -8.75 160M Generator HWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Offshore 93 36.5 -8.125 100M Generator LWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Offshore 93 36.5 -8.125 100M Generator NWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Offshore 93 36.5 -8.125 100M Generator HWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Offshore 93 36.5 -8.125 130M Generator LWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Offshore 93 36.5 -8.125 130M Generator NWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Offshore 93 36.5 -8.125 130M Generator HWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Offshore 93 36.5 -8.125 160M Generator LWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Offshore 93 36.5 -8.125 160M Generator NWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Offshore 93 36.5 -8.125 160M Generator HWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 361 38.0 -7.5 70M Generator LWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 361 38.0 -7.5 70M Generator NWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 361 38.0 -7.5 70M Generator HWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 361 38.0 -7.5 85M Generator LWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 361 38.0 -7.5 85M Generator NWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 361 38.0 -7.5 85M Generator HWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 361 38.0 -7.5 100M Generator LWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 361 38.0 -7.5 100M Generator NWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 361 38.0 -7.5 100M Generator HWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 626 39.5 -8.75 70M Generator LWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 626 39.5 -8.75 70M Generator NWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 626 39.5 -8.75 70M Generator HWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 626 39.5 -8.75 85M Generator LWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 626 39.5 -8.75 85M Generator NWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 626 39.5 -8.75 85M Generator HWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 626 39.5 -8.75 100M Generator LWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 626 39.5 -8.75 100M Generator NWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 626 39.5 -8.75 100M Generator HWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 805 40.5 -8.125 70M Generator LWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 805 40.5 -8.125 70M Generator NWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 805 40.5 -8.125 70M Generator HWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 805 40.5 -8.125 85M Generator LWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 805 40.5 -8.125 85M Generator NWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 805 40.5 -8.125 85M Generator HWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 805 40.5 -8.125 100M Generator LWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 805 40.5 -8.125 100M Generator NWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 805 40.5 -8.125 100M Generator HWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 895 41.0 -7.5 70M Generator LWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 895 41.0 -7.5 70M Generator NWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 895 41.0 -7.5 70M Generator HWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 895 41.0 -7.5 85M Generator LWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 895 41.0 -7.5 85M Generator NWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 895 41.0 -7.5 85M Generator HWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 895 41.0 -7.5 100M Generator LWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 895 41.0 -7.5 100M Generator NWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 895 41.0 -7.5 100M Generator HWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 983 41.5 -8.125 70M Generator LWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 983 41.5 -8.125 70M Generator NWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 983 41.5 -8.125 70M Generator HWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 983 41.5 -8.125 85M Generator LWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 983 41.5 -8.125 85M Generator NWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 983 41.5 -8.125 85M Generator HWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 983 41.5 -8.125 100M Generator LWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 983 41.5 -8.125 100M Generator NWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 983 41.5 -8.125 100M Generator HWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 984 41.5 -7.5 70M Generator LWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 984 41.5 -7.5 70M Generator NWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 984 41.5 -7.5 70M Generator HWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 984 41.5 -7.5 85M Generator LWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 984 41.5 -7.5 85M Generator NWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 984 41.5 -7.5 85M Generator HWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 984 41.5 -7.5 100M Generator LWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 984 41.5 -7.5 100M Generator NWST			Save Data Low Prio	2010-01-01	2100-01-01	1							
+PT Onshore 984 41.5 -7.5 100M Generator HWST			Save Data Low Prio	2010-01-01	2100-01-01	1							

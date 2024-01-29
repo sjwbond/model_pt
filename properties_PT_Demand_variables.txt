@@ -1,0 +1,359 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+PT Base Demand			Value	2010-01-01	2100-01-01	Base Demand File							
+PT Daily Demand Stochastic			Value	2010-01-01	2100-01-01	PT Daily Demand Stochastic File	PT Base Demand	Multiply					
+PT Demand			Bid Volume	2010-01-01	2100-01-01	PT Demand HOD	PT DSR Adjustment	Add			1	1	
+PT Demand			Bid Price	2010-01-01	2100-01-01	100000					1	1	
+PT Demand			Bid Volume	2017-01-01	2100-01-01	PT DSR Bid Volume 2017					2	2	
+PT Demand			Bid Price	2017-01-01	2100-01-01	PT DSR Bid Price 2017					2	2	
+PT Demand			Bid Volume	2018-01-01	2100-01-01	PT DSR Bid Volume 2018					3	3	
+PT Demand			Bid Price	2018-01-01	2100-01-01	PT DSR Bid Price 2018					3	3	
+PT Demand			Bid Volume	2019-01-01	2100-01-01	PT DSR Bid Volume 2019					4	4	
+PT Demand			Bid Price	2019-01-01	2100-01-01	PT DSR Bid Price 2019					4	4	
+PT Demand			Bid Volume	2020-01-01	2100-01-01	PT DSR Bid Volume 2020					5	5	
+PT Demand			Bid Price	2020-01-01	2100-01-01	PT DSR Bid Price 2020					5	5	
+PT Demand			Bid Volume	2021-01-01	2100-01-01	PT DSR Bid Volume 2021					6	6	
+PT Demand			Bid Price	2021-01-01	2100-01-01	PT DSR Bid Price 2021					6	6	
+PT Demand			Bid Volume	2022-01-01	2100-01-01	PT DSR Bid Volume 2022					7	7	
+PT Demand			Bid Price	2022-01-01	2100-01-01	PT DSR Bid Price 2022					7	7	
+PT Demand			Bid Volume	2023-01-01	2100-01-01	PT DSR Bid Volume 2023					8	8	
+PT Demand			Bid Price	2023-01-01	2100-01-01	PT DSR Bid Price 2023					8	8	
+PT Demand			Bid Volume	2024-01-01	2100-01-01	PT DSR Bid Volume 2024					9	9	
+PT Demand			Bid Price	2024-01-01	2100-01-01	PT DSR Bid Price 2024					9	9	
+PT Demand			Bid Volume	2025-01-01	2100-01-01	PT DSR Bid Volume 2025					10	10	
+PT Demand			Bid Price	2025-01-01	2100-01-01	PT DSR Bid Price 2025					10	10	
+PT Demand			Bid Volume	2026-01-01	2100-01-01	PT DSR Bid Volume 2026					11	11	
+PT Demand			Bid Price	2026-01-01	2100-01-01	PT DSR Bid Price 2026					11	11	
+PT Demand			Bid Volume	2027-01-01	2100-01-01	PT DSR Bid Volume 2027					12	12	
+PT Demand			Bid Price	2027-01-01	2100-01-01	PT DSR Bid Price 2027					12	12	
+PT Demand			Bid Volume	2028-01-01	2100-01-01	PT DSR Bid Volume 2028					13	13	
+PT Demand			Bid Price	2028-01-01	2100-01-01	PT DSR Bid Price 2028					13	13	
+PT Demand			Bid Volume	2029-01-01	2100-01-01	PT DSR Bid Volume 2029					14	14	
+PT Demand			Bid Price	2029-01-01	2100-01-01	PT DSR Bid Price 2029					14	14	
+PT Demand			Bid Volume	2030-01-01	2100-01-01	PT DSR Bid Volume 2030					15	15	
+PT Demand			Bid Price	2030-01-01	2100-01-01	PT DSR Bid Price 2030					15	15	
+PT Demand			Bid Volume	2031-01-01	2100-01-01	PT DSR Bid Volume 2031					16	16	
+PT Demand			Bid Price	2031-01-01	2100-01-01	PT DSR Bid Price 2031					16	16	
+PT Demand			Bid Volume	2032-01-01	2100-01-01	PT DSR Bid Volume 2032					17	17	
+PT Demand			Bid Price	2032-01-01	2100-01-01	PT DSR Bid Price 2032					17	17	
+PT Demand			Bid Volume	2033-01-01	2100-01-01	PT DSR Bid Volume 2033					18	18	
+PT Demand			Bid Price	2033-01-01	2100-01-01	PT DSR Bid Price 2033					18	18	
+PT Demand			Bid Volume	2034-01-01	2100-01-01	PT DSR Bid Volume 2034					19	19	
+PT Demand			Bid Price	2034-01-01	2100-01-01	PT DSR Bid Price 2034					19	19	
+PT Demand			Bid Volume	2035-01-01	2100-01-01	PT DSR Bid Volume 2035					20	20	
+PT Demand			Bid Price	2035-01-01	2100-01-01	PT DSR Bid Price 2035					20	20	
+PT Demand			Bid Volume	2036-01-01	2100-01-01	PT DSR Bid Volume 2036					21	21	
+PT Demand			Bid Price	2036-01-01	2100-01-01	PT DSR Bid Price 2036					21	21	
+PT Demand			Bid Volume	2037-01-01	2100-01-01	PT DSR Bid Volume 2037					22	22	
+PT Demand			Bid Price	2037-01-01	2100-01-01	PT DSR Bid Price 2037					22	22	
+PT Demand			Bid Volume	2038-01-01	2100-01-01	PT DSR Bid Volume 2038					23	23	
+PT Demand			Bid Price	2038-01-01	2100-01-01	PT DSR Bid Price 2038					23	23	
+PT Demand			Bid Volume	2039-01-01	2100-01-01	PT DSR Bid Volume 2039					24	24	
+PT Demand			Bid Price	2039-01-01	2100-01-01	PT DSR Bid Price 2039					24	24	
+PT Demand			Bid Volume	2040-01-01	2100-01-01	PT DSR Bid Volume 2040					25	25	
+PT Demand			Bid Price	2040-01-01	2100-01-01	PT DSR Bid Price 2040					25	25	
+PT Demand			Bid Volume	2041-01-01	2100-01-01	PT DSR Bid Volume 2041					26	26	
+PT Demand			Bid Price	2041-01-01	2100-01-01	PT DSR Bid Price 2041					26	26	
+PT Demand			Bid Volume	2042-01-01	2100-01-01	PT DSR Bid Volume 2042					27	27	
+PT Demand			Bid Price	2042-01-01	2100-01-01	PT DSR Bid Price 2042					27	27	
+PT Demand			Bid Volume	2043-01-01	2100-01-01	PT DSR Bid Volume 2043					28	28	
+PT Demand			Bid Price	2043-01-01	2100-01-01	PT DSR Bid Price 2043					28	28	
+PT Demand			Bid Volume	2044-01-01	2100-01-01	PT DSR Bid Volume 2044					29	29	
+PT Demand			Bid Price	2044-01-01	2100-01-01	PT DSR Bid Price 2044					29	29	
+PT Demand			Bid Volume	2045-01-01	2100-01-01	PT DSR Bid Volume 2045					30	30	
+PT Demand			Bid Price	2045-01-01	2100-01-01	PT DSR Bid Price 2045					30	30	
+PT Demand			Bid Volume	2046-01-01	2100-01-01	PT DSR Bid Volume 2046					31	31	
+PT Demand			Bid Price	2046-01-01	2100-01-01	PT DSR Bid Price 2046					31	31	
+PT Demand			Bid Volume	2047-01-01	2100-01-01	PT DSR Bid Volume 2047					32	32	
+PT Demand			Bid Price	2047-01-01	2100-01-01	PT DSR Bid Price 2047					32	32	
+PT Demand			Bid Volume	2048-01-01	2100-01-01	PT DSR Bid Volume 2048					33	33	
+PT Demand			Bid Price	2048-01-01	2100-01-01	PT DSR Bid Price 2048					33	33	
+PT Demand			Bid Volume	2049-01-01	2100-01-01	PT DSR Bid Volume 2049					34	34	
+PT Demand			Bid Price	2049-01-01	2100-01-01	PT DSR Bid Price 2049					34	34	
+PT Demand			Bid Volume	2050-01-01	2100-01-01	PT DSR Bid Volume 2050					35	35	
+PT Demand			Bid Price	2050-01-01	2100-01-01	PT DSR Bid Price 2050					35	35	
+PT Demand			Bid Volume	2051-01-01	2100-01-01	PT DSR Bid Volume 2051					36	36	
+PT Demand			Bid Price	2051-01-01	2100-01-01	PT DSR Bid Price 2051					36	36	
+PT Demand			Bid Volume	2052-01-01	2100-01-01	PT DSR Bid Volume 2052					37	37	
+PT Demand			Bid Price	2052-01-01	2100-01-01	PT DSR Bid Price 2052					37	37	
+PT Demand			Bid Volume	2053-01-01	2100-01-01	PT DSR Bid Volume 2053					38	38	
+PT Demand			Bid Price	2053-01-01	2100-01-01	PT DSR Bid Price 2053					38	38	
+PT Demand			Bid Volume	2054-01-01	2100-01-01	PT DSR Bid Volume 2054					39	39	
+PT Demand			Bid Price	2054-01-01	2100-01-01	PT DSR Bid Price 2054					39	39	
+PT Demand			Bid Volume	2055-01-01	2100-01-01	PT DSR Bid Volume 2055					40	40	
+PT Demand			Bid Price	2055-01-01	2100-01-01	PT DSR Bid Price 2055					40	40	
+PT Demand			Bid Volume	2056-01-01	2100-01-01	PT DSR Bid Volume 2056					41	41	
+PT Demand			Bid Price	2056-01-01	2100-01-01	PT DSR Bid Price 2056					41	41	
+PT Demand			Bid Volume	2057-01-01	2100-01-01	PT DSR Bid Volume 2057					42	42	
+PT Demand			Bid Price	2057-01-01	2100-01-01	PT DSR Bid Price 2057					42	42	
+PT Demand			Bid Volume	2058-01-01	2100-01-01	PT DSR Bid Volume 2058					43	43	
+PT Demand			Bid Price	2058-01-01	2100-01-01	PT DSR Bid Price 2058					43	43	
+PT Demand			Bid Volume	2059-01-01	2100-01-01	PT DSR Bid Volume 2059					44	44	
+PT Demand			Bid Price	2059-01-01	2100-01-01	PT DSR Bid Price 2059					44	44	
+PT Demand			Bid Volume	2060-01-01	2100-01-01	PT DSR Bid Volume 2060					45	45	
+PT Demand			Bid Price	2060-01-01	2100-01-01	PT DSR Bid Price 2060					45	45	
+PT Demand			Bid Volume	2061-01-01	2100-01-01	PT DSR Bid Volume 2061					46	46	
+PT Demand			Bid Price	2061-01-01	2100-01-01	PT DSR Bid Price 2061					46	46	
+PT Demand			Bid Volume	2062-01-01	2100-01-01	PT DSR Bid Volume 2062					47	47	
+PT Demand			Bid Price	2062-01-01	2100-01-01	PT DSR Bid Price 2062					47	47	
+PT Demand			Bid Volume	2063-01-01	2100-01-01	PT DSR Bid Volume 2063					48	48	
+PT Demand			Bid Price	2063-01-01	2100-01-01	PT DSR Bid Price 2063					48	48	
+PT Demand			Bid Volume	2064-01-01	2100-01-01	PT DSR Bid Volume 2064					49	49	
+PT Demand			Bid Price	2064-01-01	2100-01-01	PT DSR Bid Price 2064					49	49	
+PT Demand			Bid Volume	2065-01-01	2100-01-01	PT DSR Bid Volume 2065					50	50	
+PT Demand			Bid Price	2065-01-01	2100-01-01	PT DSR Bid Price 2065					50	50	
+PT Demand			Bid Volume	2066-01-01	2100-01-01	PT DSR Bid Volume 2066					51	51	
+PT Demand			Bid Price	2066-01-01	2100-01-01	PT DSR Bid Price 2066					51	51	
+PT Demand			Bid Volume	2067-01-01	2100-01-01	PT DSR Bid Volume 2067					52	52	
+PT Demand			Bid Price	2067-01-01	2100-01-01	PT DSR Bid Price 2067					52	52	
+PT Demand			Bid Volume	2068-01-01	2100-01-01	PT DSR Bid Volume 2068					53	53	
+PT Demand			Bid Price	2068-01-01	2100-01-01	PT DSR Bid Price 2068					53	53	
+PT Demand			Bid Volume	2069-01-01	2100-01-01	PT DSR Bid Volume 2069					54	54	
+PT Demand			Bid Price	2069-01-01	2100-01-01	PT DSR Bid Price 2069					54	54	
+PT Demand			Bid Volume	2070-01-01	2100-01-01	PT DSR Bid Volume 2070					55	55	
+PT Demand			Bid Price	2070-01-01	2100-01-01	PT DSR Bid Price 2070					55	55	
+PT Demand			Bid Volume	2071-01-01	2100-01-01	PT DSR Bid Volume 2071					56	56	
+PT Demand			Bid Price	2071-01-01	2100-01-01	PT DSR Bid Price 2071					56	56	
+PT Demand			Bid Volume	2072-01-01	2100-01-01	PT DSR Bid Volume 2072					57	57	
+PT Demand			Bid Price	2072-01-01	2100-01-01	PT DSR Bid Price 2072					57	57	
+PT Demand			Bid Volume	2073-01-01	2100-01-01	PT DSR Bid Volume 2073					58	58	
+PT Demand			Bid Price	2073-01-01	2100-01-01	PT DSR Bid Price 2073					58	58	
+PT Demand			Bid Volume	2074-01-01	2100-01-01	PT DSR Bid Volume 2074					59	59	
+PT Demand			Bid Price	2074-01-01	2100-01-01	PT DSR Bid Price 2074					59	59	
+PT Demand			Bid Volume	2075-01-01	2100-01-01	PT DSR Bid Volume 2075					60	60	
+PT Demand			Bid Price	2075-01-01	2100-01-01	PT DSR Bid Price 2075					60	60	
+PT Demand			Bid Volume	2076-01-01	2100-01-01	PT DSR Bid Volume 2076					61	61	
+PT Demand			Bid Price	2076-01-01	2100-01-01	PT DSR Bid Price 2076					61	61	
+PT Demand			Bid Volume	2077-01-01	2100-01-01	PT DSR Bid Volume 2077					62	62	
+PT Demand			Bid Price	2077-01-01	2100-01-01	PT DSR Bid Price 2077					62	62	
+PT Demand			Bid Volume	2078-01-01	2100-01-01	PT DSR Bid Volume 2078					63	63	
+PT Demand			Bid Price	2078-01-01	2100-01-01	PT DSR Bid Price 2078					63	63	
+PT Demand			Bid Volume	2079-01-01	2100-01-01	PT DSR Bid Volume 2079					64	64	
+PT Demand			Bid Price	2079-01-01	2100-01-01	PT DSR Bid Price 2079					64	64	
+PT Demand			Bid Volume	2080-01-01	2100-01-01	PT DSR Bid Volume 2080					65	65	
+PT Demand			Bid Price	2080-01-01	2100-01-01	PT DSR Bid Price 2080					65	65	
+PT Demand			Bid Volume	2081-01-01	2100-01-01	PT DSR Bid Volume 2081					66	66	
+PT Demand			Bid Price	2081-01-01	2100-01-01	PT DSR Bid Price 2081					66	66	
+PT Demand			Bid Volume	2082-01-01	2100-01-01	PT DSR Bid Volume 2082					67	67	
+PT Demand			Bid Price	2082-01-01	2100-01-01	PT DSR Bid Price 2082					67	67	
+PT Demand			Bid Volume	2083-01-01	2100-01-01	PT DSR Bid Volume 2083					68	68	
+PT Demand			Bid Price	2083-01-01	2100-01-01	PT DSR Bid Price 2083					68	68	
+PT Demand			Bid Volume	2084-01-01	2100-01-01	PT DSR Bid Volume 2084					69	69	
+PT Demand			Bid Price	2084-01-01	2100-01-01	PT DSR Bid Price 2084					69	69	
+PT Demand			Bid Volume	2085-01-01	2100-01-01	PT DSR Bid Volume 2085					70	70	
+PT Demand			Bid Price	2085-01-01	2100-01-01	PT DSR Bid Price 2085					70	70	
+PT Demand			Bid Volume	2086-01-01	2100-01-01	PT DSR Bid Volume 2086					71	71	
+PT Demand			Bid Price	2086-01-01	2100-01-01	PT DSR Bid Price 2086					71	71	
+PT Demand DIY			Value	2010-01-01	2100-01-01	PT Demand DIY File	PT Daily Demand Stochastic	Multiply					
+PT Demand DOW			Value	2010-01-01	2100-01-01	PT Demand DOW File	PT Demand DIY	Multiply					
+PT Demand Historic Day Ahead			Value	2010-01-01	2100-01-01	PT Demand Historic Day Ahead File							
+PT Demand HOD			Value	2010-01-01	2100-01-01	PT Demand HOD File	PT Demand DOW	Multiply					
+PT DSR Adjustment			Value	2017-01-01	2100-01-01	-220							
+PT DSR Adjustment			Value	2018-01-01	2100-01-01	-240							
+PT DSR Adjustment			Value	2019-01-01	2100-01-01	-260							
+PT DSR Adjustment			Value	2020-01-01	2100-01-01	-280							
+PT DSR Adjustment			Value	2021-01-01	2100-01-01	-300							
+PT DSR Adjustment			Value	2022-01-01	2100-01-01	-320							
+PT DSR Adjustment			Value	2023-01-01	2100-01-01	-340							
+PT DSR Adjustment			Value	2024-01-01	2100-01-01	-360							
+PT DSR Adjustment			Value	2025-01-01	2100-01-01	-380							
+PT DSR Adjustment			Value	2026-01-01	2100-01-01	-400							
+PT DSR Adjustment			Value	2027-01-01	2100-01-01	-420							
+PT DSR Adjustment			Value	2028-01-01	2100-01-01	-440							
+PT DSR Adjustment			Value	2029-01-01	2100-01-01	-460							
+PT DSR Adjustment			Value	2030-01-01	2100-01-01	-480							
+PT DSR Adjustment			Value	2031-01-01	2100-01-01	-500							
+PT DSR Adjustment			Value	2032-01-01	2100-01-01	-1500							
+PT DSR Adjustment			Value	2033-01-01	2100-01-01	-1520							
+PT DSR Adjustment			Value	2034-01-01	2100-01-01	-1540							
+PT DSR Adjustment			Value	2035-01-01	2100-01-01	-1560							
+PT DSR Adjustment			Value	2036-01-01	2100-01-01	-1580							
+PT DSR Adjustment			Value	2037-01-01	2100-01-01	-1600							
+PT DSR Adjustment			Value	2038-01-01	2100-01-01	-1620							
+PT DSR Adjustment			Value	2039-01-01	2100-01-01	-1640							
+PT DSR Adjustment			Value	2040-01-01	2100-01-01	-1660							
+PT DSR Adjustment			Value	2041-01-01	2100-01-01	-1680							
+PT DSR Adjustment			Value	2042-01-01	2100-01-01	-1700							
+PT DSR Adjustment			Value	2043-01-01	2100-01-01	-1720							
+PT DSR Adjustment			Value	2044-01-01	2100-01-01	-1740							
+PT DSR Adjustment			Value	2045-01-01	2100-01-01	-1760							
+PT DSR Adjustment			Value	2046-01-01	2100-01-01	-1780							
+PT DSR Adjustment			Value	2047-01-01	2100-01-01	-1800							
+PT DSR Adjustment			Value	2048-01-01	2100-01-01	-1820							
+PT DSR Adjustment			Value	2049-01-01	2100-01-01	-1840							
+PT DSR Adjustment			Value	2050-01-01	2100-01-01	-1860							
+PT DSR Adjustment			Value	2051-01-01	2100-01-01	-1880							
+PT DSR Adjustment			Value	2052-01-01	2100-01-01	-1900							
+PT DSR Adjustment			Value	2053-01-01	2100-01-01	-1920							
+PT DSR Adjustment			Value	2054-01-01	2100-01-01	-1940							
+PT DSR Adjustment			Value	2055-01-01	2100-01-01	-1960							
+PT DSR Adjustment			Value	2056-01-01	2100-01-01	-1980							
+PT DSR Adjustment			Value	2057-01-01	2100-01-01	-2000							
+PT DSR Adjustment			Value	2058-01-01	2100-01-01	-2020							
+PT DSR Adjustment			Value	2059-01-01	2100-01-01	-2040							
+PT DSR Adjustment			Value	2060-01-01	2100-01-01	-2060							
+PT DSR Adjustment			Value	2061-01-01	2100-01-01	-2080							
+PT DSR Adjustment			Value	2062-01-01	2100-01-01	-2100							
+PT DSR Adjustment			Value	2063-01-01	2100-01-01	-2120							
+PT DSR Adjustment			Value	2064-01-01	2100-01-01	-2140							
+PT DSR Adjustment			Value	2065-01-01	2100-01-01	-2160							
+PT DSR Adjustment			Value	2066-01-01	2100-01-01	-2180							
+PT DSR Adjustment			Value	2067-01-01	2100-01-01	-2200							
+PT DSR Adjustment			Value	2068-01-01	2100-01-01	-2220							
+PT DSR Adjustment			Value	2069-01-01	2100-01-01	-2240							
+PT DSR Adjustment			Value	2070-01-01	2100-01-01	-2260							
+PT DSR Adjustment			Value	2071-01-01	2100-01-01	-2280							
+PT DSR Adjustment			Value	2072-01-01	2100-01-01	-2300							
+PT DSR Adjustment			Value	2073-01-01	2100-01-01	-2320							
+PT DSR Adjustment			Value	2074-01-01	2100-01-01	-2340							
+PT DSR Adjustment			Value	2075-01-01	2100-01-01	-2360							
+PT DSR Adjustment			Value	2076-01-01	2100-01-01	-2380							
+PT DSR Adjustment			Value	2077-01-01	2100-01-01	-2400							
+PT DSR Adjustment			Value	2078-01-01	2100-01-01	-2420							
+PT DSR Adjustment			Value	2079-01-01	2100-01-01	-2440							
+PT DSR Adjustment			Value	2080-01-01	2100-01-01	-2460							
+PT DSR Adjustment			Value	2081-01-01	2100-01-01	-2480							
+PT DSR Adjustment			Value	2082-01-01	2100-01-01	-2500							
+PT DSR Adjustment			Value	2083-01-01	2100-01-01	-2520							
+PT DSR Adjustment			Value	2084-01-01	2100-01-01	-2540							
+PT DSR Adjustment			Value	2085-01-01	2100-01-01	-2560							
+PT DSR Adjustment			Value	2086-01-01	2100-01-01	-2580							
+PT DSR Bid Price 2017			Value	2017-01-01	2100-01-01	212.25							
+PT DSR Bid Price 2019			Value	2019-01-01	2100-01-01	217.25							
+PT DSR Bid Price 2086			Value	2086-01-01	2100-01-01	217.75							
+PT DSR Bid Price 2021			Value	2021-01-01	2100-01-01	222.25							
+PT DSR Bid Price 2084			Value	2084-01-01	2100-01-01	222.75							
+PT DSR Bid Price 2023			Value	2023-01-01	2100-01-01	227.25							
+PT DSR Bid Price 2082			Value	2082-01-01	2100-01-01	227.75							
+PT DSR Bid Price 2025			Value	2025-01-01	2100-01-01	232.25							
+PT DSR Bid Price 2080			Value	2080-01-01	2100-01-01	232.75							
+PT DSR Bid Price 2027			Value	2027-01-01	2100-01-01	237.25							
+PT DSR Bid Price 2078			Value	2078-01-01	2100-01-01	237.75							
+PT DSR Bid Price 2029			Value	2029-01-01	2100-01-01	242.25							
+PT DSR Bid Price 2076			Value	2076-01-01	2100-01-01	242.75							
+PT DSR Bid Price 2031			Value	2031-01-01	2100-01-01	247.25							
+PT DSR Bid Price 2074			Value	2074-01-01	2100-01-01	247.75							
+PT DSR Bid Price 2033			Value	2033-01-01	2100-01-01	252.25							
+PT DSR Bid Price 2072			Value	2072-01-01	2100-01-01	252.75							
+PT DSR Bid Price 2035			Value	2035-01-01	2100-01-01	257.25							
+PT DSR Bid Price 2070			Value	2070-01-01	2100-01-01	257.75							
+PT DSR Bid Price 2037			Value	2037-01-01	2100-01-01	262.25							
+PT DSR Bid Price 2068			Value	2068-01-01	2100-01-01	262.75							
+PT DSR Bid Price 2039			Value	2039-01-01	2100-01-01	267.25							
+PT DSR Bid Price 2066			Value	2066-01-01	2100-01-01	267.75							
+PT DSR Bid Price 2041			Value	2041-01-01	2100-01-01	272.25							
+PT DSR Bid Price 2064			Value	2064-01-01	2100-01-01	272.75							
+PT DSR Bid Price 2043			Value	2043-01-01	2100-01-01	277.25							
+PT DSR Bid Price 2062			Value	2062-01-01	2100-01-01	277.75							
+PT DSR Bid Price 2045			Value	2045-01-01	2100-01-01	282.25							
+PT DSR Bid Price 2060			Value	2060-01-01	2100-01-01	282.75							
+PT DSR Bid Price 2047			Value	2047-01-01	2100-01-01	287.25							
+PT DSR Bid Price 2058			Value	2058-01-01	2100-01-01	287.75							
+PT DSR Bid Price 2049			Value	2049-01-01	2100-01-01	292.25							
+PT DSR Bid Price 2056			Value	2056-01-01	2100-01-01	292.75							
+PT DSR Bid Price 2051			Value	2051-01-01	2100-01-01	297.25							
+PT DSR Bid Price 2054			Value	2054-01-01	2100-01-01	297.75							
+PT DSR Bid Price 2053			Value	2053-01-01	2100-01-01	302.25							
+PT DSR Bid Price 2052			Value	2052-01-01	2100-01-01	302.75							
+PT DSR Bid Price 2055			Value	2055-01-01	2100-01-01	307.25							
+PT DSR Bid Price 2050			Value	2050-01-01	2100-01-01	307.75							
+PT DSR Bid Price 2057			Value	2057-01-01	2100-01-01	312.25							
+PT DSR Bid Price 2048			Value	2048-01-01	2100-01-01	312.75							
+PT DSR Bid Price 2059			Value	2059-01-01	2100-01-01	317.25							
+PT DSR Bid Price 2046			Value	2046-01-01	2100-01-01	317.75							
+PT DSR Bid Price 2061			Value	2061-01-01	2100-01-01	322.25							
+PT DSR Bid Price 2044			Value	2044-01-01	2100-01-01	322.75							
+PT DSR Bid Price 2063			Value	2063-01-01	2100-01-01	327.25							
+PT DSR Bid Price 2042			Value	2042-01-01	2100-01-01	327.75							
+PT DSR Bid Price 2065			Value	2065-01-01	2100-01-01	332.25							
+PT DSR Bid Price 2040			Value	2040-01-01	2100-01-01	332.75							
+PT DSR Bid Price 2067			Value	2067-01-01	2100-01-01	337.25							
+PT DSR Bid Price 2038			Value	2038-01-01	2100-01-01	337.75							
+PT DSR Bid Price 2069			Value	2069-01-01	2100-01-01	342.25							
+PT DSR Bid Price 2036			Value	2036-01-01	2100-01-01	342.75							
+PT DSR Bid Price 2071			Value	2071-01-01	2100-01-01	347.25							
+PT DSR Bid Price 2034			Value	2034-01-01	2100-01-01	347.75							
+PT DSR Bid Price 2073			Value	2073-01-01	2100-01-01	352.25							
+PT DSR Bid Price 2032			Value	2032-01-01	2100-01-01	352.75							
+PT DSR Bid Price 2075			Value	2075-01-01	2100-01-01	357.25							
+PT DSR Bid Price 2030			Value	2030-01-01	2100-01-01	357.75							
+PT DSR Bid Price 2077			Value	2077-01-01	2100-01-01	362.25							
+PT DSR Bid Price 2028			Value	2028-01-01	2100-01-01	362.75							
+PT DSR Bid Price 2079			Value	2079-01-01	2100-01-01	367.25							
+PT DSR Bid Price 2026			Value	2026-01-01	2100-01-01	367.75							
+PT DSR Bid Price 2081			Value	2081-01-01	2100-01-01	372.25							
+PT DSR Bid Price 2024			Value	2024-01-01	2100-01-01	372.75							
+PT DSR Bid Price 2083			Value	2083-01-01	2100-01-01	377.25							
+PT DSR Bid Price 2022			Value	2022-01-01	2100-01-01	377.75							
+PT DSR Bid Price 2085			Value	2085-01-01	2100-01-01	382.25							
+PT DSR Bid Price 2020			Value	2020-01-01	2100-01-01	382.75							
+PT DSR Bid Price 2018			Value	2018-01-01	2100-01-01	387.75							
+PT DSR Bid Volume 2017			Value	2017-01-01	2100-01-01	50							
+PT DSR Bid Volume 2018			Value	2018-01-01	2100-01-01	50							
+PT DSR Bid Volume 2019			Value	2019-01-01	2100-01-01	50							
+PT DSR Bid Volume 2020			Value	2020-01-01	2100-01-01	50							
+PT DSR Bid Volume 2021			Value	2021-01-01	2100-01-01	50							
+PT DSR Bid Volume 2022			Value	2022-01-01	2100-01-01	50							
+PT DSR Bid Volume 2023			Value	2023-01-01	2100-01-01	50							
+PT DSR Bid Volume 2024			Value	2024-01-01	2100-01-01	120							
+PT DSR Bid Volume 2025			Value	2025-01-01	2100-01-01	120							
+PT DSR Bid Volume 2026			Value	2026-01-01	2100-01-01	120							
+PT DSR Bid Volume 2027			Value	2027-01-01	2100-01-01	120							
+PT DSR Bid Volume 2028			Value	2028-01-01	2100-01-01	120							
+PT DSR Bid Volume 2029			Value	2029-01-01	2100-01-01	120							
+PT DSR Bid Volume 2030			Value	2030-01-01	2100-01-01	120							
+PT DSR Bid Volume 2031			Value	2031-01-01	2100-01-01	120							
+PT DSR Bid Volume 2032			Value	2032-01-01	2100-01-01	120							
+PT DSR Bid Volume 2033			Value	2033-01-01	2100-01-01	20							
+PT DSR Bid Volume 2034			Value	2034-01-01	2100-01-01	20							
+PT DSR Bid Volume 2035			Value	2035-01-01	2100-01-01	20							
+PT DSR Bid Volume 2036			Value	2036-01-01	2100-01-01	20							
+PT DSR Bid Volume 2037			Value	2037-01-01	2100-01-01	20							
+PT DSR Bid Volume 2038			Value	2038-01-01	2100-01-01	20							
+PT DSR Bid Volume 2039			Value	2039-01-01	2100-01-01	20							
+PT DSR Bid Volume 2040			Value	2040-01-01	2100-01-01	20							
+PT DSR Bid Volume 2041			Value	2041-01-01	2100-01-01	20							
+PT DSR Bid Volume 2042			Value	2042-01-01	2100-01-01	20							
+PT DSR Bid Volume 2043			Value	2043-01-01	2100-01-01	20							
+PT DSR Bid Volume 2044			Value	2044-01-01	2100-01-01	20							
+PT DSR Bid Volume 2045			Value	2045-01-01	2100-01-01	20							
+PT DSR Bid Volume 2046			Value	2046-01-01	2100-01-01	20							
+PT DSR Bid Volume 2047			Value	2047-01-01	2100-01-01	20							
+PT DSR Bid Volume 2048			Value	2048-01-01	2100-01-01	20							
+PT DSR Bid Volume 2049			Value	2049-01-01	2100-01-01	20							
+PT DSR Bid Volume 2050			Value	2050-01-01	2100-01-01	20							
+PT DSR Bid Volume 2051			Value	2051-01-01	2100-01-01	20							
+PT DSR Bid Volume 2052			Value	2052-01-01	2100-01-01	20							
+PT DSR Bid Volume 2053			Value	2053-01-01	2100-01-01	20							
+PT DSR Bid Volume 2054			Value	2054-01-01	2100-01-01	20							
+PT DSR Bid Volume 2055			Value	2055-01-01	2100-01-01	20							
+PT DSR Bid Volume 2056			Value	2056-01-01	2100-01-01	20							
+PT DSR Bid Volume 2057			Value	2057-01-01	2100-01-01	20							
+PT DSR Bid Volume 2058			Value	2058-01-01	2100-01-01	20							
+PT DSR Bid Volume 2059			Value	2059-01-01	2100-01-01	20							
+PT DSR Bid Volume 2060			Value	2060-01-01	2100-01-01	20							
+PT DSR Bid Volume 2061			Value	2061-01-01	2100-01-01	20							
+PT DSR Bid Volume 2062			Value	2062-01-01	2100-01-01	20							
+PT DSR Bid Volume 2063			Value	2063-01-01	2100-01-01	20							
+PT DSR Bid Volume 2064			Value	2064-01-01	2100-01-01	20							
+PT DSR Bid Volume 2065			Value	2065-01-01	2100-01-01	20							
+PT DSR Bid Volume 2066			Value	2066-01-01	2100-01-01	20							
+PT DSR Bid Volume 2067			Value	2067-01-01	2100-01-01	20							
+PT DSR Bid Volume 2068			Value	2068-01-01	2100-01-01	20							
+PT DSR Bid Volume 2069			Value	2069-01-01	2100-01-01	20							
+PT DSR Bid Volume 2070			Value	2070-01-01	2100-01-01	20							
+PT DSR Bid Volume 2071			Value	2071-01-01	2100-01-01	20							
+PT DSR Bid Volume 2072			Value	2072-01-01	2100-01-01	20							
+PT DSR Bid Volume 2073			Value	2073-01-01	2100-01-01	20							
+PT DSR Bid Volume 2074			Value	2074-01-01	2100-01-01	20							
+PT DSR Bid Volume 2075			Value	2075-01-01	2100-01-01	20							
+PT DSR Bid Volume 2076			Value	2076-01-01	2100-01-01	20							
+PT DSR Bid Volume 2077			Value	2077-01-01	2100-01-01	20							
+PT DSR Bid Volume 2078			Value	2078-01-01	2100-01-01	20							
+PT DSR Bid Volume 2079			Value	2079-01-01	2100-01-01	20							
+PT DSR Bid Volume 2080			Value	2080-01-01	2100-01-01	20							
+PT DSR Bid Volume 2081			Value	2081-01-01	2100-01-01	20							
+PT DSR Bid Volume 2082			Value	2082-01-01	2100-01-01	20							
+PT DSR Bid Volume 2083			Value	2083-01-01	2100-01-01	20							
+PT DSR Bid Volume 2084			Value	2084-01-01	2100-01-01	20							
+PT DSR Bid Volume 2085			Value	2085-01-01	2100-01-01	20							
+PT DSR Bid Volume 2086			Value	2086-01-01	2100-01-01	20							

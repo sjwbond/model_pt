@@ -1,0 +1,386 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+PT Offshore 893 41.0 -8.75 100M Windspeed			Value	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+PT Offshore 893 41.0 -8.75 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+PT Offshore 893 41.0 -8.75 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 100M Windspeed	LWST Wind Power Curve	Lookup					
+PT Offshore 893 41.0 -8.75 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+PT Offshore 893 41.0 -8.75 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 100M Windspeed	NWST Wind Power Curve	Lookup					
+PT Offshore 893 41.0 -8.75 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+PT Offshore 893 41.0 -8.75 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 100M Windspeed	HWST Wind Power Curve	Lookup					
+PT Offshore 893 41.0 -8.75 100M HHxWS			Value	2010-01-01	2100-01-01	100	PT Offshore 893 41.0 -8.75 Base Wind Speed	Multiply					
+PT Offshore 893 41.0 -8.75 100M HHxWSc			Value	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+PT Offshore 893 41.0 -8.75 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+PT Offshore 893 41.0 -8.75 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 100M HHxWSc	PT Offshore 893 41.0 -8.75 100M HHc	Add					
+PT Offshore 893 41.0 -8.75 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 100M HHxWSc+HHc	PT Offshore 893 41.0 -8.75 WSc	Add					
+PT Offshore 893 41.0 -8.75 130M Windspeed			Value	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 130M HHxWSc+HHc+WSc	windspeed_constant	Add					
+PT Offshore 893 41.0 -8.75 130M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	130							
+PT Offshore 893 41.0 -8.75 130M Generator LWST CRF			Value	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 130M Windspeed	LWST Wind Power Curve	Lookup					
+PT Offshore 893 41.0 -8.75 130M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	130							
+PT Offshore 893 41.0 -8.75 130M Generator NWST CRF			Value	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 130M Windspeed	NWST Wind Power Curve	Lookup					
+PT Offshore 893 41.0 -8.75 130M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	130							
+PT Offshore 893 41.0 -8.75 130M Generator HWST CRF			Value	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 130M Windspeed	HWST Wind Power Curve	Lookup					
+PT Offshore 893 41.0 -8.75 130M HHxWS			Value	2010-01-01	2100-01-01	130	PT Offshore 893 41.0 -8.75 Base Wind Speed	Multiply					
+PT Offshore 893 41.0 -8.75 130M HHxWSc			Value	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 130M HHxWS	height_x_windspeed_coefficient	Multiply					
+PT Offshore 893 41.0 -8.75 130M HHc			Value	2010-01-01	2100-01-01	130	height_coefficient	Multiply					
+PT Offshore 893 41.0 -8.75 130M HHxWSc+HHc			Value	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 130M HHxWSc	PT Offshore 893 41.0 -8.75 130M HHc	Add					
+PT Offshore 893 41.0 -8.75 130M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 130M HHxWSc+HHc	PT Offshore 893 41.0 -8.75 WSc	Add					
+PT Offshore 893 41.0 -8.75 160M Windspeed			Value	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 160M HHxWSc+HHc+WSc	windspeed_constant	Add					
+PT Offshore 893 41.0 -8.75 160M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	160							
+PT Offshore 893 41.0 -8.75 160M Generator LWST CRF			Value	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 160M Windspeed	LWST Wind Power Curve	Lookup					
+PT Offshore 893 41.0 -8.75 160M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	160							
+PT Offshore 893 41.0 -8.75 160M Generator NWST CRF			Value	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 160M Windspeed	NWST Wind Power Curve	Lookup					
+PT Offshore 893 41.0 -8.75 160M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	160							
+PT Offshore 893 41.0 -8.75 160M Generator HWST CRF			Value	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 160M Windspeed	HWST Wind Power Curve	Lookup					
+PT Offshore 893 41.0 -8.75 160M HHxWS			Value	2010-01-01	2100-01-01	160	PT Offshore 893 41.0 -8.75 Base Wind Speed	Multiply					
+PT Offshore 893 41.0 -8.75 160M HHxWSc			Value	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 160M HHxWS	height_x_windspeed_coefficient	Multiply					
+PT Offshore 893 41.0 -8.75 160M HHc			Value	2010-01-01	2100-01-01	160	height_coefficient	Multiply					
+PT Offshore 893 41.0 -8.75 160M HHxWSc+HHc			Value	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 160M HHxWSc	PT Offshore 893 41.0 -8.75 160M HHc	Add					
+PT Offshore 893 41.0 -8.75 160M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 160M HHxWSc+HHc	PT Offshore 893 41.0 -8.75 WSc	Add					
+PT Offshore 893 41.0 -8.75 WSc			Value	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 Base Wind Speed	windspeed_coefficient	Multiply					
+PT Offshore 893 41.0 -8.75 Base Wind Speed			Value	2010-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 File							
+PT Offshore 893 41.0 -8.75 File			Location	2010-01-01	2100-01-01	/ProfilesEU/PT Offshore 893 41.0 -8.75/							
+PT Offshore 893 41.0 -8.75 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+PT Offshore 893 41.0 -8.75 File			Data_Type	2010-01-01	2100-01-01	Folder							
+PT Offshore 93 36.5 -8.125 100M Windspeed			Value	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+PT Offshore 93 36.5 -8.125 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+PT Offshore 93 36.5 -8.125 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 100M Windspeed	LWST Wind Power Curve	Lookup					
+PT Offshore 93 36.5 -8.125 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+PT Offshore 93 36.5 -8.125 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 100M Windspeed	NWST Wind Power Curve	Lookup					
+PT Offshore 93 36.5 -8.125 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+PT Offshore 93 36.5 -8.125 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 100M Windspeed	HWST Wind Power Curve	Lookup					
+PT Offshore 93 36.5 -8.125 100M HHxWS			Value	2010-01-01	2100-01-01	100	PT Offshore 93 36.5 -8.125 Base Wind Speed	Multiply					
+PT Offshore 93 36.5 -8.125 100M HHxWSc			Value	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+PT Offshore 93 36.5 -8.125 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+PT Offshore 93 36.5 -8.125 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 100M HHxWSc	PT Offshore 93 36.5 -8.125 100M HHc	Add					
+PT Offshore 93 36.5 -8.125 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 100M HHxWSc+HHc	PT Offshore 93 36.5 -8.125 WSc	Add					
+PT Offshore 93 36.5 -8.125 130M Windspeed			Value	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 130M HHxWSc+HHc+WSc	windspeed_constant	Add					
+PT Offshore 93 36.5 -8.125 130M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	130							
+PT Offshore 93 36.5 -8.125 130M Generator LWST CRF			Value	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 130M Windspeed	LWST Wind Power Curve	Lookup					
+PT Offshore 93 36.5 -8.125 130M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	130							
+PT Offshore 93 36.5 -8.125 130M Generator NWST CRF			Value	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 130M Windspeed	NWST Wind Power Curve	Lookup					
+PT Offshore 93 36.5 -8.125 130M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	130							
+PT Offshore 93 36.5 -8.125 130M Generator HWST CRF			Value	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 130M Windspeed	HWST Wind Power Curve	Lookup					
+PT Offshore 93 36.5 -8.125 130M HHxWS			Value	2010-01-01	2100-01-01	130	PT Offshore 93 36.5 -8.125 Base Wind Speed	Multiply					
+PT Offshore 93 36.5 -8.125 130M HHxWSc			Value	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 130M HHxWS	height_x_windspeed_coefficient	Multiply					
+PT Offshore 93 36.5 -8.125 130M HHc			Value	2010-01-01	2100-01-01	130	height_coefficient	Multiply					
+PT Offshore 93 36.5 -8.125 130M HHxWSc+HHc			Value	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 130M HHxWSc	PT Offshore 93 36.5 -8.125 130M HHc	Add					
+PT Offshore 93 36.5 -8.125 130M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 130M HHxWSc+HHc	PT Offshore 93 36.5 -8.125 WSc	Add					
+PT Offshore 93 36.5 -8.125 160M Windspeed			Value	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 160M HHxWSc+HHc+WSc	windspeed_constant	Add					
+PT Offshore 93 36.5 -8.125 160M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	160							
+PT Offshore 93 36.5 -8.125 160M Generator LWST CRF			Value	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 160M Windspeed	LWST Wind Power Curve	Lookup					
+PT Offshore 93 36.5 -8.125 160M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	160							
+PT Offshore 93 36.5 -8.125 160M Generator NWST CRF			Value	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 160M Windspeed	NWST Wind Power Curve	Lookup					
+PT Offshore 93 36.5 -8.125 160M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	160							
+PT Offshore 93 36.5 -8.125 160M Generator HWST CRF			Value	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 160M Windspeed	HWST Wind Power Curve	Lookup					
+PT Offshore 93 36.5 -8.125 160M HHxWS			Value	2010-01-01	2100-01-01	160	PT Offshore 93 36.5 -8.125 Base Wind Speed	Multiply					
+PT Offshore 93 36.5 -8.125 160M HHxWSc			Value	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 160M HHxWS	height_x_windspeed_coefficient	Multiply					
+PT Offshore 93 36.5 -8.125 160M HHc			Value	2010-01-01	2100-01-01	160	height_coefficient	Multiply					
+PT Offshore 93 36.5 -8.125 160M HHxWSc+HHc			Value	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 160M HHxWSc	PT Offshore 93 36.5 -8.125 160M HHc	Add					
+PT Offshore 93 36.5 -8.125 160M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 160M HHxWSc+HHc	PT Offshore 93 36.5 -8.125 WSc	Add					
+PT Offshore 93 36.5 -8.125 WSc			Value	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 Base Wind Speed	windspeed_coefficient	Multiply					
+PT Offshore 93 36.5 -8.125 Base Wind Speed			Value	2010-01-01	2100-01-01	PT Offshore 93 36.5 -8.125 File							
+PT Offshore 93 36.5 -8.125 File			Location	2010-01-01	2100-01-01	/ProfilesEU/PT Offshore 93 36.5 -8.125/							
+PT Offshore 93 36.5 -8.125 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+PT Offshore 93 36.5 -8.125 File			Data_Type	2010-01-01	2100-01-01	Folder							
+PT Onshore 361 38.0 -7.5 File			Location	2010-01-01	2100-01-01	/ProfilesEU/PT Onshore 361 38.0 -7.5/							
+PT Onshore 361 38.0 -7.5 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+PT Onshore 361 38.0 -7.5 File			Data_Type	2010-01-01	2100-01-01	Folder							
+PT Onshore 626 39.5 -8.75 File			Location	2010-01-01	2100-01-01	/ProfilesEU/PT Onshore 626 39.5 -8.75/							
+PT Onshore 626 39.5 -8.75 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+PT Onshore 626 39.5 -8.75 File			Data_Type	2010-01-01	2100-01-01	Folder							
+PT Onshore 805 40.5 -8.125 File			Location	2010-01-01	2100-01-01	/ProfilesEU/PT Onshore 805 40.5 -8.125/							
+PT Onshore 805 40.5 -8.125 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+PT Onshore 805 40.5 -8.125 File			Data_Type	2010-01-01	2100-01-01	Folder							
+PT Onshore 895 41.0 -7.5 File			Location	2010-01-01	2100-01-01	/ProfilesEU/PT Onshore 895 41.0 -7.5/							
+PT Onshore 895 41.0 -7.5 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+PT Onshore 895 41.0 -7.5 File			Data_Type	2010-01-01	2100-01-01	Folder							
+PT Onshore 983 41.5 -8.125 File			Location	2010-01-01	2100-01-01	/ProfilesEU/PT Onshore 983 41.5 -8.125/							
+PT Onshore 983 41.5 -8.125 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+PT Onshore 983 41.5 -8.125 File			Data_Type	2010-01-01	2100-01-01	Folder							
+PT Onshore 984 41.5 -7.5 File			Location	2010-01-01	2100-01-01	/ProfilesEU/PT Onshore 984 41.5 -7.5/							
+PT Onshore 984 41.5 -7.5 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+PT Onshore 984 41.5 -7.5 File			Data_Type	2010-01-01	2100-01-01	Folder							
+PT Offshore 893 41.0 -8.75 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+PT Offshore 893 41.0 -8.75 TS			tsn_name	2010-01-01	2100-01-01	ts_PT Offshore 893 41.0 -8.75 100M							
+PT Offshore 93 36.5 -8.125 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+PT Offshore 93 36.5 -8.125 TS			tsn_name	2010-01-01	2100-01-01	ts_PT Offshore 93 36.5 -8.125 100M							
+PT Onshore 361 38.0 -7.5 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+PT Onshore 361 38.0 -7.5 TS			tsn_name	2010-01-01	2100-01-01	ts_PT Onshore 361 38.0 -7.5 100M							
+PT Onshore 626 39.5 -8.75 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+PT Onshore 626 39.5 -8.75 TS			tsn_name	2010-01-01	2100-01-01	ts_PT Onshore 626 39.5 -8.75 100M							
+PT Onshore 805 40.5 -8.125 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+PT Onshore 805 40.5 -8.125 TS			tsn_name	2010-01-01	2100-01-01	ts_PT Onshore 805 40.5 -8.125 100M							
+PT Onshore 895 41.0 -7.5 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+PT Onshore 895 41.0 -7.5 TS			tsn_name	2010-01-01	2100-01-01	ts_PT Onshore 895 41.0 -7.5 100M							
+PT Onshore 983 41.5 -8.125 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+PT Onshore 983 41.5 -8.125 TS			tsn_name	2010-01-01	2100-01-01	ts_PT Onshore 983 41.5 -8.125 100M							
+PT Onshore 984 41.5 -7.5 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+PT Onshore 984 41.5 -7.5 TS			tsn_name	2010-01-01	2100-01-01	ts_PT Onshore 984 41.5 -7.5 100M							
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+PT Offshore 893 41.0 -8.75 File			Location	2010-01-01	2100-01-01	/ProfilesEU/PT Offshore 893 41.0 -8.75/							
+PT Offshore 893 41.0 -8.75 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+PT Offshore 893 41.0 -8.75 File			Data_Type	2010-01-01	2100-01-01	Folder							
+PT Offshore 93 36.5 -8.125 File			Location	2010-01-01	2100-01-01	/ProfilesEU/PT Offshore 93 36.5 -8.125/							
+PT Offshore 93 36.5 -8.125 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+PT Offshore 93 36.5 -8.125 File			Data_Type	2010-01-01	2100-01-01	Folder							
+PT Onshore 361 38.0 -7.5 70M Windspeed			Value	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 70M HHxWSc+HHc+WSc	windspeed_constant	Add					
+PT Onshore 361 38.0 -7.5 70M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	70							
+PT Onshore 361 38.0 -7.5 70M Generator LWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 70M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 361 38.0 -7.5 70M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	70							
+PT Onshore 361 38.0 -7.5 70M Generator NWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 70M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 361 38.0 -7.5 70M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	70							
+PT Onshore 361 38.0 -7.5 70M Generator HWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 70M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 361 38.0 -7.5 70M HHxWS			Value	2010-01-01	2100-01-01	70	PT Onshore 361 38.0 -7.5 Base Wind Speed	Multiply					
+PT Onshore 361 38.0 -7.5 70M HHxWSc			Value	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 70M HHxWS	height_x_windspeed_coefficient	Multiply					
+PT Onshore 361 38.0 -7.5 70M HHc			Value	2010-01-01	2100-01-01	70	height_coefficient	Multiply					
+PT Onshore 361 38.0 -7.5 70M HHxWSc+HHc			Value	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 70M HHxWSc	PT Onshore 361 38.0 -7.5 70M HHc	Add					
+PT Onshore 361 38.0 -7.5 70M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 70M HHxWSc+HHc	PT Onshore 361 38.0 -7.5 WSc	Add					
+PT Onshore 361 38.0 -7.5 85M Windspeed			Value	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 85M HHxWSc+HHc+WSc	windspeed_constant	Add					
+PT Onshore 361 38.0 -7.5 85M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	85							
+PT Onshore 361 38.0 -7.5 85M Generator LWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 85M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 361 38.0 -7.5 85M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	85							
+PT Onshore 361 38.0 -7.5 85M Generator NWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 85M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 361 38.0 -7.5 85M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	85							
+PT Onshore 361 38.0 -7.5 85M Generator HWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 85M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 361 38.0 -7.5 85M HHxWS			Value	2010-01-01	2100-01-01	85	PT Onshore 361 38.0 -7.5 Base Wind Speed	Multiply					
+PT Onshore 361 38.0 -7.5 85M HHxWSc			Value	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 85M HHxWS	height_x_windspeed_coefficient	Multiply					
+PT Onshore 361 38.0 -7.5 85M HHc			Value	2010-01-01	2100-01-01	85	height_coefficient	Multiply					
+PT Onshore 361 38.0 -7.5 85M HHxWSc+HHc			Value	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 85M HHxWSc	PT Onshore 361 38.0 -7.5 85M HHc	Add					
+PT Onshore 361 38.0 -7.5 85M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 85M HHxWSc+HHc	PT Onshore 361 38.0 -7.5 WSc	Add					
+PT Onshore 361 38.0 -7.5 100M Windspeed			Value	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+PT Onshore 361 38.0 -7.5 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+PT Onshore 361 38.0 -7.5 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 100M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 361 38.0 -7.5 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+PT Onshore 361 38.0 -7.5 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 100M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 361 38.0 -7.5 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+PT Onshore 361 38.0 -7.5 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 100M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 361 38.0 -7.5 100M HHxWS			Value	2010-01-01	2100-01-01	100	PT Onshore 361 38.0 -7.5 Base Wind Speed	Multiply					
+PT Onshore 361 38.0 -7.5 100M HHxWSc			Value	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+PT Onshore 361 38.0 -7.5 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+PT Onshore 361 38.0 -7.5 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 100M HHxWSc	PT Onshore 361 38.0 -7.5 100M HHc	Add					
+PT Onshore 361 38.0 -7.5 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 100M HHxWSc+HHc	PT Onshore 361 38.0 -7.5 WSc	Add					
+PT Onshore 361 38.0 -7.5 WSc			Value	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 Base Wind Speed	windspeed_coefficient	Multiply					
+PT Onshore 361 38.0 -7.5 Base Wind Speed			Value	2010-01-01	2100-01-01	PT Onshore 361 38.0 -7.5 File							
+PT Onshore 361 38.0 -7.5 File			Location	2010-01-01	2100-01-01	/ProfilesEU/PT Onshore 361 38.0 -7.5/							
+PT Onshore 361 38.0 -7.5 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+PT Onshore 361 38.0 -7.5 File			Data_Type	2010-01-01	2100-01-01	Folder							
+PT Onshore 626 39.5 -8.75 70M Windspeed			Value	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 70M HHxWSc+HHc+WSc	windspeed_constant	Add					
+PT Onshore 626 39.5 -8.75 70M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	70							
+PT Onshore 626 39.5 -8.75 70M Generator LWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 70M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 626 39.5 -8.75 70M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	70							
+PT Onshore 626 39.5 -8.75 70M Generator NWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 70M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 626 39.5 -8.75 70M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	70							
+PT Onshore 626 39.5 -8.75 70M Generator HWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 70M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 626 39.5 -8.75 70M HHxWS			Value	2010-01-01	2100-01-01	70	PT Onshore 626 39.5 -8.75 Base Wind Speed	Multiply					
+PT Onshore 626 39.5 -8.75 70M HHxWSc			Value	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 70M HHxWS	height_x_windspeed_coefficient	Multiply					
+PT Onshore 626 39.5 -8.75 70M HHc			Value	2010-01-01	2100-01-01	70	height_coefficient	Multiply					
+PT Onshore 626 39.5 -8.75 70M HHxWSc+HHc			Value	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 70M HHxWSc	PT Onshore 626 39.5 -8.75 70M HHc	Add					
+PT Onshore 626 39.5 -8.75 70M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 70M HHxWSc+HHc	PT Onshore 626 39.5 -8.75 WSc	Add					
+PT Onshore 626 39.5 -8.75 85M Windspeed			Value	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 85M HHxWSc+HHc+WSc	windspeed_constant	Add					
+PT Onshore 626 39.5 -8.75 85M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	85							
+PT Onshore 626 39.5 -8.75 85M Generator LWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 85M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 626 39.5 -8.75 85M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	85							
+PT Onshore 626 39.5 -8.75 85M Generator NWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 85M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 626 39.5 -8.75 85M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	85							
+PT Onshore 626 39.5 -8.75 85M Generator HWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 85M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 626 39.5 -8.75 85M HHxWS			Value	2010-01-01	2100-01-01	85	PT Onshore 626 39.5 -8.75 Base Wind Speed	Multiply					
+PT Onshore 626 39.5 -8.75 85M HHxWSc			Value	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 85M HHxWS	height_x_windspeed_coefficient	Multiply					
+PT Onshore 626 39.5 -8.75 85M HHc			Value	2010-01-01	2100-01-01	85	height_coefficient	Multiply					
+PT Onshore 626 39.5 -8.75 85M HHxWSc+HHc			Value	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 85M HHxWSc	PT Onshore 626 39.5 -8.75 85M HHc	Add					
+PT Onshore 626 39.5 -8.75 85M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 85M HHxWSc+HHc	PT Onshore 626 39.5 -8.75 WSc	Add					
+PT Onshore 626 39.5 -8.75 100M Windspeed			Value	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+PT Onshore 626 39.5 -8.75 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+PT Onshore 626 39.5 -8.75 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 100M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 626 39.5 -8.75 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+PT Onshore 626 39.5 -8.75 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 100M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 626 39.5 -8.75 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+PT Onshore 626 39.5 -8.75 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 100M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 626 39.5 -8.75 100M HHxWS			Value	2010-01-01	2100-01-01	100	PT Onshore 626 39.5 -8.75 Base Wind Speed	Multiply					
+PT Onshore 626 39.5 -8.75 100M HHxWSc			Value	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+PT Onshore 626 39.5 -8.75 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+PT Onshore 626 39.5 -8.75 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 100M HHxWSc	PT Onshore 626 39.5 -8.75 100M HHc	Add					
+PT Onshore 626 39.5 -8.75 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 100M HHxWSc+HHc	PT Onshore 626 39.5 -8.75 WSc	Add					
+PT Onshore 626 39.5 -8.75 WSc			Value	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 Base Wind Speed	windspeed_coefficient	Multiply					
+PT Onshore 626 39.5 -8.75 Base Wind Speed			Value	2010-01-01	2100-01-01	PT Onshore 626 39.5 -8.75 File							
+PT Onshore 626 39.5 -8.75 File			Location	2010-01-01	2100-01-01	/ProfilesEU/PT Onshore 626 39.5 -8.75/							
+PT Onshore 626 39.5 -8.75 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+PT Onshore 626 39.5 -8.75 File			Data_Type	2010-01-01	2100-01-01	Folder							
+PT Onshore 805 40.5 -8.125 70M Windspeed			Value	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 70M HHxWSc+HHc+WSc	windspeed_constant	Add					
+PT Onshore 805 40.5 -8.125 70M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	70							
+PT Onshore 805 40.5 -8.125 70M Generator LWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 70M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 805 40.5 -8.125 70M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	70							
+PT Onshore 805 40.5 -8.125 70M Generator NWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 70M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 805 40.5 -8.125 70M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	70							
+PT Onshore 805 40.5 -8.125 70M Generator HWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 70M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 805 40.5 -8.125 70M HHxWS			Value	2010-01-01	2100-01-01	70	PT Onshore 805 40.5 -8.125 Base Wind Speed	Multiply					
+PT Onshore 805 40.5 -8.125 70M HHxWSc			Value	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 70M HHxWS	height_x_windspeed_coefficient	Multiply					
+PT Onshore 805 40.5 -8.125 70M HHc			Value	2010-01-01	2100-01-01	70	height_coefficient	Multiply					
+PT Onshore 805 40.5 -8.125 70M HHxWSc+HHc			Value	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 70M HHxWSc	PT Onshore 805 40.5 -8.125 70M HHc	Add					
+PT Onshore 805 40.5 -8.125 70M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 70M HHxWSc+HHc	PT Onshore 805 40.5 -8.125 WSc	Add					
+PT Onshore 805 40.5 -8.125 85M Windspeed			Value	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 85M HHxWSc+HHc+WSc	windspeed_constant	Add					
+PT Onshore 805 40.5 -8.125 85M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	85							
+PT Onshore 805 40.5 -8.125 85M Generator LWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 85M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 805 40.5 -8.125 85M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	85							
+PT Onshore 805 40.5 -8.125 85M Generator NWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 85M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 805 40.5 -8.125 85M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	85							
+PT Onshore 805 40.5 -8.125 85M Generator HWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 85M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 805 40.5 -8.125 85M HHxWS			Value	2010-01-01	2100-01-01	85	PT Onshore 805 40.5 -8.125 Base Wind Speed	Multiply					
+PT Onshore 805 40.5 -8.125 85M HHxWSc			Value	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 85M HHxWS	height_x_windspeed_coefficient	Multiply					
+PT Onshore 805 40.5 -8.125 85M HHc			Value	2010-01-01	2100-01-01	85	height_coefficient	Multiply					
+PT Onshore 805 40.5 -8.125 85M HHxWSc+HHc			Value	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 85M HHxWSc	PT Onshore 805 40.5 -8.125 85M HHc	Add					
+PT Onshore 805 40.5 -8.125 85M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 85M HHxWSc+HHc	PT Onshore 805 40.5 -8.125 WSc	Add					
+PT Onshore 805 40.5 -8.125 100M Windspeed			Value	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+PT Onshore 805 40.5 -8.125 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+PT Onshore 805 40.5 -8.125 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 100M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 805 40.5 -8.125 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+PT Onshore 805 40.5 -8.125 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 100M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 805 40.5 -8.125 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+PT Onshore 805 40.5 -8.125 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 100M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 805 40.5 -8.125 100M HHxWS			Value	2010-01-01	2100-01-01	100	PT Onshore 805 40.5 -8.125 Base Wind Speed	Multiply					
+PT Onshore 805 40.5 -8.125 100M HHxWSc			Value	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+PT Onshore 805 40.5 -8.125 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+PT Onshore 805 40.5 -8.125 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 100M HHxWSc	PT Onshore 805 40.5 -8.125 100M HHc	Add					
+PT Onshore 805 40.5 -8.125 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 100M HHxWSc+HHc	PT Onshore 805 40.5 -8.125 WSc	Add					
+PT Onshore 805 40.5 -8.125 WSc			Value	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 Base Wind Speed	windspeed_coefficient	Multiply					
+PT Onshore 805 40.5 -8.125 Base Wind Speed			Value	2010-01-01	2100-01-01	PT Onshore 805 40.5 -8.125 File							
+PT Onshore 805 40.5 -8.125 File			Location	2010-01-01	2100-01-01	/ProfilesEU/PT Onshore 805 40.5 -8.125/							
+PT Onshore 805 40.5 -8.125 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+PT Onshore 805 40.5 -8.125 File			Data_Type	2010-01-01	2100-01-01	Folder							
+PT Onshore 895 41.0 -7.5 70M Windspeed			Value	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 70M HHxWSc+HHc+WSc	windspeed_constant	Add					
+PT Onshore 895 41.0 -7.5 70M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	70							
+PT Onshore 895 41.0 -7.5 70M Generator LWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 70M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 895 41.0 -7.5 70M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	70							
+PT Onshore 895 41.0 -7.5 70M Generator NWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 70M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 895 41.0 -7.5 70M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	70							
+PT Onshore 895 41.0 -7.5 70M Generator HWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 70M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 895 41.0 -7.5 70M HHxWS			Value	2010-01-01	2100-01-01	70	PT Onshore 895 41.0 -7.5 Base Wind Speed	Multiply					
+PT Onshore 895 41.0 -7.5 70M HHxWSc			Value	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 70M HHxWS	height_x_windspeed_coefficient	Multiply					
+PT Onshore 895 41.0 -7.5 70M HHc			Value	2010-01-01	2100-01-01	70	height_coefficient	Multiply					
+PT Onshore 895 41.0 -7.5 70M HHxWSc+HHc			Value	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 70M HHxWSc	PT Onshore 895 41.0 -7.5 70M HHc	Add					
+PT Onshore 895 41.0 -7.5 70M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 70M HHxWSc+HHc	PT Onshore 895 41.0 -7.5 WSc	Add					
+PT Onshore 895 41.0 -7.5 85M Windspeed			Value	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 85M HHxWSc+HHc+WSc	windspeed_constant	Add					
+PT Onshore 895 41.0 -7.5 85M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	85							
+PT Onshore 895 41.0 -7.5 85M Generator LWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 85M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 895 41.0 -7.5 85M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	85							
+PT Onshore 895 41.0 -7.5 85M Generator NWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 85M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 895 41.0 -7.5 85M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	85							
+PT Onshore 895 41.0 -7.5 85M Generator HWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 85M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 895 41.0 -7.5 85M HHxWS			Value	2010-01-01	2100-01-01	85	PT Onshore 895 41.0 -7.5 Base Wind Speed	Multiply					
+PT Onshore 895 41.0 -7.5 85M HHxWSc			Value	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 85M HHxWS	height_x_windspeed_coefficient	Multiply					
+PT Onshore 895 41.0 -7.5 85M HHc			Value	2010-01-01	2100-01-01	85	height_coefficient	Multiply					
+PT Onshore 895 41.0 -7.5 85M HHxWSc+HHc			Value	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 85M HHxWSc	PT Onshore 895 41.0 -7.5 85M HHc	Add					
+PT Onshore 895 41.0 -7.5 85M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 85M HHxWSc+HHc	PT Onshore 895 41.0 -7.5 WSc	Add					
+PT Onshore 895 41.0 -7.5 100M Windspeed			Value	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+PT Onshore 895 41.0 -7.5 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+PT Onshore 895 41.0 -7.5 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 100M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 895 41.0 -7.5 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+PT Onshore 895 41.0 -7.5 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 100M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 895 41.0 -7.5 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+PT Onshore 895 41.0 -7.5 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 100M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 895 41.0 -7.5 100M HHxWS			Value	2010-01-01	2100-01-01	100	PT Onshore 895 41.0 -7.5 Base Wind Speed	Multiply					
+PT Onshore 895 41.0 -7.5 100M HHxWSc			Value	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+PT Onshore 895 41.0 -7.5 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+PT Onshore 895 41.0 -7.5 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 100M HHxWSc	PT Onshore 895 41.0 -7.5 100M HHc	Add					
+PT Onshore 895 41.0 -7.5 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 100M HHxWSc+HHc	PT Onshore 895 41.0 -7.5 WSc	Add					
+PT Onshore 895 41.0 -7.5 WSc			Value	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 Base Wind Speed	windspeed_coefficient	Multiply					
+PT Onshore 895 41.0 -7.5 Base Wind Speed			Value	2010-01-01	2100-01-01	PT Onshore 895 41.0 -7.5 File							
+PT Onshore 895 41.0 -7.5 File			Location	2010-01-01	2100-01-01	/ProfilesEU/PT Onshore 895 41.0 -7.5/							
+PT Onshore 895 41.0 -7.5 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+PT Onshore 895 41.0 -7.5 File			Data_Type	2010-01-01	2100-01-01	Folder							
+PT Onshore 983 41.5 -8.125 70M Windspeed			Value	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 70M HHxWSc+HHc+WSc	windspeed_constant	Add					
+PT Onshore 983 41.5 -8.125 70M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	70							
+PT Onshore 983 41.5 -8.125 70M Generator LWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 70M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 983 41.5 -8.125 70M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	70							
+PT Onshore 983 41.5 -8.125 70M Generator NWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 70M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 983 41.5 -8.125 70M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	70							
+PT Onshore 983 41.5 -8.125 70M Generator HWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 70M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 983 41.5 -8.125 70M HHxWS			Value	2010-01-01	2100-01-01	70	PT Onshore 983 41.5 -8.125 Base Wind Speed	Multiply					
+PT Onshore 983 41.5 -8.125 70M HHxWSc			Value	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 70M HHxWS	height_x_windspeed_coefficient	Multiply					
+PT Onshore 983 41.5 -8.125 70M HHc			Value	2010-01-01	2100-01-01	70	height_coefficient	Multiply					
+PT Onshore 983 41.5 -8.125 70M HHxWSc+HHc			Value	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 70M HHxWSc	PT Onshore 983 41.5 -8.125 70M HHc	Add					
+PT Onshore 983 41.5 -8.125 70M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 70M HHxWSc+HHc	PT Onshore 983 41.5 -8.125 WSc	Add					
+PT Onshore 983 41.5 -8.125 85M Windspeed			Value	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 85M HHxWSc+HHc+WSc	windspeed_constant	Add					
+PT Onshore 983 41.5 -8.125 85M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	85							
+PT Onshore 983 41.5 -8.125 85M Generator LWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 85M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 983 41.5 -8.125 85M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	85							
+PT Onshore 983 41.5 -8.125 85M Generator NWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 85M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 983 41.5 -8.125 85M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	85							
+PT Onshore 983 41.5 -8.125 85M Generator HWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 85M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 983 41.5 -8.125 85M HHxWS			Value	2010-01-01	2100-01-01	85	PT Onshore 983 41.5 -8.125 Base Wind Speed	Multiply					
+PT Onshore 983 41.5 -8.125 85M HHxWSc			Value	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 85M HHxWS	height_x_windspeed_coefficient	Multiply					
+PT Onshore 983 41.5 -8.125 85M HHc			Value	2010-01-01	2100-01-01	85	height_coefficient	Multiply					
+PT Onshore 983 41.5 -8.125 85M HHxWSc+HHc			Value	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 85M HHxWSc	PT Onshore 983 41.5 -8.125 85M HHc	Add					
+PT Onshore 983 41.5 -8.125 85M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 85M HHxWSc+HHc	PT Onshore 983 41.5 -8.125 WSc	Add					
+PT Onshore 983 41.5 -8.125 100M Windspeed			Value	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+PT Onshore 983 41.5 -8.125 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+PT Onshore 983 41.5 -8.125 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 100M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 983 41.5 -8.125 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+PT Onshore 983 41.5 -8.125 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 100M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 983 41.5 -8.125 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+PT Onshore 983 41.5 -8.125 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 100M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 983 41.5 -8.125 100M HHxWS			Value	2010-01-01	2100-01-01	100	PT Onshore 983 41.5 -8.125 Base Wind Speed	Multiply					
+PT Onshore 983 41.5 -8.125 100M HHxWSc			Value	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+PT Onshore 983 41.5 -8.125 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+PT Onshore 983 41.5 -8.125 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 100M HHxWSc	PT Onshore 983 41.5 -8.125 100M HHc	Add					
+PT Onshore 983 41.5 -8.125 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 100M HHxWSc+HHc	PT Onshore 983 41.5 -8.125 WSc	Add					
+PT Onshore 983 41.5 -8.125 WSc			Value	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 Base Wind Speed	windspeed_coefficient	Multiply					
+PT Onshore 983 41.5 -8.125 Base Wind Speed			Value	2010-01-01	2100-01-01	PT Onshore 983 41.5 -8.125 File							
+PT Onshore 983 41.5 -8.125 File			Location	2010-01-01	2100-01-01	/ProfilesEU/PT Onshore 983 41.5 -8.125/							
+PT Onshore 983 41.5 -8.125 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+PT Onshore 983 41.5 -8.125 File			Data_Type	2010-01-01	2100-01-01	Folder							
+PT Onshore 984 41.5 -7.5 70M Windspeed			Value	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 70M HHxWSc+HHc+WSc	windspeed_constant	Add					
+PT Onshore 984 41.5 -7.5 70M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	70							
+PT Onshore 984 41.5 -7.5 70M Generator LWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 70M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 984 41.5 -7.5 70M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	70							
+PT Onshore 984 41.5 -7.5 70M Generator NWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 70M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 984 41.5 -7.5 70M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	70							
+PT Onshore 984 41.5 -7.5 70M Generator HWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 70M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 984 41.5 -7.5 70M HHxWS			Value	2010-01-01	2100-01-01	70	PT Onshore 984 41.5 -7.5 Base Wind Speed	Multiply					
+PT Onshore 984 41.5 -7.5 70M HHxWSc			Value	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 70M HHxWS	height_x_windspeed_coefficient	Multiply					
+PT Onshore 984 41.5 -7.5 70M HHc			Value	2010-01-01	2100-01-01	70	height_coefficient	Multiply					
+PT Onshore 984 41.5 -7.5 70M HHxWSc+HHc			Value	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 70M HHxWSc	PT Onshore 984 41.5 -7.5 70M HHc	Add					
+PT Onshore 984 41.5 -7.5 70M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 70M HHxWSc+HHc	PT Onshore 984 41.5 -7.5 WSc	Add					
+PT Onshore 984 41.5 -7.5 85M Windspeed			Value	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 85M HHxWSc+HHc+WSc	windspeed_constant	Add					
+PT Onshore 984 41.5 -7.5 85M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	85							
+PT Onshore 984 41.5 -7.5 85M Generator LWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 85M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 984 41.5 -7.5 85M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	85							
+PT Onshore 984 41.5 -7.5 85M Generator NWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 85M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 984 41.5 -7.5 85M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	85							
+PT Onshore 984 41.5 -7.5 85M Generator HWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 85M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 984 41.5 -7.5 85M HHxWS			Value	2010-01-01	2100-01-01	85	PT Onshore 984 41.5 -7.5 Base Wind Speed	Multiply					
+PT Onshore 984 41.5 -7.5 85M HHxWSc			Value	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 85M HHxWS	height_x_windspeed_coefficient	Multiply					
+PT Onshore 984 41.5 -7.5 85M HHc			Value	2010-01-01	2100-01-01	85	height_coefficient	Multiply					
+PT Onshore 984 41.5 -7.5 85M HHxWSc+HHc			Value	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 85M HHxWSc	PT Onshore 984 41.5 -7.5 85M HHc	Add					
+PT Onshore 984 41.5 -7.5 85M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 85M HHxWSc+HHc	PT Onshore 984 41.5 -7.5 WSc	Add					
+PT Onshore 984 41.5 -7.5 100M Windspeed			Value	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 100M HHxWSc+HHc+WSc	windspeed_constant	Add					
+PT Onshore 984 41.5 -7.5 100M Generator LWST Hub Height			Value	2010-01-01	2100-01-01	100							
+PT Onshore 984 41.5 -7.5 100M Generator LWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 100M Windspeed	LWST Wind Power Curve	Lookup					
+PT Onshore 984 41.5 -7.5 100M Generator NWST Hub Height			Value	2010-01-01	2100-01-01	100							
+PT Onshore 984 41.5 -7.5 100M Generator NWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 100M Windspeed	NWST Wind Power Curve	Lookup					
+PT Onshore 984 41.5 -7.5 100M Generator HWST Hub Height			Value	2010-01-01	2100-01-01	100							
+PT Onshore 984 41.5 -7.5 100M Generator HWST CRF			Value	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 100M Windspeed	HWST Wind Power Curve	Lookup					
+PT Onshore 984 41.5 -7.5 100M HHxWS			Value	2010-01-01	2100-01-01	100	PT Onshore 984 41.5 -7.5 Base Wind Speed	Multiply					
+PT Onshore 984 41.5 -7.5 100M HHxWSc			Value	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 100M HHxWS	height_x_windspeed_coefficient	Multiply					
+PT Onshore 984 41.5 -7.5 100M HHc			Value	2010-01-01	2100-01-01	100	height_coefficient	Multiply					
+PT Onshore 984 41.5 -7.5 100M HHxWSc+HHc			Value	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 100M HHxWSc	PT Onshore 984 41.5 -7.5 100M HHc	Add					
+PT Onshore 984 41.5 -7.5 100M HHxWSc+HHc+WSc			Value	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 100M HHxWSc+HHc	PT Onshore 984 41.5 -7.5 WSc	Add					
+PT Onshore 984 41.5 -7.5 WSc			Value	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 Base Wind Speed	windspeed_coefficient	Multiply					
+PT Onshore 984 41.5 -7.5 Base Wind Speed			Value	2010-01-01	2100-01-01	PT Onshore 984 41.5 -7.5 File							
+PT Onshore 984 41.5 -7.5 File			Location	2010-01-01	2100-01-01	/ProfilesEU/PT Onshore 984 41.5 -7.5/							
+PT Onshore 984 41.5 -7.5 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+PT Onshore 984 41.5 -7.5 File			Data_Type	2010-01-01	2100-01-01	Folder							
+PT Offshore 893 41.0 -8.75 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+PT Offshore 893 41.0 -8.75 TS			tsn_name	2010-01-01	2100-01-01	ts_PT Offshore 893 41.0 -8.75 100M							
+PT Offshore 93 36.5 -8.125 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+PT Offshore 93 36.5 -8.125 TS			tsn_name	2010-01-01	2100-01-01	ts_PT Offshore 93 36.5 -8.125 100M							
+PT Onshore 361 38.0 -7.5 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+PT Onshore 361 38.0 -7.5 TS			tsn_name	2010-01-01	2100-01-01	ts_PT Onshore 361 38.0 -7.5 100M							
+PT Onshore 626 39.5 -8.75 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+PT Onshore 626 39.5 -8.75 TS			tsn_name	2010-01-01	2100-01-01	ts_PT Onshore 626 39.5 -8.75 100M							
+PT Onshore 805 40.5 -8.125 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+PT Onshore 805 40.5 -8.125 TS			tsn_name	2010-01-01	2100-01-01	ts_PT Onshore 805 40.5 -8.125 100M							
+PT Onshore 895 41.0 -7.5 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+PT Onshore 895 41.0 -7.5 TS			tsn_name	2010-01-01	2100-01-01	ts_PT Onshore 895 41.0 -7.5 100M							
+PT Onshore 983 41.5 -8.125 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+PT Onshore 983 41.5 -8.125 TS			tsn_name	2010-01-01	2100-01-01	ts_PT Onshore 983 41.5 -8.125 100M							
+PT Onshore 984 41.5 -7.5 TS			Schema	2010-01-01	2100-01-01	time_series_wind							
+PT Onshore 984 41.5 -7.5 TS			tsn_name	2010-01-01	2100-01-01	ts_PT Onshore 984 41.5 -7.5 100M							

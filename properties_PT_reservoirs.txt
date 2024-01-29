@@ -1,0 +1,157 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+PT H2			max_storage	2030-01-01	2100-01-01	4380000							
+PT PT_RES_Aguieira			max_storage	2010-01-01	2100-01-01	499968							
+PT PT_RES_Alqueva_I			max_storage	2010-01-01	2100-01-01	377952							
+PT PT_RES_Alqueva_II			max_storage	2010-01-01	2100-01-01	377952							
+PT PT_RES_Alto_Lindoso			max_storage	2010-01-01	2100-01-01	937440							
+PT PT_RES_Alto_Rabagao			max_storage	2010-01-01	2100-01-01	101184							
+PT PT_RES_Baixo_Sabor			max_storage	2010-01-01	2100-01-01	281232							
+PT PT_RES_Bouca			max_storage	2010-01-01	2100-01-01	65472							
+PT PT_RES_Cabril			max_storage	2010-01-01	2100-01-01	160704							
+PT PT_RES_Caldeirao			max_storage	2010-01-01	2100-01-01	59520							
+PT PT_RES_Canicada			max_storage	2010-01-01	2100-01-01	92256							
+PT PT_RES_Castelo_de_Bode			max_storage	2010-01-01	2100-01-01	236592							
+PT PT_RES_Frades			max_storage	2010-01-01	2100-01-01	285696							
+PT PT_RES_Pracana			max_storage	2010-01-01	2100-01-01	61008							
+PT PT_RES_Raiva			max_storage	2010-01-01	2100-01-01	35712							
+PT PT_RES_Sabugeiro_I			max_storage	2010-01-01	2100-01-01	19046.4							
+PT PT_RES_Salamonde			max_storage	2010-01-01	2100-01-01	62496							
+PT PT_RES_Salamonde_II			max_storage	2010-01-01	2100-01-01	327360							
+PT PT_RES_Santa_Luzia			max_storage	2010-01-01	2100-01-01	36307.2							
+PT PT_RES_Tabuaco			max_storage	2010-01-01	2100-01-01	86304							
+PT PT_RES_Torrao			max_storage	2010-01-01	2100-01-01	208320							
+PT PT_RES_Touvedo			max_storage	2010-01-01	2100-01-01	32736							
+PT PT_RES_Varosa			max_storage	2010-01-01	2100-01-01	37200							
+PT PT_RES_Venda_Nova_II			max_storage	2010-01-01	2100-01-01	1162128							
+PT PT_RES_Vilarinho_Fumas			max_storage	2010-01-01	2100-01-01	186000							
+PT PT_RES_VNovaParadela			max_storage	2010-01-01	2100-01-01	214272							
+PT H2			min_storage	2030-01-01	2100-01-01	438000							
+PT PT_RES_Aguieira			min_storage	2010-01-01	2100-01-01	49996.8							
+PT PT_RES_Alqueva_I			min_storage	2010-01-01	2100-01-01	37795.2							
+PT PT_RES_Alqueva_II			min_storage	2010-01-01	2100-01-01	37795.2							
+PT PT_RES_Alto_Lindoso			min_storage	2010-01-01	2100-01-01	93744							
+PT PT_RES_Alto_Rabagao			min_storage	2010-01-01	2100-01-01	10118.4							
+PT PT_RES_Baixo_Sabor			min_storage	2010-01-01	2100-01-01	28123.2							
+PT PT_RES_Bouca			min_storage	2010-01-01	2100-01-01	6547.2							
+PT PT_RES_Cabril			min_storage	2010-01-01	2100-01-01	16070.4							
+PT PT_RES_Caldeirao			min_storage	2010-01-01	2100-01-01	5952							
+PT PT_RES_Canicada			min_storage	2010-01-01	2100-01-01	9225.6							
+PT PT_RES_Castelo_de_Bode			min_storage	2010-01-01	2100-01-01	23659.2							
+PT PT_RES_Frades			min_storage	2010-01-01	2100-01-01	28569.6							
+PT PT_RES_Pracana			min_storage	2010-01-01	2100-01-01	6100.8							
+PT PT_RES_Raiva			min_storage	2010-01-01	2100-01-01	3571.2							
+PT PT_RES_Sabugeiro_I			min_storage	2010-01-01	2100-01-01	1904.64							
+PT PT_RES_Salamonde			min_storage	2010-01-01	2100-01-01	6249.6							
+PT PT_RES_Salamonde_II			min_storage	2010-01-01	2100-01-01	32736							
+PT PT_RES_Santa_Luzia			min_storage	2010-01-01	2100-01-01	3630.72							
+PT PT_RES_Tabuaco			min_storage	2010-01-01	2100-01-01	8630.4							
+PT PT_RES_Torrao			min_storage	2010-01-01	2100-01-01	20832							
+PT PT_RES_Touvedo			min_storage	2010-01-01	2100-01-01	3273.6							
+PT PT_RES_Varosa			min_storage	2010-01-01	2100-01-01	3720							
+PT PT_RES_Venda_Nova_II			min_storage	2010-01-01	2100-01-01	116212.8							
+PT PT_RES_Vilarinho_Fumas			min_storage	2010-01-01	2100-01-01	18600							
+PT PT_RES_VNovaParadela			min_storage	2010-01-01	2100-01-01	21427.2							
+PT H2			natural_inflow_minute	2030-01-01	2100-01-01	PT Offshore 893 41.0 -8.75 130M Generator NWST CRF							
+PT PT_RES_Aguieira			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	0.028	Multiply					
+PT PT_RES_Alqueva_I			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	2.12E-02	Multiply					
+PT PT_RES_Alqueva_II			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	2.12E-02	Multiply					
+PT PT_RES_Alto_Lindoso			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	0.0525	Multiply					
+PT PT_RES_Alto_Rabagao			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	5.67E-03	Multiply					
+PT PT_RES_Baixo_Sabor			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	0.01575	Multiply					
+PT PT_RES_Bouca			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	3.67E-03	Multiply					
+PT PT_RES_Cabril			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	0.009	Multiply					
+PT PT_RES_Caldeirao			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	3.33E-03	Multiply					
+PT PT_RES_Canicada			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	5.17E-03	Multiply					
+PT PT_RES_Castelo_de_Bode			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	0.01325	Multiply					
+PT PT_RES_Frades			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	0.016	Multiply					
+PT PT_RES_Pracana			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	3.42E-03	Multiply					
+PT PT_RES_Raiva			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	0.002	Multiply					
+PT PT_RES_Sabugeiro_I			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	1.07E-03	Multiply					
+PT PT_RES_Salamonde			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	0.0035	Multiply					
+PT PT_RES_Salamonde_II			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	1.83E-02	Multiply					
+PT PT_RES_Santa_Luzia			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	2.03E-03	Multiply					
+PT PT_RES_Tabuaco			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	4.83E-03	Multiply					
+PT PT_RES_Torrao			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	1.17E-02	Multiply					
+PT PT_RES_Touvedo			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	1.83E-03	Multiply					
+PT PT_RES_Varosa			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	2.08E-03	Multiply					
+PT PT_RES_Venda_Nova_II			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	0.065083333	Multiply					
+PT PT_RES_Vilarinho_Fumas			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	1.04E-02	Multiply					
+PT PT_RES_VNovaParadela			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	0.012	Multiply					
+PT H2			save_blocks	2030-01-01	2100-01-01	1							
+PT PT_RES_Aguieira			save_blocks	2010-01-01	2100-01-01	1							
+PT PT_RES_Alqueva_I			save_blocks	2010-01-01	2100-01-01	1							
+PT PT_RES_Alqueva_II			save_blocks	2010-01-01	2100-01-01	1							
+PT PT_RES_Alto_Lindoso			save_blocks	2010-01-01	2100-01-01	1							
+PT PT_RES_Alto_Rabagao			save_blocks	2010-01-01	2100-01-01	1							
+PT PT_RES_Baixo_Sabor			save_blocks	2010-01-01	2100-01-01	1							
+PT PT_RES_Bouca			save_blocks	2010-01-01	2100-01-01	1							
+PT PT_RES_Cabril			save_blocks	2010-01-01	2100-01-01	1							
+PT PT_RES_Caldeirao			save_blocks	2010-01-01	2100-01-01	1							
+PT PT_RES_Canicada			save_blocks	2010-01-01	2100-01-01	1							
+PT PT_RES_Castelo_de_Bode			save_blocks	2010-01-01	2100-01-01	1							
+PT PT_RES_Frades			save_blocks	2010-01-01	2100-01-01	1							
+PT PT_RES_Pracana			save_blocks	2010-01-01	2100-01-01	1							
+PT PT_RES_Raiva			save_blocks	2010-01-01	2100-01-01	1							
+PT PT_RES_Sabugeiro_I			save_blocks	2010-01-01	2100-01-01	1							
+PT PT_RES_Salamonde			save_blocks	2010-01-01	2100-01-01	1							
+PT PT_RES_Salamonde_II			save_blocks	2010-01-01	2100-01-01	1							
+PT PT_RES_Santa_Luzia			save_blocks	2010-01-01	2100-01-01	1							
+PT PT_RES_Tabuaco			save_blocks	2010-01-01	2100-01-01	1							
+PT PT_RES_Torrao			save_blocks	2010-01-01	2100-01-01	1							
+PT PT_RES_Touvedo			save_blocks	2010-01-01	2100-01-01	1							
+PT PT_RES_Varosa			save_blocks	2010-01-01	2100-01-01	1							
+PT PT_RES_Venda_Nova_II			save_blocks	2010-01-01	2100-01-01	1							
+PT PT_RES_Vilarinho_Fumas			save_blocks	2010-01-01	2100-01-01	1							
+PT PT_RES_VNovaParadela			save_blocks	2010-01-01	2100-01-01	1							
+PT H2			save_data	2030-01-01	2100-01-01	1							
+PT PT_RES_Aguieira			save_data	2010-01-01	2100-01-01	1							
+PT PT_RES_Alqueva_I			save_data	2010-01-01	2100-01-01	1							
+PT PT_RES_Alqueva_II			save_data	2010-01-01	2100-01-01	1							
+PT PT_RES_Alto_Lindoso			save_data	2010-01-01	2100-01-01	1							
+PT PT_RES_Alto_Rabagao			save_data	2010-01-01	2100-01-01	1							
+PT PT_RES_Baixo_Sabor			save_data	2010-01-01	2100-01-01	1							
+PT PT_RES_Bouca			save_data	2010-01-01	2100-01-01	1							
+PT PT_RES_Cabril			save_data	2010-01-01	2100-01-01	1							
+PT PT_RES_Caldeirao			save_data	2010-01-01	2100-01-01	1							
+PT PT_RES_Canicada			save_data	2010-01-01	2100-01-01	1							
+PT PT_RES_Castelo_de_Bode			save_data	2010-01-01	2100-01-01	1							
+PT PT_RES_Frades			save_data	2010-01-01	2100-01-01	1							
+PT PT_RES_Pracana			save_data	2010-01-01	2100-01-01	1							
+PT PT_RES_Raiva			save_data	2010-01-01	2100-01-01	1							
+PT PT_RES_Sabugeiro_I			save_data	2010-01-01	2100-01-01	1							
+PT PT_RES_Salamonde			save_data	2010-01-01	2100-01-01	1							
+PT PT_RES_Salamonde_II			save_data	2010-01-01	2100-01-01	1							
+PT PT_RES_Santa_Luzia			save_data	2010-01-01	2100-01-01	1							
+PT PT_RES_Tabuaco			save_data	2010-01-01	2100-01-01	1							
+PT PT_RES_Torrao			save_data	2010-01-01	2100-01-01	1							
+PT PT_RES_Touvedo			save_data	2010-01-01	2100-01-01	1							
+PT PT_RES_Varosa			save_data	2010-01-01	2100-01-01	1							
+PT PT_RES_Venda_Nova_II			save_data	2010-01-01	2100-01-01	1							
+PT PT_RES_Vilarinho_Fumas			save_data	2010-01-01	2100-01-01	1							
+PT PT_RES_VNovaParadela			save_data	2010-01-01	2100-01-01	1							
+PT H2			storage_start_level	2030-01-01	2100-01-01	__max_storage	0.29	Multiply					
+PT PT_RES_Aguieira			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.29	Multiply					
+PT PT_RES_Alqueva_I			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.29	Multiply					
+PT PT_RES_Alqueva_II			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.29	Multiply					
+PT PT_RES_Alto_Lindoso			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.29	Multiply					
+PT PT_RES_Alto_Rabagao			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.29	Multiply					
+PT PT_RES_Baixo_Sabor			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.29	Multiply					
+PT PT_RES_Bouca			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.29	Multiply					
+PT PT_RES_Cabril			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.29	Multiply					
+PT PT_RES_Caldeirao			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.29	Multiply					
+PT PT_RES_Canicada			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.29	Multiply					
+PT PT_RES_Castelo_de_Bode			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.29	Multiply					
+PT PT_RES_Frades			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.29	Multiply					
+PT PT_RES_Pracana			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.29	Multiply					
+PT PT_RES_Raiva			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.29	Multiply					
+PT PT_RES_Sabugeiro_I			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.29	Multiply					
+PT PT_RES_Salamonde			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.29	Multiply					
+PT PT_RES_Salamonde_II			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.29	Multiply					
+PT PT_RES_Santa_Luzia			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.29	Multiply					
+PT PT_RES_Tabuaco			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.29	Multiply					
+PT PT_RES_Torrao			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.29	Multiply					
+PT PT_RES_Touvedo			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.29	Multiply					
+PT PT_RES_Varosa			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.29	Multiply					
+PT PT_RES_Venda_Nova_II			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.29	Multiply					
+PT PT_RES_Vilarinho_Fumas			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.29	Multiply					
+PT PT_RES_VNovaParadela			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.29	Multiply					

@@ -1,0 +1,9 @@
+Object_Name	Object_Type	Object_Name	
+ES	Node		
+PT	Node	
+FR	Node
+DE	Node	
+BE	Node	
+NL	Node	
+PL	Node	
+UK	Node	

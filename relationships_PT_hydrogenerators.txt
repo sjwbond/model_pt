@@ -1,0 +1,3 @@
+Object_Name	Parent_Object	Parent_Property
+PT_EL_Electrolyser	PT	
+PT_EL_H2Storage	PT	

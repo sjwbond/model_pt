@@ -1,0 +1,82 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+PT Batteries 1h			Capacity	2020-01-01	2100-01-01	1							
+PT Batteries 1h			Capacity_In	2020-01-01	2100-01-01	1	1.2	Multiply					
+PT Batteries 1h			Efficiency	2020-01-01	2100-01-01	0.955							
+PT Batteries 1h			Max_Storage	2020-01-01	2100-01-01	1	1	Multiply					
+PT Batteries 1h			Optimisation Type	2020-01-01	2100-01-01	1							
+PT Batteries 1h			no units	2020-01-01	2100-01-01	1							
+PT Batteries 1h			bidup_rate	2020-01-01	2100-01-01	0							
+PT Batteries 1h			Save Data	2020-01-01	2100-01-01	1							
+PT Batteries 1h			Save Blocks	2020-01-01	2100-01-01	1							
+PT Batteries 1h dummy			Capacity	2021-01-01	2100-01-01	PT Installed Capacity File							
+PT Batteries 1h dummy			Capacity_In	2021-01-01	2100-01-01	PT Installed Capacity File	1.2	Multiply					
+PT Batteries 1h dummy			Efficiency	2021-01-01	2100-01-01	0.96							
+PT Batteries 1h dummy			Max_Storage	2021-01-01	2100-01-01	1	PT Installed Capacity File	Multiply					
+PT Batteries 1h dummy			Optimisation Type	2021-01-01	2100-01-01	1							
+PT Batteries 1h dummy			no units	2021-01-01	2100-01-01	1							
+PT Batteries 1h dummy			bidup_rate	2021-01-01	2100-01-01	0							
+PT Batteries 1h dummy			Save Data	2021-01-01	2100-01-01	1							
+PT Batteries 1h dummy			Save Blocks	2021-01-01	2100-01-01	1							
+PT Pumped Storage			Capacity	2000-01-01	2100-01-01	1500							
+PT Pumped Storage			Capacity_In	2000-01-01	2100-01-01	1500	0.8	Multiply					
+PT Pumped Storage			Efficiency	2000-01-01	2100-01-01	0.9							
+PT Pumped Storage			Max_Storage	2000-01-01	2100-01-01	40	1500	Multiply					
+PT Pumped Storage			Optimisation Type	2000-01-01	2100-01-01	3							
+PT Pumped Storage			no units	2000-01-01	2100-01-01	10							
+PT Pumped Storage			bidup_rate	2000-01-01	2100-01-01	0							
+PT Pumped Storage			Save Data	2000-01-01	2100-01-01	1							
+PT Pumped Storage			Save Blocks	2000-01-01	2100-01-01	1							
+PT Batteries 2h dummy			Capacity	2020-01-01	2100-01-01	1							
+PT Batteries 2h dummy			Capacity_In	2020-01-01	2100-01-01	1	1.2	Multiply					
+PT Batteries 2h dummy			Efficiency	2020-01-01	2100-01-01	0.955							
+PT Batteries 2h dummy			Max_Storage	2020-01-01	2100-01-01	2	1	Multiply					
+PT Batteries 2h dummy			Optimisation Type	2020-01-01	2100-01-01	1							
+PT Batteries 2h dummy			no units	2020-01-01	2100-01-01	1							
+PT Batteries 2h dummy			bidup_rate	2020-01-01	2100-01-01	0							
+PT Batteries 2h dummy			Save Data	2020-01-01	2100-01-01	1							
+PT Batteries 2h dummy			Save Blocks	2020-01-01	2100-01-01	1							
+PT Batteries 2h			Capacity	2020-01-01	2100-01-01	PT Installed Capacity File							
+PT Batteries 2h			Capacity_In	2020-01-01	2100-01-01	PT Installed Capacity File	1.2	Multiply					
+PT Batteries 2h			Efficiency	2020-01-01	2100-01-01	0.955							
+PT Batteries 2h			Max_Storage	2020-01-01	2100-01-01	2	PT Installed Capacity File	Multiply					
+PT Batteries 2h			Optimisation Type	2020-01-01	2100-01-01	1							
+PT Batteries 2h			no units	2020-01-01	2100-01-01	1							
+PT Batteries 2h			bidup_rate	2020-01-01	2100-01-01	0							
+PT Batteries 2h			Save Data	2020-01-01	2100-01-01	1							
+PT Batteries 2h			Save Blocks	2020-01-01	2100-01-01	1							
+PT Batteries 4h dummy			Capacity	2020-01-01	2100-01-01	1							
+PT Batteries 4h dummy			Capacity_In	2020-01-01	2100-01-01	1	1.2	Multiply					
+PT Batteries 4h dummy			Efficiency	2020-01-01	2100-01-01	0.955							
+PT Batteries 4h dummy			Max_Storage	2020-01-01	2100-01-01	4	1	Multiply					
+PT Batteries 4h dummy			Optimisation Type	2020-01-01	2100-01-01	1							
+PT Batteries 4h dummy			no units	2020-01-01	2100-01-01	1							
+PT Batteries 4h dummy			bidup_rate	2020-01-01	2100-01-01	0							
+PT Batteries 4h dummy			Save Data	2020-01-01	2100-01-01	1							
+PT Batteries 4h dummy			Save Blocks	2020-01-01	2100-01-01	1							
+PT Batteries 4h			Capacity	2021-01-01	2100-01-01	PT Installed Capacity File							
+PT Batteries 4h			Capacity_In	2021-01-01	2100-01-01	PT Installed Capacity File	1.2	Multiply					
+PT Batteries 4h			Efficiency	2021-01-01	2100-01-01	0.96							
+PT Batteries 4h			Max_Storage	2021-01-01	2100-01-01	4	PT Installed Capacity File	Multiply					
+PT Batteries 4h			Optimisation Type	2021-01-01	2100-01-01	1							
+PT Batteries 4h			no units	2021-01-01	2100-01-01	1							
+PT Batteries 4h			bidup_rate	2021-01-01	2100-01-01	0							
+PT Batteries 4h			Save Data	2021-01-01	2100-01-01	1							
+PT Batteries 4h			Save Blocks	2021-01-01	2100-01-01	1							
+PT Batteries 6h dummy			Capacity	2022-01-01	2100-01-01	1							
+PT Batteries 6h dummy			Capacity_In	2022-01-01	2100-01-01	1	1.2	Multiply					
+PT Batteries 6h dummy			Efficiency	2022-01-01	2100-01-01	0.965							
+PT Batteries 6h dummy			Max_Storage	2022-01-01	2100-01-01	6	1	Multiply					
+PT Batteries 6h dummy			Optimisation Type	2022-01-01	2100-01-01	1							
+PT Batteries 6h dummy			no units	2022-01-01	2100-01-01	1							
+PT Batteries 6h dummy			bidup_rate	2022-01-01	2100-01-01	0							
+PT Batteries 6h dummy			Save Data	2022-01-01	2100-01-01	1							
+PT Batteries 6h dummy			Save Blocks	2022-01-01	2100-01-01	1							
+PT Batteries 6h			Capacity	2023-01-01	2100-01-01	PT Installed Capacity File							
+PT Batteries 6h			Capacity_In	2023-01-01	2100-01-01	PT Installed Capacity File	1.2	Multiply					
+PT Batteries 6h			Efficiency	2023-01-01	2100-01-01	0.97							
+PT Batteries 6h			Max_Storage	2023-01-01	2100-01-01	6	PT Installed Capacity File	Multiply					
+PT Batteries 6h			Optimisation Type	2023-01-01	2100-01-01	1							
+PT Batteries 6h			no units	2023-01-01	2100-01-01	1							
+PT Batteries 6h			bidup_rate	2023-01-01	2100-01-01	0							
+PT Batteries 6h			Save Data	2023-01-01	2100-01-01	1							
+PT Batteries 6h			Save Blocks	2023-01-01	2100-01-01	1							

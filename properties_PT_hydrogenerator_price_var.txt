@@ -1,0 +1,101 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+PT Hydro Price l10 p1			Value	2010-01-01	2033-01-01	PT Station Gas	35.71428571	Multiply					
+PT Hydro Price l10 p2			Value	2010-01-01	2033-01-01	PT Station Gas	35.71428571	Multiply					
+PT Hydro Price l10 p3			Value	2010-01-01	2033-01-01	PT Station Gas	35.71428571	Multiply					
+PT Hydro Price l10 p4			Value	2010-01-01	2033-01-01	PT Station Gas	35.71428571	Multiply					
+PT Hydro Price l10 p5			Value	2010-01-01	2033-01-01	PT Station Gas	35.71428571	Multiply					
+PT Hydro Price l20 p1			Value	2010-01-01	2033-01-01	20.01							
+PT Hydro Price l20 p2			Value	2010-01-01	2033-01-01	PT Station Gas	35.71428571	Multiply					
+PT Hydro Price l20 p3			Value	2010-01-01	2033-01-01	PT Station Gas	35.71428571	Multiply					
+PT Hydro Price l20 p4			Value	2010-01-01	2033-01-01	PT Station Gas	35.71428571	Multiply					
+PT Hydro Price l20 p5			Value	2010-01-01	2033-01-01	PT Station Gas	35.71428571	Multiply					
+PT Hydro Price l30 p1			Value	2010-01-01	2033-01-01	20.01							
+PT Hydro Price l30 p2			Value	2010-01-01	2033-01-01	PT Station Gas	2.5	Multiply					
+PT Hydro Price l30 p3			Value	2010-01-01	2033-01-01	PT Station Gas	3.5	Multiply					
+PT Hydro Price l30 p4			Value	2010-01-01	2033-01-01	PT Station Gas	5	Multiply					
+PT Hydro Price l30 p5			Value	2010-01-01	2033-01-01	PT Station Gas	9	Multiply					
+PT Hydro Price l40 p1			Value	2010-01-01	2033-01-01	20.01							
+PT Hydro Price l40 p2			Value	2010-01-01	2033-01-01	PT Station Gas	5.054088362	Multiply					
+PT Hydro Price l40 p3			Value	2010-01-01	2033-01-01	PT Station Gas	6.196945505	Multiply					
+PT Hydro Price l40 p4			Value	2010-01-01	2033-01-01	PT Station Gas	7.982659791	Multiply					
+PT Hydro Price l40 p5			Value	2010-01-01	2033-01-01	PT Station Gas	35.71428571	Multiply					
+PT Hydro Price l50 p1			Value	2010-01-01	2033-01-01	20.01							
+PT Hydro Price l50 p2			Value	2010-01-01	2033-01-01	PT Station Gas	4.619971348	Multiply					
+PT Hydro Price l50 p3			Value	2010-01-01	2033-01-01	PT Station Gas	5.76282849	Multiply					
+PT Hydro Price l50 p4			Value	2010-01-01	2033-01-01	PT Station Gas	7.548542776	Multiply					
+PT Hydro Price l50 p5			Value	2010-01-01	2033-01-01	PT Station Gas	35.71428571	Multiply					
+PT Hydro Price l60 p1			Value	2010-01-01	2033-01-01	20.01							
+PT Hydro Price l60 p2			Value	2010-01-01	2033-01-01	PT Station Gas	4.072876229	Multiply					
+PT Hydro Price l60 p3			Value	2010-01-01	2033-01-01	PT Station Gas	5.215733372	Multiply					
+PT Hydro Price l60 p4			Value	2010-01-01	2033-01-01	PT Station Gas	7.001447658	Multiply					
+PT Hydro Price l60 p5			Value	2010-01-01	2033-01-01	PT Station Gas	35.71428571	Multiply					
+PT Hydro Price l70 p1			Value	2010-01-01	2033-01-01	20.01							
+PT Hydro Price l70 p2			Value	2010-01-01	2033-01-01	PT Station Gas	3.414820315	Multiply					
+PT Hydro Price l70 p3			Value	2010-01-01	2033-01-01	PT Station Gas	4.557677458	Multiply					
+PT Hydro Price l70 p4			Value	2010-01-01	2033-01-01	PT Station Gas	6.343391744	Multiply					
+PT Hydro Price l70 p5			Value	2010-01-01	2033-01-01	PT Station Gas	35.71428571	Multiply					
+PT Hydro Price l80 p1			Value	2010-01-01	2033-01-01	20.01							
+PT Hydro Price l80 p2			Value	2010-01-01	2033-01-01	PT Station Gas	1.772021429	Multiply					
+PT Hydro Price l80 p3			Value	2010-01-01	2033-01-01	PT Station Gas	2.914878572	Multiply					
+PT Hydro Price l80 p4			Value	2010-01-01	2033-01-01	PT Station Gas	4.700592858	Multiply					
+PT Hydro Price l80 p5			Value	2010-01-01	2033-01-01	PT Station Gas	35.71428571	Multiply					
+PT Hydro Price l90 p1			Value	2010-01-01	2033-01-01	20.01							
+PT Hydro Price l90 p2			Value	2010-01-01	2033-01-01	PT Station Gas	0.789775668	Multiply					
+PT Hydro Price l90 p3			Value	2010-01-01	2033-01-01	PT Station Gas	1.932632811	Multiply					
+PT Hydro Price l90 p4			Value	2010-01-01	2033-01-01	PT Station Gas	3.718347096	Multiply					
+PT Hydro Price l90 p5			Value	2010-01-01	2033-01-01	PT Station Gas	35.71428571	Multiply					
+PT Hydro Price l100 p1			Value	2010-01-01	2033-01-01	20.01							
+PT Hydro Price l100 p2			Value	2010-01-01	2033-01-01	PT Station Gas	0.146918525	Multiply					
+PT Hydro Price l100 p3			Value	2010-01-01	2033-01-01	PT Station Gas	0.146918525	Multiply					
+PT Hydro Price l100 p4			Value	2010-01-01	2033-01-01	PT Station Gas	3.6	Multiply					
+PT Hydro Price l100 p5			Value	2010-01-01	2033-01-01	PT Station Gas	6.2	Multiply					
+PT Hydro Price l10 p1			Value	2033-01-01	2100-01-01	20.01							
+PT Hydro Price l10 p2			Value	2033-01-01	2100-01-01	PT GH2	35.71428571	Multiply					
+PT Hydro Price l10 p3			Value	2033-01-01	2100-01-01	PT GH2	35.71428571	Multiply					
+PT Hydro Price l10 p4			Value	2033-01-01	2100-01-01	PT GH2	35.71428571	Multiply					
+PT Hydro Price l10 p5			Value	2033-01-01	2100-01-01	PT GH2	35.71428571	Multiply					
+PT Hydro Price l20 p1			Value	2033-01-01	2100-01-01	20.01							
+PT Hydro Price l20 p2			Value	2033-01-01	2100-01-01	PT GH2	35.71428571	Multiply					
+PT Hydro Price l20 p3			Value	2033-01-01	2100-01-01	PT GH2	35.71428571	Multiply					
+PT Hydro Price l20 p4			Value	2033-01-01	2100-01-01	PT GH2	35.71428571	Multiply					
+PT Hydro Price l20 p5			Value	2033-01-01	2100-01-01	PT GH2	35.71428571	Multiply					
+PT Hydro Price l30 p1			Value	2033-01-01	2100-01-01	20.01							
+PT Hydro Price l30 p2			Value	2033-01-01	2100-01-01	PT GH2	2.5	Multiply					
+PT Hydro Price l30 p3			Value	2033-01-01	2100-01-01	PT GH2	3.5	Multiply					
+PT Hydro Price l30 p4			Value	2033-01-01	2100-01-01	PT GH2	5	Multiply					
+PT Hydro Price l30 p5			Value	2033-01-01	2100-01-01	PT GH2	9	Multiply					
+PT Hydro Price l40 p1			Value	2033-01-01	2100-01-01	20.01							
+PT Hydro Price l40 p2			Value	2033-01-01	2100-01-01	PT GH2	5.054088362	Multiply					
+PT Hydro Price l40 p3			Value	2033-01-01	2100-01-01	PT GH2	6.196945505	Multiply					
+PT Hydro Price l40 p4			Value	2033-01-01	2100-01-01	PT GH2	7.982659791	Multiply					
+PT Hydro Price l40 p5			Value	2033-01-01	2100-01-01	PT GH2	35.71428571	Multiply					
+PT Hydro Price l50 p1			Value	2033-01-01	2100-01-01	20.01							
+PT Hydro Price l50 p2			Value	2033-01-01	2100-01-01	PT GH2	4.619971348	Multiply					
+PT Hydro Price l50 p3			Value	2033-01-01	2100-01-01	PT GH2	5.76282849	Multiply					
+PT Hydro Price l50 p4			Value	2033-01-01	2100-01-01	PT GH2	7.548542776	Multiply					
+PT Hydro Price l50 p5			Value	2033-01-01	2100-01-01	PT GH2	35.71428571	Multiply					
+PT Hydro Price l60 p1			Value	2033-01-01	2100-01-01	20.01							
+PT Hydro Price l60 p2			Value	2033-01-01	2100-01-01	PT GH2	4.072876229	Multiply					
+PT Hydro Price l60 p3			Value	2033-01-01	2100-01-01	PT GH2	5.215733372	Multiply					
+PT Hydro Price l60 p4			Value	2033-01-01	2100-01-01	PT GH2	7.001447658	Multiply					
+PT Hydro Price l60 p5			Value	2033-01-01	2100-01-01	PT GH2	35.71428571	Multiply					
+PT Hydro Price l70 p1			Value	2033-01-01	2100-01-01	20.01							
+PT Hydro Price l70 p2			Value	2033-01-01	2100-01-01	PT GH2	3.414820315	Multiply					
+PT Hydro Price l70 p3			Value	2033-01-01	2100-01-01	PT GH2	4.557677458	Multiply					
+PT Hydro Price l70 p4			Value	2033-01-01	2100-01-01	PT GH2	6.343391744	Multiply					
+PT Hydro Price l70 p5			Value	2033-01-01	2100-01-01	PT GH2	35.71428571	Multiply					
+PT Hydro Price l80 p1			Value	2033-01-01	2100-01-01	20.01							
+PT Hydro Price l80 p2			Value	2033-01-01	2100-01-01	PT GH2	1.772021429	Multiply					
+PT Hydro Price l80 p3			Value	2033-01-01	2100-01-01	PT GH2	2.914878572	Multiply					
+PT Hydro Price l80 p4			Value	2033-01-01	2100-01-01	PT GH2	4.700592858	Multiply					
+PT Hydro Price l80 p5			Value	2033-01-01	2100-01-01	PT GH2	35.71428571	Multiply					
+PT Hydro Price l90 p1			Value	2033-01-01	2100-01-01	20.01							
+PT Hydro Price l90 p2			Value	2033-01-01	2100-01-01	PT GH2	0.789775668	Multiply					
+PT Hydro Price l90 p3			Value	2033-01-01	2100-01-01	PT GH2	1.932632811	Multiply					
+PT Hydro Price l90 p4			Value	2033-01-01	2100-01-01	PT GH2	3.718347096	Multiply					
+PT Hydro Price l90 p5			Value	2033-01-01	2100-01-01	PT GH2	35.71428571	Multiply					
+PT Hydro Price l100 p1			Value	2033-01-01	2100-01-01	20.01							
+PT Hydro Price l100 p2			Value	2033-01-01	2100-01-01	PT GH2	0.146918525	Multiply					
+PT Hydro Price l100 p3			Value	2033-01-01	2100-01-01	PT GH2	0.146918525	Multiply					
+PT Hydro Price l100 p4			Value	2033-01-01	2100-01-01	PT GH2	3.6	Multiply					
+PT Hydro Price l100 p5			Value	2033-01-01	2100-01-01	PT GH2	6.2	Multiply					

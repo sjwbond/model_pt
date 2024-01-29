@@ -1,0 +1,141 @@
+Object_Name	Object_Type
+PT Coal 1990	Generator
+PT Coal 1995	Generator
+PT Coal 2000	Generator
+PT Coal 2005	Generator
+PT Coal 2010	Generator
+PT Coal 2015	Generator
+PT Coal 2020	Generator
+PT Coal 2025	Generator
+PT Coal 2030	Generator
+PT Coal 2035	Generator
+PT Coal 2040	Generator
+PT Coal 2045	Generator
+PT Coal 2050	Generator
+PT Coal 2055	Generator
+PT Coal 2060	Generator
+PT Coal 2065	Generator
+PT CCGT 1990	Generator
+PT CCGT 1995	Generator
+PT CCGT 2000	Generator
+PT CCGT 2005	Generator
+PT CCGT 2010	Generator
+PT CCGT 2015	Generator
+PT CCGT 2020	Generator
+PT CCGT 2025	Generator
+PT CCGT 2030	Generator
+PT CCGT 2031	Generator
+PT CCGT 2032	Generator
+PT CCGT 2033	Generator
+PT CCGT 2034	Generator
+PT CCGT 2035	Generator
+PT CCGT 2036	Generator
+PT CCGT 2037	Generator
+PT CCGT 2038	Generator
+PT CCGT 2039	Generator
+PT CCGT 2040	Generator
+PT CCGT 2045	Generator
+PT CCGT 2050	Generator
+PT CCGT 2055	Generator
+PT CCGT 2060	Generator
+PT CCGT 2065	Generator
+PT OCGT 1990	Generator
+PT OCGT 1995	Generator
+PT OCGT 2000	Generator
+PT OCGT 2005	Generator
+PT OCGT 2010	Generator
+PT OCGT 2015	Generator
+PT OCGT 2020	Generator
+PT OCGT 2025	Generator
+PT OCGT 2030	Generator
+PT OCGT 2035	Generator
+PT OCGT 2040	Generator
+PT OCGT 2045	Generator
+PT OCGT 2050	Generator
+PT OCGT 2055	Generator
+PT OCGT 2060	Generator
+PT OCGT 2065	Generator
+PT Biomass 1990	Generator
+PT Biomass 1995	Generator
+PT Biomass 2000	Generator
+PT Biomass 2005	Generator
+PT Biomass 2010	Generator
+PT Biomass 2015	Generator
+PT Biomass 2020	Generator
+PT Biomass 2025	Generator
+PT Biomass 2030	Generator
+PT Biomass 2035	Generator
+PT Biomass 2040	Generator
+PT Biomass 2045	Generator
+PT Biomass 2050	Generator
+PT Biomass 2055	Generator
+PT Biomass 2060	Generator
+PT Biomass 2065	Generator
+PT Lignite 1990	Generator
+PT Lignite 1995	Generator
+PT Lignite 2000	Generator
+PT Lignite 2005	Generator
+PT Lignite 2010	Generator
+PT Lignite 2015	Generator
+PT Lignite 2020	Generator
+PT Lignite 2025	Generator
+PT Lignite 2030	Generator
+PT Lignite 2035	Generator
+PT Lignite 2040	Generator
+PT Lignite 2045	Generator
+PT Lignite 2050	Generator
+PT Lignite 2055	Generator
+PT Lignite 2060	Generator
+PT Lignite 2065	Generator
+PT Nuclear 1990	Generator
+PT Nuclear 1995	Generator
+PT Nuclear 2000	Generator
+PT Nuclear 2005	Generator
+PT Nuclear 2010	Generator
+PT Nuclear 2015	Generator
+PT Nuclear 2020	Generator
+PT CHP 1990	Generator
+PT CHP 1995	Generator
+PT CHP 2000	Generator
+PT CHP 2005	Generator
+PT CHP 2010	Generator
+PT CHP 2015	Generator
+PT CHP 2020	Generator
+PT CHP 2025	Generator
+PT CHP 2030	Generator
+PT CHP 2035	Generator
+PT CHP 2040	Generator
+PT CHP 2045	Generator
+PT CHP 2050	Generator
+PT CHP 2055	Generator
+PT CHP 2060	Generator
+PT CHP 2065	Generator
+PT Liquid 1990	Generator
+PT Liquid 1995	Generator
+PT Liquid 2000	Generator
+PT Liquid 2005	Generator
+PT Liquid 2010	Generator
+PT Liquid 2015	Generator
+PT Liquid 2020	Generator
+PT Liquid 2025	Generator
+PT Liquid 2030	Generator
+PT Liquid 2035	Generator
+PT Liquid 2040	Generator
+PT Liquid 2045	Generator
+PT Liquid 2050	Generator
+PT Liquid 2055	Generator
+PT Liquid 2060	Generator
+PT Liquid 2065	Generator
+PT Lares I Power Station 	Generator
+PT Lares II Power Station 	Generator
+PT Pego I Power Station 	Generator
+PT Pego II Power Station 	Generator
+PT Pego III Power Station 	Generator
+PT Ribatejo Power Station I	Generator
+PT Ribatejo Power Station II	Generator
+PT Sines Power Station 	Generator
+PT Tapado do Outeiro I	Generator
+PT Tapado do Outeiro II	Generator
+PT Tunes Power Station 	Generator
+PT_H2_CCGT	Generator
+PT_H2_OCGT	Generator

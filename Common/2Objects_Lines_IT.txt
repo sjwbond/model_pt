@@ -1,0 +1,13 @@
+Object_Name	Object_Type
+ITNO-ITCN	Line
+ITCN-ITNO	Line
+ITCN-ITCS	Line
+ITCS-ITCN	Line
+ITCS-ITSO	Line
+ITSO-ITCS	Line
+ITSO-ITSI	Line
+ITSI-ITSO	Line
+ITCN-ITSA	Line
+ITSA-ITCN	Line
+ITNO-CH	Line
+CH-ITNO	Line
